@@ -150,21 +150,22 @@ DTSTAMP:20261116T000000Z
 UID:88ee106539f9c6027cb6@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
- s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\n\nTfL l
- ive status (Planned Closure\, checked 18 November 2026): LONDON UNDERGROUN
- D: Christmas Day\, 25 December\, no service on any line. Services resume o
- n Boxing Day morning to a revised Sunday timetable. No Night Tube services
-  operate on Christmas Eve or Boxing Day.\nTfL live status (Part Closure\, 
- checked 18 November 2026): PICCADILLY LINE: Christmas Eve\, 24 December\, 
- no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE
-  services instead.\nTfL live status (Part Closure\, checked 18 November 20
- 26): PICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 January\, no se
- rvice between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE serv
- ices instead.\n\nSource: TfL planned track closures\, correct at Monday 16
-  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
- d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\nTfL's P
+ DF lists this closure in more than one week\; it's shown here as one event
+ .\n\nTfL live status (Planned Closure\, checked 18 November 2026): LONDON 
+ UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Service
+ s resume on Boxing Day morning to a revised Sunday timetable. No Night Tub
+ e services operate on Christmas Eve or Boxing Day.\nTfL live status (Part 
+ Closure\, checked 18 November 2026): PICCADILLY LINE: Christmas Eve\, 24 D
+ ecember\, no service between Rayners Lane and Uxbridge. Please use METROPO
+ LITAN LINE services instead.\nTfL live status (Part Closure\, checked 18 N
+ ovember 2026): PICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 Janua
+ ry\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN
+  LINE services instead.\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -186,27 +187,6 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
  heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
  official calendar\, not affiliated with TfL.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🚧 Piccadilly: Rayners Lane to Uxbridge
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20270104
-DTSTAMP:20261116T000000Z
-UID:d0f7c7b63ad7dd873555@tfl-closures
-CATEGORIES:Part of the line closed
-DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
- s as listed by TfL: Monday 28 December to Sunday 3 January 2027\n\nTfL liv
- e status (Part Closure\, checked 18 November 2026): PICCADILLY LINE: Boxin
- g Day\, 26 December to Sunday 3 January\, no service between Rayners Lane 
- and Uxbridge. Please use METROPOLITAN LINE services instead.\n\nSource: Tf
- L planned track closures\, correct at Monday 16 November 2026. https://tfl
- .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
- de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

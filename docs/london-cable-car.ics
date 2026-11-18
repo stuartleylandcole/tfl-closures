@@ -266,28 +266,13 @@ DTSTAMP:20261116T000000Z
 UID:0254a7a8e4ff83f60edd@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service\nDates as listed by TfL: T
- uesday 2 March to Thursday 11 March 2027\n\nSource: TfL planned track clos
- ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
- /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
- ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⛔ IFS Cloud Cable Car: No service
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270312
-DTSTAMP:20261116T000000Z
-UID:7cfb306c70957e85646c@tfl-closures
-CATEGORIES:Whole line closed
-DESCRIPTION:⛔ Whole line closed\n\nNo service\nDates as listed by TfL: M
- onday 8 March to Thursday 11 March 2027\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ uesday 2 March to Thursday 11 March 2027\nTfL's PDF lists this closure in 
+ more than one week\; it's shown here as one event.\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

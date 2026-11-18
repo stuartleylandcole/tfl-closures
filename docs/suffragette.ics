@@ -100,47 +100,22 @@ UID:1d2cc61cc8e9c3340c6b@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWoodgrange Park to Barking Riv
  erside\nDates as listed by TfL: Sunday 27 December to Tuesday 29 December 
- 2026\n\nTfL live status (Part Closure\, checked 18 November 2026): SUFFRAG
- ETTE LINE: Sunday 27\, Monday 28 and Tuesday 29 December\, no service betw
- een Woodgrange Park and Barking Riverside. Replacement bus service T opera
- tes between Woodgrange Park\, East Ham and Barking\, use local London Buse
- s services for Barking Riverside.\nTfL live status (Reduced Service\, chec
- ked 18 November 2026): SUFFRAGETTE LINE: Sunday 27\, Monday 28 and Tuesday
-  29 December\, a reduced service operates between Gospel Oak and Woodgrang
- e Park. Trains operate every 20 minutes. In addition\, on Monday only\, th
- e 0543 and 0557 first trains from Woodgrange Park to Gospel Oak will not r
- un\, please use the 0612 service instead.\n\nSource: TfL planned track clo
- sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
- t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
- cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
- -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🚧 Suffragette line: Woodgrange Park to Barking Riverside
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261230
-DTSTAMP:20261116T000000Z
-UID:4f7453282693401423d6@tfl-closures
-CATEGORIES:Part of the line closed
-DESCRIPTION:🚧 Part of the line closed\n\nWoodgrange Park to Barking Riv
- erside\nDates as listed by TfL: Monday 28 December to Tuesday 29 December 
- 2026\n\nTfL live status (Part Closure\, checked 18 November 2026): SUFFRAG
- ETTE LINE: Sunday 27\, Monday 28 and Tuesday 29 December\, no service betw
- een Woodgrange Park and Barking Riverside. Replacement bus service T opera
- tes between Woodgrange Park\, East Ham and Barking\, use local London Buse
- s services for Barking Riverside.\nTfL live status (Reduced Service\, chec
- ked 18 November 2026): SUFFRAGETTE LINE: Sunday 27\, Monday 28 and Tuesday
-  29 December\, a reduced service operates between Gospel Oak and Woodgrang
- e Park. Trains operate every 20 minutes. In addition\, on Monday only\, th
- e 0543 and 0557 first trains from Woodgrange Park to Gospel Oak will not r
- un\, please use the 0612 service instead.\n\nSource: TfL planned track clo
- sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
- t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
- cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
- -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ 2026\nTfL's PDF lists this closure in more than one week\; it's shown here
+  as one event.\n\nTfL live status (Part Closure\, checked 18 November 2026
+ ): SUFFRAGETTE LINE: Sunday 27\, Monday 28 and Tuesday 29 December\, no se
+ rvice between Woodgrange Park and Barking Riverside. Replacement bus servi
+ ce T operates between Woodgrange Park\, East Ham and Barking\, use local L
+ ondon Buses services for Barking Riverside.\nTfL live status (Reduced Serv
+ ice\, checked 18 November 2026): SUFFRAGETTE LINE: Sunday 27\, Monday 28 a
+ nd Tuesday 29 December\, a reduced service operates between Gospel Oak and
+  Woodgrange Park. Trains operate every 20 minutes. In addition\, on Monday
+  only\, the 0543 and 0557 first trains from Woodgrange Park to Gospel Oak 
+ will not run\, please use the 0612 service instead.\n\nSource: TfL planned
+  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/a
+ pi/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b
+ 8f&type=document\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wi
+ th TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

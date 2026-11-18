@@ -165,44 +165,20 @@ DTSTAMP:20261116T000000Z
 UID:d1a628f6b27fce619f57@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nMoorgate to Barking\nDates as 
- listed by TfL: Saturday 26 December to Tuesday 29 December 2026\n\nTfL liv
- e status (Part Closure\, checked 18 November 2026): HAMMERSMITH & CITY LIN
- E: Boxing Day\, 26 December to Tuesday 29 December\, no service between Mo
- orgate and Barking. There will also be no DISTRICT LINE service between Ea
- st Ham and Barking / Upney. c2c services will not operate on Boxing Day bu
- t operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Up
- minster on other days (no trains to/from Liverpool Street). Replacement bu
- s service DL7 operates between East Ham\, Barking and Upney.\n\nSource: Tf
- L planned track closures\, correct at Monday 16 November 2026. https://tfl
- .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
- de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🚧 Hammersmith & City: Moorgate to Barking
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261230
-DTSTAMP:20261116T000000Z
-UID:758a30459e227459a7b6@tfl-closures
-CATEGORIES:Part of the line closed
-DESCRIPTION:🚧 Part of the line closed\n\nMoorgate to Barking\nDates as 
- listed by TfL: Monday 28 December to Tuesday 29 December 2026\n\nTfL live 
- status (Part Closure\, checked 18 November 2026): HAMMERSMITH & CITY LINE:
-  Boxing Day\, 26 December to Tuesday 29 December\, no service between Moor
- gate and Barking. There will also be no DISTRICT LINE service between East
-  Ham and Barking / Upney. c2c services will not operate on Boxing Day but 
- operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upmi
- nster on other days (no trains to/from Liverpool Street). Replacement bus 
- service DL7 operates between East Ham\, Barking and Upney.\n\nSource: TfL 
- planned track closures\, correct at Monday 16 November 2026. https://tfl.g
- ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
- 08a097b8f&type=document\nPlans can change. Check before you travel: https:
- //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
- ated with TfL.
+ listed by TfL: Saturday 26 December to Tuesday 29 December 2026\nTfL's PDF
+  lists this closure in more than one week\; it's shown here as one event.
+ \n\nTfL live status (Part Closure\, checked 18 November 2026): HAMMERSMITH
+  & CITY LINE: Boxing Day\, 26 December to Tuesday 29 December\, no service
+  between Moorgate and Barking. There will also be no DISTRICT LINE service
+  between East Ham and Barking / Upney. c2c services will not operate on Bo
+ xing Day but operate between Fenchurch Street\, Limehouse\, West Ham\, Bar
+ king and Upminster on other days (no trains to/from Liverpool Street). Rep
+ lacement bus service DL7 operates between East Ham\, Barking and Upney.\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
