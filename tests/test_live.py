@@ -31,6 +31,8 @@ def test_matching_adds_live_notes_and_strikes_stay_separate():
     assert all(e.live_notes for e in events if e.line_id == "weaver")
     strikes = [e for e in extra if e.kind == LIVE and "strike" in e.title.lower()]
     assert {e.line_id for e in strikes} == {"bakerloo", "circle", "district"}
+    assert strikes[0].title == "📢 Bakerloo: Strike planned, services may be disrupted"
+    assert "Tube strike by some London Underground drivers" in strikes[0].sections[0]
 
 
 def test_unmatched_soon_closure_is_flagged():

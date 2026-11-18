@@ -147,7 +147,9 @@ def merge(events: list[Event], items: list[LiveItem], today: date,
             if e.date() < today:
                 continue
             new_events.append(Event(
-                line_id=it.line_id, kind=LIVE, title_text=_short_reason(it.reason) or it.severity_text,
+                line_id=it.line_id, kind=LIVE,
+                title_text=("Strike planned, services may be disrupted" if it.is_strike
+                            else _short_reason(it.reason) or it.severity_text),
                 window=Window(s, e, False), sections=[it.reason], notes=[],
                 row_dates=f"{s:%a %-d %b %H:%M} to {e:%a %-d %b %H:%M}",
                 live_notes=[f"From TfL's live status ({it.severity_text}), checked {checked}."],
