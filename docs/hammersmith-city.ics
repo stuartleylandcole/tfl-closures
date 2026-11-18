@@ -31,12 +31,12 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:40985777e78dacfacc04@tfl-closures
+UID:d12a57f09840a289bd30@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -75,12 +75,12 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:296f41c9893a0f1b65ec@tfl-closures
+UID:8ce06df471eb2f94d30e@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -96,12 +96,12 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:b8ae7606a46d14ad07d2@tfl-closures
+UID:16cb7d9b4aab655582d7@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure

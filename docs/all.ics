@@ -382,12 +382,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Bakerloo: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:b99cc95fb896848dfa89@tfl-closures
+UID:6dd30734f6795bb3de4f@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -403,12 +402,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Central: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Central: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:1fe565a9852a853ca5cd@tfl-closures
+UID:406fd494865a7a5063fd@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -424,12 +422,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Circle: Some London Underground Tube drivers are planning to 
- take strike action from 12:00…
+SUMMARY:📢 Circle: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:d410abe9c3469ff64dba@tfl-closures
+UID:f5792d1c83bbf22862d6@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -445,12 +442,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 District: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 District: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:1e9568e3c4ecf2cd6149@tfl-closures
+UID:146f3600d1510abac5ab@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -466,12 +462,12 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:40985777e78dacfacc04@tfl-closures
+UID:d12a57f09840a289bd30@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -487,12 +483,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:1b2f3c2b12c303af7114@tfl-closures
+UID:c9bed1ad23721dbc7e20@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -508,12 +503,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Some London Underground Tube drivers are planni
- ng to take strike action from 12:00…
+SUMMARY:📢 Metropolitan: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:c69dee052d37972a41cb@tfl-closures
+UID:1d7197e89f3e26e73ba1@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -529,12 +523,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Northern: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:4d27914113027086fe51@tfl-closures
+UID:7504d0bf4ccd0febadab@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -550,12 +543,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
-  to take strike action from 12:00…
+SUMMARY:📢 Piccadilly: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:c89960386b4d68176759@tfl-closures
+UID:ff4970eb22fb657b21e3@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -571,12 +563,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Victoria: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Victoria: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:2ce7ab9ef2b95e30edea@tfl-closures
+UID:04a80a5dba111b88b352@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -592,12 +583,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
- nning to take strike action from 12:00…
+SUMMARY:📢 Waterloo & City: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:5de878c146e7572310f8@tfl-closures
+UID:b6fc14de27957dc008f1@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1795,12 +1785,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Bakerloo: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:932d86e021fa9eb9f073@tfl-closures
+UID:b085a9474ec70665a764@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1816,12 +1805,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Central: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Central: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:71ce7aed4bfc910ea639@tfl-closures
+UID:1a74eeb76541136af586@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1837,12 +1825,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Circle: Some London Underground Tube drivers are planning to 
- take strike action from 12:00…
+SUMMARY:📢 Circle: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:6abbc1f362caaa1e820c@tfl-closures
+UID:86bbfab3cc7f298a1d39@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1858,12 +1845,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 District: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 District: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:ab57df198efb5e346a00@tfl-closures
+UID:5eb0ef90c39dc31e75bd@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1879,12 +1865,12 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:296f41c9893a0f1b65ec@tfl-closures
+UID:8ce06df471eb2f94d30e@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1900,12 +1886,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:2f4cf3789f70d0261879@tfl-closures
+UID:940474b19f0fccac7ee9@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1921,12 +1906,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Some London Underground Tube drivers are planni
- ng to take strike action from 12:00…
+SUMMARY:📢 Metropolitan: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:fa15b0b4f5b77fc3304b@tfl-closures
+UID:6ed43b58c36e4c16c180@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1942,12 +1926,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Northern: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:0001e1477d136680bf64@tfl-closures
+UID:1e68a94fac3236564fe8@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1963,12 +1946,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
-  to take strike action from 12:00…
+SUMMARY:📢 Piccadilly: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:0b75766b5940afc7f70f@tfl-closures
+UID:204294144e5344e3b50b@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -1984,12 +1966,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Victoria: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Victoria: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:314a1a6ff85a7debc3e3@tfl-closures
+UID:6e9a89863af77cb42114@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2005,12 +1986,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
- nning to take strike action from 12:00…
+SUMMARY:📢 Waterloo & City: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:1203218f161503d716b7@tfl-closures
+UID:0ba2210e4401c62eef1c@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2080,12 +2060,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Bakerloo: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:7e568cf4cbf7f63c2676@tfl-closures
+UID:77993bf24b02831ad285@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2101,12 +2080,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Central: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Central: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:6cfadf668c80431bf039@tfl-closures
+UID:b6ea52b5bf667eca22c4@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2122,12 +2100,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Circle: Some London Underground Tube drivers are planning to 
- take strike action from 12:00…
+SUMMARY:📢 Circle: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:d41bc27f511969e9765b@tfl-closures
+UID:8706c367550a316c1762@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2143,12 +2120,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 District: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 District: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:7e08a53c5ab3a0a26186@tfl-closures
+UID:8f8cfde92da259e53150@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2164,12 +2140,12 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
- planning to take strike action from 12:00…
+SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
+ d
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:b8ae7606a46d14ad07d2@tfl-closures
+UID:16cb7d9b4aab655582d7@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2185,12 +2161,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:dfcc1fc76193ba66cb4e@tfl-closures
+UID:9016073af55fceb90614@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2206,12 +2181,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Some London Underground Tube drivers are planni
- ng to take strike action from 12:00…
+SUMMARY:📢 Metropolitan: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:f40991b5643f72d76cd6@tfl-closures
+UID:09093938f94da7685bce@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2227,12 +2201,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Northern: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:de4b68769b1518b8bd90@tfl-closures
+UID:86cdd96715100c493e12@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2248,12 +2221,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
-  to take strike action from 12:00…
+SUMMARY:📢 Piccadilly: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:6afc7e5675eecbef9160@tfl-closures
+UID:fc1999ec63f3069c143d@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2269,12 +2241,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Victoria: Some London Underground Tube drivers are planning t
- o take strike action from 12:00…
+SUMMARY:📢 Victoria: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:f282b7df77ccfcade9cd@tfl-closures
+UID:f51c9cd4f43fa654aabc@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -2290,12 +2261,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
- nning to take strike action from 12:00…
+SUMMARY:📢 Waterloo & City: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:f68e44e828c020445cfd@tfl-closures
+UID:7317c0793936731efda5@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure

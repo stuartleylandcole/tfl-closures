@@ -31,12 +31,11 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:1b2f3c2b12c303af7114@tfl-closures
+UID:c9bed1ad23721dbc7e20@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -52,12 +51,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
 DTSTAMP:20261116T000000Z
-UID:2f4cf3789f70d0261879@tfl-closures
+UID:940474b19f0fccac7ee9@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
@@ -73,12 +71,11 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Jubilee: Some London Underground Tube drivers are planning to
-  take strike action from 12:00…
+SUMMARY:📢 Jubilee: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261219T120000
 DTEND;TZID=Europe/London:20261220T115900
 DTSTAMP:20261116T000000Z
-UID:dfcc1fc76193ba66cb4e@tfl-closures
+UID:9016073af55fceb90614@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
