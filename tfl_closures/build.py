@@ -28,7 +28,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 from . import live
-from .events import events_from_row
+from .events import events_from_row, merge_repeats
 from .feeds import write_feeds
 from .page import render
 from .pdf_parser import parse_pdf
@@ -168,6 +168,7 @@ def main(argv: list[str] | None = None) -> int:
             unreadable.append(f"p{row.page}: {row.line_label!r} {row.start_raw!r} {row.description!r}")
         warnings.extend(f"p{row.page} {row.line_label}: {w}" for w in row.warnings)
         events.extend(evs)
+    events = merge_repeats(events)
     pdf_event_count = len(events)
 
     # 3. Safety checks (only matter when the PDF has changed)

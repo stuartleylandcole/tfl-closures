@@ -257,3 +257,39 @@ def events_from_row(row: Row) -> list[Event]:
                 sections=[s for _, s in items], notes=notes,
                 row_dates=_fmt_range(row.start, end), warnings=list(row.warnings)))
     return events
+
+
+REPEAT_NOTE = "TfL's PDF lists this closure in more than one week; it's shown here as one event."
+
+
+def merge_repeats(events: list[Event]) -> list[Event]:
+    """Combine closures that TfL lists in more than one week.
+
+    The PDF is arranged by week, so a closure running from Saturday 26 December
+    to Sunday 3 January appears in the week of 21 December *and* again in the
+    week of 28 December (as Monday 28 December to Sunday 3 January). Events on
+    the same line with the same wording whose dates overlap or touch become one.
+    """
+    out: list[Event] = []
+    groups: dict[tuple, list[Event]] = {}
+    for ev in events:
+        groups.setdefault((ev.line_id, ev.kind, _norm(ev.title_text), ev.window.all_day), []).append(ev)
+    for evs in groups.values():
+        evs.sort(key=lambda e: e.window.bounds()[0])
+        merged = [evs[0]]
+        for ev in evs[1:]:
+            cur = merged[-1]
+            w, c = ev.window, cur.window
+            if w.all_day and w.start <= c.end + timedelta(days=1):
+                if w.end > c.end:
+                    cur.window = Window(c.start, w.end, True)
+                cur.row_dates = _fmt_range(cur.window.start, cur.window.end)
+                cur.warnings += [x for x in ev.warnings if x not in cur.warnings]
+                if REPEAT_NOTE not in cur.notes:
+                    cur.notes = cur.notes + [REPEAT_NOTE]
+            elif not w.all_day and w.key() == c.key():
+                continue   # exact repeat of a timed window
+            else:
+                merged.append(ev)
+        out.extend(merged)
+    return sorted(out, key=lambda e: (e.window.bounds()[0], e.line_id, e.title))
