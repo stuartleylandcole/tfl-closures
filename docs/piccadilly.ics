@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Piccadilly from TfL's published list\,
+  plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Piccadilly from TfL's published list,
+  plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Piccadilly
+X-WR-CALNAME:TfL closures: Piccadilly
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#003688
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:⚠️ Piccadilly: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:23f3e22b09064af983e8@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Rayners Lane to Uxbridge
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:88ee106539f9c6027cb6@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
+ s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Piccadilly: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:e8e637ba24f2d3771e77@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Rayners Lane to Uxbridge
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:d0f7c7b63ad7dd873555@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
+ s as listed by TfL: Monday 28 December to Sunday 3 January 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Acton Town to Uxbridge
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:29820c0c092c273033a9@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nActon Town to Uxbridge\nDates 
+ as listed by TfL: Saturday 16 January to Sunday 17 January 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Piccadilly: Hammersmith to Heathrow during Friday Night Tube
+DTSTART;TZID=Europe/London:20270130T003000
+DTEND;TZID=Europe/London:20270130T053000
+DTSTAMP:20261116T000000Z
+UID:abc62aaa0eab46aa9504@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHammersm
+ ith to Heathrow during Friday Night Tube\nDates as listed by TfL: Saturday
+  30 January 2027\n\nSource: TfL planned track closures\, correct at Monday
+  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pd
+ f?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change.
+  Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\n
+ Unofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Acton Town to Heathrow and Rayners Lane to Uxbrid
+ ge
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:f11929ca11da9d82f7b8@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nActon Town to Heathrow and Ray
+ ners Lane to Uxbridge\nDates as listed by TfL: Saturday 30 January to Sund
+ ay 31 January 2027\n\n⚠️ TfL's PDF says 'Sunday 30 January'\, but 30 J
+ anuary 2027 is a Saturday. Assumed Sunday 31 January.\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Piccadilly: King's Cross St Pancras to Cockfosters during Fri
+ day Night Tube
+DTSTART;TZID=Europe/London:20270227T003000
+DTEND;TZID=Europe/London:20270227T053000
+DTSTAMP:20261116T000000Z
+UID:f6c9f0c36c220e1006de@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nKing's C
+ ross St Pancras to Cockfosters during Friday Night Tube\nDates as listed b
+ y TfL: Friday 26 February to Saturday 27 February 2027\n\nSource: TfL plan
+ ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
+ k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
+ 97b8f&type=document\nPlans can change. Check before you travel: https://tf
+ l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
+  with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Wood Green to Cockfosters\; Rayners Lane to Uxbri
+ dge
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20261116T000000Z
+UID:3775ba33a5a5dce5e959@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWood Green to Cockfosters\nRay
+ ners Lane to Uxbridge\nDates as listed by TfL: Saturday 27 February to Sun
+ day 28 February 2027\n\nSource: TfL planned track closures\, correct at Mo
+ nday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosure
+ s.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can cha
+ nge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/statu
+ s/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Cockfosters to Heathrow\, including during Saturd
+ ay Night Tube
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261116T000000Z
+UID:7474f0e30c1038c3a841@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCockfosters to Heathrow\, incl
+ uding during Saturday Night Tube\nDates as listed by TfL: Saturday 6 March
+  to Sunday 7 March 2027\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Piccadilly: Hammersmith to Heathrow\, during Friday Night Tub
+ e only
+DTSTART;TZID=Europe/London:20270320T003000
+DTEND;TZID=Europe/London:20270320T053000
+DTSTAMP:20261116T000000Z
+UID:fe85b4b8e49676aecf97@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHammersm
+ ith to Heathrow\, during Friday Night Tube only\nDates as listed by TfL: F
+ riday 19 March to Saturday 20 March 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Acton Town to Heathrow\, including during Saturda
+ y Night Tube\; Rayners Lane to Uxbridge
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261116T000000Z
+UID:ecf76f15f4f2c4b6f046@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nActon Town to Heathrow\, inclu
+ ding during Saturday Night Tube\nRayners Lane to Uxbridge\nDates as listed
+  by TfL: Saturday 20 March to Sunday 21 March 2027\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Acton Town to Heathrow\, including during Friday 
+ and Saturday Night Tube\; Rayners Lane to Uxbridge
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20261116T000000Z
+UID:9e70f49c60478acd69fe@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nActon Town to Heathrow\, inclu
+ ding during Friday and Saturday Night Tube\nRayners Lane to Uxbridge\nDate
+ s as listed by TfL: Friday 26 March to Monday 29 March 2027\n\nSource: TfL
+  planned track closures\, correct at Monday 16 November 2026. https://tfl.
+ gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3d
+ e08a097b8f&type=document\nPlans can change. Check before you travel: https
+ ://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affil
+ iated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Piccadilly: No service on the entire line\, including Friday a
+ nd Saturday Night Tube
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261116T000000Z
+UID:3ea4e069ac59f0861557@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\, inclu
+ ding Friday and Saturday Night Tube\nDates as listed by TfL: Saturday 10 A
+ pril to Sunday 11 April 2027\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Piccadilly: Earl's Court station: Trains will not stop afte
+ r 03:15 during Friday Night Tube
+DTSTART;TZID=Europe/London:20270417T031500
+DTEND;TZID=Europe/London:20270417T053000
+DTSTAMP:20261116T000000Z
+UID:b1c31a585896b27dc9f9@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nEarl's Court station: Trains will not stop after 03:15 during Friday N
+ ight Tube\nDates as listed by TfL: Friday 16 April to Saturday 17 April 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Piccadilly: King's Cross St Pancras to Heathrow\, during Frid
+ ay Night Tube only
+DTSTART;TZID=Europe/London:20270501T003000
+DTEND;TZID=Europe/London:20270501T053000
+DTSTAMP:20261116T000000Z
+UID:ea53a1f44cf86bc66336@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nKing's C
+ ross St Pancras to Heathrow\, during Friday Night Tube only\nDates as list
+ ed by TfL: Friday 30 April to Saturday 1 May 2027\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Piccadilly: Hyde Park Corner to Heathrow and Uxbridge\, inclu
+ ding during Saturday Night Tube
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261116T000000Z
+UID:ee0e3133b7076fa813cd@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHyde Park Corner to Heathrow a
+ nd Uxbridge\, including during Saturday Night Tube\nDates as listed by TfL
+ : Saturday 1 May to Monday 3 May 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Piccadilly: No service on the entire line\, including during F
+ riday and Saturday Night Tube
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:55e2ccbca0520b4d1a0a@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\, inclu
+ ding during Friday and Saturday Night Tube\nDates as listed by TfL: Saturd
+ ay 8 May to Sunday 9 May 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

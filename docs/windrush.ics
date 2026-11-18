@@ -1,0 +1,1032 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Windrush line from TfL's published lis
+ t\, plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Windrush line from TfL's published li
+ st, plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Windrush line
+X-WR-CALNAME:TfL closures: Windrush line
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#DC241F
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Highbury & Islington to New Cross Gate\, durin
+ g Night Overground hours only
+DTSTART;TZID=Europe/London:20261128T003000
+DTEND;TZID=Europe/London:20261128T053000
+DTSTAMP:20261116T000000Z
+UID:5f1237addf05dbe9d1ff@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
+  & Islington to New Cross Gate\, during Night Overground hours only\nDates
+  as listed by TfL: Friday 27 November to Saturday 28 November 2026\n\nSour
+ ce: TfL planned track closures\, correct at Monday 16 November 2026. https
+ ://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-
+ a43b-3de08a097b8f&type=document\nPlans can change. Check before you travel
+ : https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, no
+ t affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Highbury & Islington to Clapham Junction\, New
+  Cross and New Cross Gate\, including during Saturday Night Overground ser
+ vice
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261116T000000Z
+UID:3984c623c9190478bb8c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
+ m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
+ t Overground service\nDates as listed by TfL: Saturday 28 November to Sund
+ ay 29 November 2026\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Highbury & Islington to New Cross Gate\, durin
+ g Night Overground hours only
+DTSTART;TZID=Europe/London:20261205T003000
+DTEND;TZID=Europe/London:20261205T053000
+DTSTAMP:20261116T000000Z
+UID:0217195f3b612c8a7946@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
+  & Islington to New Cross Gate\, during Night Overground hours only\nDates
+  as listed by TfL: Friday 4 December to Saturday 5 December 2026\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Highbury & Islington to Clapham Junction\, New
+  Cross and New Cross Gate\, including during Saturday Night Overground ser
+ vice
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261116T000000Z
+UID:df20bc72bf1526f70f5b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
+ m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
+ t Overground service\nDates as listed by TfL: Saturday 5 December to Sunda
+ y 6 December 2026\n\nSource: TfL planned track closures\, correct at Monda
+ y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
+ df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
+ . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
+ \nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20261207T233000
+DTEND;TZID=Europe/London:20261208T013000
+DTSTAMP:20261116T000000Z
+UID:b909c6a44b0890d103b4@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20261208T233000
+DTEND;TZID=Europe/London:20261209T013000
+DTSTAMP:20261116T000000Z
+UID:e51c46eeb30cdf61c454@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20261209T233000
+DTEND;TZID=Europe/London:20261210T013000
+DTSTAMP:20261116T000000Z
+UID:971711bc1400c1f7c1a6@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20261210T233000
+DTEND;TZID=Europe/London:20261211T013000
+DTSTAMP:20261116T000000Z
+UID:70bbd5366a6c5986e1da@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to New Cross\, after 22:00
+DTSTART;TZID=Europe/London:20261213T220000
+DTEND;TZID=Europe/London:20261214T013000
+DTSTAMP:20261116T000000Z
+UID:8acf0d0993d4e441bf4c@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to New Cross\, after 22:00\nDates as listed by TfL: Sunday 13 Decembe
+ r 2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
+ er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
+ 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
+  calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Highbury & Islington to Dalston Junction\, aft
+ er 22:15
+DTSTART;TZID=Europe/London:20261213T221500
+DTEND;TZID=Europe/London:20261214T013000
+DTSTAMP:20261116T000000Z
+UID:4d6a2ad477930d9098a9@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
+  & Islington to Dalston Junction\, after 22:15\nDates as listed by TfL: Su
+ nday 13 December 2026\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Windrush line: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:29f7c67b81c1bf9f7c50@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Windrush line: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:9a9a76d37a7e5d0307d1@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Surrey Quays to New Cross and Clapham Junction
+ \; Sydenham to Crystal Palace
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261116T000000Z
+UID:ac9deaa76f662c9e88d2@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to New Cross and 
+ Clapham Junction\nSydenham to Crystal Palace\nDates as listed by TfL: Satu
+ rday 26 December 2026\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Sydenham to Crystal Palace
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:85be7758c55088b735c2@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSydenham to Crystal Palace\nDa
+ tes as listed by TfL: Sunday 10 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:00
+DTSTART;TZID=Europe/London:20270118T230000
+DTEND;TZID=Europe/London:20270119T013000
+DTSTAMP:20261116T000000Z
+UID:16393088bcbbfee9915a@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:00\nDates as listed b
+ y TfL: Monday 18 January to Wednesday 20 January 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:00
+DTSTART;TZID=Europe/London:20270119T230000
+DTEND;TZID=Europe/London:20270120T013000
+DTSTAMP:20261116T000000Z
+UID:f7dfa85ed5e0fa478264@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:00\nDates as listed b
+ y TfL: Monday 18 January to Wednesday 20 January 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:00
+DTSTART;TZID=Europe/London:20270120T230000
+DTEND;TZID=Europe/London:20270121T013000
+DTSTAMP:20261116T000000Z
+UID:87ccb1c8dac2b2981380@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:00\nDates as listed b
+ y TfL: Monday 18 January to Wednesday 20 January 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Wandsworth Road to Clapham Junction
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:d7251cfa93b99d986f9f@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWandsworth Road to Clapham Jun
+ ction\nDates as listed by TfL: Sunday 31 January 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Sydenham to West Croydon\, until 08:00
+DTSTART;TZID=Europe/London:20270207T043000
+DTEND;TZID=Europe/London:20270207T080000
+DTSTAMP:20261116T000000Z
+UID:488961a6d4e6a033219c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSydenham to West Croydon\, unt
+ il 08:00\nDates as listed by TfL: Sunday 7 February 2027\n\nSource: TfL pl
+ anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
+ .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
+ a097b8f&type=document\nPlans can change. Check before you travel: https://
+ tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
+ ed with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to New Cross\, after 22:00
+DTSTART;TZID=Europe/London:20270207T220000
+DTEND;TZID=Europe/London:20270208T013000
+DTSTAMP:20261116T000000Z
+UID:6e9dc502d45d2e38e1aa@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to New Cross\, after 22:00\nDates as listed by TfL: Sunday 7 February
+  2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Highbury & Islington to Dalston Junction\, aft
+ er 22:15
+DTSTART;TZID=Europe/London:20270207T221500
+DTEND;TZID=Europe/London:20270208T013000
+DTSTAMP:20261116T000000Z
+UID:ef2d16dc1cb27e921197@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
+  & Islington to Dalston Junction\, after 22:15\nDates as listed by TfL: Su
+ nday 7 February 2027\n\nSource: TfL planned track closures\, correct at Mo
+ nday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosure
+ s.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can cha
+ nge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/statu
+ s/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Surrey Quays to Clapham Junction
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261116T000000Z
+UID:bf2c9f0528c743ebb69b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to Clapham Juncti
+ on\nDates as listed by TfL: Saturday 13 February 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon after 22:15
+DTSTART;TZID=Europe/London:20270222T221500
+DTEND;TZID=Europe/London:20270223T013000
+DTSTAMP:20261116T000000Z
+UID:9d57f162c8bfbbd812a3@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon after 22:15\nDates as listed by TfL: Monday 22 February t
+ o Thursday 25 February 2027\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon after 22:15
+DTSTART;TZID=Europe/London:20270223T221500
+DTEND;TZID=Europe/London:20270224T013000
+DTSTAMP:20261116T000000Z
+UID:5623f562bd244db1398f@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon after 22:15\nDates as listed by TfL: Monday 22 February t
+ o Thursday 25 February 2027\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon after 22:15
+DTSTART;TZID=Europe/London:20270224T221500
+DTEND;TZID=Europe/London:20270225T013000
+DTSTAMP:20261116T000000Z
+UID:f00b12bb416021b2d767@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon after 22:15\nDates as listed by TfL: Monday 22 February t
+ o Thursday 25 February 2027\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon after 22:15
+DTSTART;TZID=Europe/London:20270225T221500
+DTEND;TZID=Europe/London:20270226T013000
+DTSTAMP:20261116T000000Z
+UID:5918e59e15d8ada3a9cb@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon after 22:15\nDates as listed by TfL: Monday 22 February t
+ o Thursday 25 February 2027\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270301T233000
+DTEND;TZID=Europe/London:20270302T013000
+DTSTAMP:20261116T000000Z
+UID:286b235f505f1c47a8a9@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 1 March to Thursday 4 March 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270302T233000
+DTEND;TZID=Europe/London:20270303T013000
+DTSTAMP:20261116T000000Z
+UID:f405df49abc57742f242@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 1 March to Thursday 4 March 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270303T233000
+DTEND;TZID=Europe/London:20270304T013000
+DTSTAMP:20261116T000000Z
+UID:808f52b8137d0e36b398@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 1 March to Thursday 4 March 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270304T233000
+DTEND;TZID=Europe/London:20270305T013000
+DTSTAMP:20261116T000000Z
+UID:cff5cb49c5e8291faf22@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 1 March to Thursday 4 March 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Surrey Quays to Clapham Junction
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261116T000000Z
+UID:798f26ada8a3fabfad94@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to Clapham Juncti
+ on\nDates as listed by TfL: Sunday 7 March 2027\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Wandsworth Road to Clapham Junction
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261116T000000Z
+UID:37d1a7ea17f2b8f52085@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWandsworth Road to Clapham Jun
+ ction\nDates as listed by TfL: Sunday 21 March 2027\n\nSource: TfL planned
+  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/a
+ pi/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b
+ 8f&type=document\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wi
+ th TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to Clapham Junction\, after 23:15
+DTSTART;TZID=Europe/London:20270322T231500
+DTEND;TZID=Europe/London:20270323T013000
+DTSTAMP:20261116T000000Z
+UID:94dddb8282d16c652f0f@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to Clapham Junction\, after 23:15\nDates as listed by TfL: Monday 22 
+ March to Thursday 25 March 2027\n\nSource: TfL planned track closures\, co
+ rrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedt
+ rackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPl
+ ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
+ round/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to Clapham Junction\, after 23:15
+DTSTART;TZID=Europe/London:20270323T231500
+DTEND;TZID=Europe/London:20270324T013000
+DTSTAMP:20261116T000000Z
+UID:492c782ceab9446b1ddb@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to Clapham Junction\, after 23:15\nDates as listed by TfL: Monday 22 
+ March to Thursday 25 March 2027\n\nSource: TfL planned track closures\, co
+ rrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedt
+ rackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPl
+ ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
+ round/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to Clapham Junction\, after 23:15
+DTSTART;TZID=Europe/London:20270324T231500
+DTEND;TZID=Europe/London:20270325T013000
+DTSTAMP:20261116T000000Z
+UID:9cf23f6df488f2f31c6b@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to Clapham Junction\, after 23:15\nDates as listed by TfL: Monday 22 
+ March to Thursday 25 March 2027\n\nSource: TfL planned track closures\, co
+ rrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedt
+ rackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPl
+ ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
+ round/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Surrey Quays to Clapham Junction\, after 23:15
+DTSTART;TZID=Europe/London:20270325T231500
+DTEND;TZID=Europe/London:20270326T013000
+DTSTAMP:20261116T000000Z
+UID:c5c20203d4291f5a4aa8@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
+ uays to Clapham Junction\, after 23:15\nDates as listed by TfL: Monday 22 
+ March to Thursday 25 March 2027\n\nSource: TfL planned track closures\, co
+ rrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedt
+ rackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPl
+ ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
+ round/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261116T000000Z
+UID:78c1d34d2e02b46d21ab@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nNew Cross Gate to Crystal Pala
+ ce and West Croydon\nDates as listed by TfL: Sunday 28 March 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Surrey Quays to Clapham Junction
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261116T000000Z
+UID:a7a0f23a2fe995b97927@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to Clapham Juncti
+ on\nDates as listed by TfL: Sunday 4 April 2027\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Highbury & Islington to Dalston Junction\, aft
+ er 22:15
+DTSTART;TZID=Europe/London:20270404T221500
+DTEND;TZID=Europe/London:20270405T013000
+DTSTAMP:20261116T000000Z
+UID:3c25ad881221a17f709c@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
+  & Islington to Dalston Junction\, after 22:15\nDates as listed by TfL: Su
+ nday 4 April 2027\n\nSource: TfL planned track closures\, correct at Monda
+ y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
+ df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
+ . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
+ \nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270412T233000
+DTEND;TZID=Europe/London:20270413T013000
+DTSTAMP:20261116T000000Z
+UID:302e3d609014d226ac91@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 12 April to Thursday 15 April 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270413T233000
+DTEND;TZID=Europe/London:20270414T013000
+DTSTAMP:20261116T000000Z
+UID:77d495bdd1b2f026c846@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 12 April to Thursday 15 April 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270414T233000
+DTEND;TZID=Europe/London:20270415T013000
+DTSTAMP:20261116T000000Z
+UID:2cf34670cfd1b7b79030@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 12 April to Thursday 15 April 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: New Cross Gate to Crystal Palace and West Croy
+ don\, after 23:30
+DTSTART;TZID=Europe/London:20270415T233000
+DTEND;TZID=Europe/London:20270416T013000
+DTSTAMP:20261116T000000Z
+UID:9a14ae16e5acc7eb68a1@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
+ s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
+ y TfL: Monday 12 April to Thursday 15 April 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Surrey Quays to Crystal Palace and West Croydo
+ n
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:9bdc1893e7deb336bd1e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to Crystal Palace
+  and West Croydon\nDates as listed by TfL: Saturday 8 May to Sunday 9 May 
+ 2027\n\nSource: TfL planned track closures\, correct at Monday 16 November
+  2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98c
+ f-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: No Night Overground service on Saturday night
+DTSTART;TZID=Europe/London:20270509T003000
+DTEND;TZID=Europe/London:20270509T053000
+DTSTAMP:20261116T000000Z
+UID:ec9fa13c96eb0fd5bcc8@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNo Night
+  Overground service on Saturday night\nDates as listed by TfL: Saturday 8 
+ May to Sunday 9 May 2027\n\nSource: TfL planned track closures\, correct a
+ t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
+ sures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Highbury & Islington to Dalston Junction
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:4943dee73fe0b0f57559@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Dalsto
+ n Junction\nDates as listed by TfL: Sunday 9 May 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Sydenham to West Croydon\, until 08:00
+DTSTART;TZID=Europe/London:20270516T043000
+DTEND;TZID=Europe/London:20270516T080000
+DTSTAMP:20261116T000000Z
+UID:bf0a3357d7f0ee08cda7@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSydenham to West Croydon\, unt
+ il 08:00\nDates as listed by TfL: Sunday 16 May 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Wandsworth Road to Clapham Junction
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261116T000000Z
+UID:7c84eacf79668db02d90@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWandsworth Road to Clapham Jun
+ ction\nDates as listed by TfL: Sunday 16 May 2027\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon\, after 22:15
+DTSTART;TZID=Europe/London:20270517T221500
+DTEND;TZID=Europe/London:20270518T013000
+DTSTAMP:20261116T000000Z
+UID:c6139846aa725766b7a3@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon\, after 22:15\nDates as listed by TfL: Monday 17 May to T
+ hursday 20 May 2027\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon\, after 22:15
+DTSTART;TZID=Europe/London:20270518T221500
+DTEND;TZID=Europe/London:20270519T013000
+DTSTAMP:20261116T000000Z
+UID:aab42622593b4a170bb7@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon\, after 22:15\nDates as listed by TfL: Monday 17 May to T
+ hursday 20 May 2027\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon\, after 22:15
+DTSTART;TZID=Europe/London:20270519T221500
+DTEND;TZID=Europe/London:20270520T013000
+DTSTAMP:20261116T000000Z
+UID:793b0d156645798a0c9e@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon\, after 22:15\nDates as listed by TfL: Monday 17 May to T
+ hursday 20 May 2027\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Windrush line: Sydenham to West Croydon\, after 22:15
+DTSTART;TZID=Europe/London:20270520T221500
+DTEND;TZID=Europe/London:20270521T013000
+DTSTAMP:20261116T000000Z
+UID:0217eabec4d8c4a7603e@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSydenham
+  to West Croydon\, after 22:15\nDates as listed by TfL: Monday 17 May to T
+ hursday 20 May 2027\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Windrush line: Wandsworth Road to Clapham Junction
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261116T000000Z
+UID:7da73f3cccecd086a1a6@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWandsworth Road to Clapham Jun
+ ction\nDates as listed by TfL: Saturday 22 May to Sunday 23 May 2027\n\nSo
+ urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
+ ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
+ 3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
+ not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Jubilee from TfL's published list\, pl
+ us live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Jubilee from TfL's published list, pl
+ us live updates. Unofficial; check before you travel.
+NAME:TfL closures: Jubilee
+X-WR-CALNAME:TfL closures: Jubilee
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#A0A5A9
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:⚠️ Jubilee: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:cb57857293533f543489@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Jubilee: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:2a10e50bf24c484c8504@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Jubilee: Trains will not stop at Westminster between 03:15 
+ and 04:45 during Friday Night Tube
+DTSTART;TZID=Europe/London:20270206T031500
+DTEND;TZID=Europe/London:20270206T044500
+DTSTAMP:20261116T000000Z
+UID:c598ad033e2c8362fbe9@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Westminster between 03:15 and 04:45 during Fri
+ day Night Tube\nDates as listed by TfL: Friday 5 February to Saturday 6 Fe
+ bruary 2027\n\nSource: TfL planned track closures\, correct at Monday 16 N
+ ovember 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=
+ accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Chec
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
+ icial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Jubilee: Waterloo to Stanmore Including during Friday and Sat
+ urday Night Tube
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261116T000000Z
+UID:d176d6997d62b42ad46a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWaterloo to Stanmore Including
+  during Friday and Saturday Night Tube\nDates as listed by TfL: Saturday 1
+ 3 February to Sunday 14 February 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Jubilee: Trains will not stop at Baker Street during Friday
+  Night Tube only
+DTSTART;TZID=Europe/London:20270313T003000
+DTEND;TZID=Europe/London:20270313T053000
+DTSTAMP:20261116T000000Z
+UID:d89f3407a948314a71e3@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Baker Street during Friday Night Tube only\nDa
+ tes as listed by TfL: Friday 12 March to Saturday 13 March 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Jubilee: Finchley Road to Stratford\, during Friday Night Tub
+ e only
+DTSTART;TZID=Europe/London:20270515T003000
+DTEND;TZID=Europe/London:20270515T053000
+DTSTAMP:20261116T000000Z
+UID:7805095783f8d25f9cef@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nFinchley
+  Road to Stratford\, during Friday Night Tube only\nDates as listed by TfL
+ : Friday 14 May to Saturday 15 May 2027\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Jubilee: Green Park to Stratford\, including during Saturday 
+ Night Tube
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261116T000000Z
+UID:8336bd9eebbc3d531f8b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nGreen Park to Stratford\, incl
+ uding during Saturday Night Tube\nDates as listed by TfL: Saturday 15 May 
+ to Sunday 16 May 2027\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

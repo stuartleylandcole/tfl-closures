@@ -1,0 +1,223 @@
+[
+ {
+  "id": "bakerloo",
+  "name": "Bakerloo",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 0,
+    "statusSeverityDescription": "Special Service",
+    "reason": "Tube strike by some London Underground drivers. Trains are expected to run on most lines. Check before you travel.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-26T12:00:00Z",
+      "toDate": "2026-11-27T11:59:00Z",
+      "isNow": false
+     }
+    ]
+   },
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 5,
+    "statusSeverityDescription": "Part Closure",
+    "reason": "BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Replacement buses operate.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-21T04:30:00Z",
+      "toDate": "2026-11-23T01:29:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "circle",
+  "name": "Circle",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 5,
+    "statusSeverityDescription": "Part Closure",
+    "reason": "CIRCLE LINE: Saturday 28 and Sunday 29 November, no service between Hammersmith / High Street Kensington and Tower Hill (via King's Cross St Pancras).",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-28T04:30:00Z",
+      "toDate": "2026-11-30T01:29:00Z",
+      "isNow": false
+     }
+    ]
+   },
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 0,
+    "statusSeverityDescription": "Special Service",
+    "reason": "Tube strike by some London Underground drivers. Trains are expected to run on most lines. Check before you travel.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-26T12:00:00Z",
+      "toDate": "2026-11-27T11:59:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "central",
+  "name": "Central",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": "",
+    "validityPeriods": []
+   }
+  ]
+ },
+ {
+  "id": "weaver",
+  "name": "Weaver",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 5,
+    "statusSeverityDescription": "Part Closure",
+    "reason": "WEAVER LINE: Sunday 22 November, until 1015, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Replacement buses operate.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-22T04:30:00Z",
+      "toDate": "2026-11-22T10:15:00Z",
+      "isNow": false
+     }
+    ]
+   },
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 5,
+    "statusSeverityDescription": "Part Closure",
+    "reason": "WEAVER LINE: Monday 23 to Thursday 26 November, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Replacement buses operate.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-23T22:45:00Z",
+      "toDate": "2026-11-23T23:59:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-24T00:00:00Z",
+      "toDate": "2026-11-24T01:29:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-24T22:45:00Z",
+      "toDate": "2026-11-24T23:59:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-25T00:00:00Z",
+      "toDate": "2026-11-25T01:29:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-25T22:45:00Z",
+      "toDate": "2026-11-25T23:59:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-26T00:00:00Z",
+      "toDate": "2026-11-26T01:29:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-26T22:45:00Z",
+      "toDate": "2026-11-26T23:59:00Z",
+      "isNow": false
+     },
+     {
+      "fromDate": "2026-11-27T00:00:00Z",
+      "toDate": "2026-11-27T01:29:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mildmay",
+  "name": "Mildmay",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 7,
+    "statusSeverityDescription": "Reduced Service",
+    "reason": "MILDMAY LINE: Sunday 22 November, until 2215, reduced service between Camden Road and Willesden Junction.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-22T04:30:00Z",
+      "toDate": "2026-11-22T22:15:00Z",
+      "isNow": false
+     }
+    ]
+   },
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 5,
+    "statusSeverityDescription": "Part Closure",
+    "reason": "MILDMAY LINE: Sunday 22 November, no service between Willesden Junction and Richmond. Use District line services between Gunnersbury and Richmond.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-22T04:30:00Z",
+      "toDate": "2026-11-23T01:29:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "suffragette",
+  "name": "Suffragette",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 4,
+    "statusSeverityDescription": "Planned Closure",
+    "reason": "SUFFRAGETTE LINE: No service on Christmas Day and Boxing Day. A revised Sunday timetable operates from Sunday 27 December.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-12-25T01:30:00Z",
+      "toDate": "2026-12-27T04:30:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "district",
+  "name": "District",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "$type": "Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Entities",
+    "statusSeverity": 0,
+    "statusSeverityDescription": "Special Service",
+    "reason": "Tube strike by some London Underground drivers. Trains are expected to run on most lines. Check before you travel.",
+    "validityPeriods": [
+     {
+      "fromDate": "2026-11-26T12:00:00Z",
+      "toDate": "2026-11-27T11:59:00Z",
+      "isNow": false
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Northern from TfL's published list\, p
+ lus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Northern from TfL's published list, p
+ lus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Northern
+X-WR-CALNAME:TfL closures: Northern
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#000000
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:⚠️ Northern: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:3f7a4993e9fec41f8d53@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Northern: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:cf05f270c97939611760@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Northern: Kennington to Morden\, including during Friday and 
+ Saturday Night Tube
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:20448f06abf90847b1ea@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nKennington to Morden\, includi
+ ng during Friday and Saturday Night Tube\nDates as listed by TfL: Saturday
+  9 January to Sunday 10 January 2027\n\nSource: TfL planned track closures
+ \, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pla
+ nnedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=documen
+ t\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-
+ overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Northern: Trains will not stop at Embankment during Friday 
+ Night Tube
+DTSTART;TZID=Europe/London:20270206T003000
+DTEND;TZID=Europe/London:20270206T053000
+DTSTAMP:20261116T000000Z
+UID:9a7dc2ea3a9e83aabc5c@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Embankment during Friday Night Tube\nDates as 
+ listed by TfL: Friday 5 February to Saturday 6 February 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Northern: Camden Town to Edgware\, including during Friday an
+ d Saturday Night Tube
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261116T000000Z
+UID:19633b0118db63232a6a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Town to Edgware\, inclu
+ ding during Friday and Saturday Night Tube\nDates as listed by TfL: Saturd
+ ay 24 April to Sunday 25 April 2027\n\nSource: TfL planned track closures
+ \, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pla
+ nnedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=documen
+ t\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-
+ overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

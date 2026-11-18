@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Central from TfL's published list\, pl
+ us live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Central from TfL's published list, pl
+ us live updates. Unofficial; check before you travel.
+NAME:TfL closures: Central
+X-WR-CALNAME:TfL closures: Central
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#E32017
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🌙 Central: Marble Arch to Ealing Broadway\, during Saturday Nig
+ ht Tube only
+DTSTART;TZID=Europe/London:20261213T003000
+DTEND;TZID=Europe/London:20261213T053000
+DTSTAMP:20261116T000000Z
+UID:c8169cecc10a7aadbdc1@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
+ rch to Ealing Broadway\, during Saturday Night Tube only\nDates as listed 
+ by TfL: Saturday 12 December to Sunday 13 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and Northolt
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261116T000000Z
+UID:a9e95775250cfc9550b0@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and Northolt\nDates as listed by TfL: Sunday 13 December 2026\n\nSource: T
+ fL planned track closures\, correct at Monday 16 November 2026. https://tf
+ l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
+ 3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
+ iliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Central: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:4da232e486b778f0e088@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Central: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:544e4d0f5049ad76b4f4@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and Northolt
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261116T000000Z
+UID:1fc3a45f9f7955ed4993@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and Northolt\nDates as listed by TfL: Saturday 26 December 2026\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Central: Marble Arch to Ealing Broadway during Saturday Night
+  Tube only
+DTSTART;TZID=Europe/London:20270103T003000
+DTEND;TZID=Europe/London:20270103T053000
+DTSTAMP:20261116T000000Z
+UID:1faf8a02e86a76731ec2@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
+ rch to Ealing Broadway during Saturday Night Tube only\nDates as listed by
+  TfL: Saturday 2 January to Sunday 3 January 2027\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and West Ruislip
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:9c6eedca91c9204b1310@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and West Ruislip\nDates as listed by TfL: Sunday 3 January 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: Northolt to West Ruislip
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20261116T000000Z
+UID:6bbf2d2b4fe84097b15c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nNortholt to West Ruislip\nDate
+ s as listed by TfL: Saturday 30 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Central: Marble Arch to Ealing Broadway during Saturday Night
+  Tube only
+DTSTART;TZID=Europe/London:20270131T003000
+DTEND;TZID=Europe/London:20270131T053000
+DTSTAMP:20261116T000000Z
+UID:ab52f5a4db5fee0e6f21@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
+ rch to Ealing Broadway during Saturday Night Tube only\nDates as listed by
+  TfL: Saturday 30 January to Sunday 31 January 2027\n\n⚠️ TfL's PDF sa
+ ys 'Sunday 30 January'\, but 30 January 2027 is a Saturday. Assumed Sunday
+  31 January.\n\nSource: TfL planned track closures\, correct at Monday 16 
+ November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
+ =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and West Ruislip
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:9a2576dae1191553f165@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and West Ruislip\nDates as listed by TfL: Sunday 31 January 2027\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Central: Marble Arch to Ealing Broadway\, during Saturday Nig
+ ht Tube only
+DTSTART;TZID=Europe/London:20270307T003000
+DTEND;TZID=Europe/London:20270307T053000
+DTSTAMP:20261116T000000Z
+UID:6bbe9e99dddd49547c18@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
+ rch to Ealing Broadway\, during Saturday Night Tube only\nDates as listed 
+ by TfL: Saturday 6 March 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and West Ruislip
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261116T000000Z
+UID:09b530f356b2e07d62b6@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and West Ruislip\nDates as listed by TfL: Sunday 7 March 2027\n\nSource: T
+ fL planned track closures\, correct at Monday 16 November 2026. https://tf
+ l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
+ 3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
+ iliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Central: Marble Arch to Ealing Broadway\, during Saturday Nig
+ ht Tube only
+DTSTART;TZID=Europe/London:20270516T003000
+DTEND;TZID=Europe/London:20270516T053000
+DTSTAMP:20261116T000000Z
+UID:ad3c2704c30291ac621d@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
+ rch to Ealing Broadway\, during Saturday Night Tube only\nDates as listed 
+ by TfL: Saturday 15 May to Sunday 16 May 2027\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Central: White City to Ealing Broadway and Northolt
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261116T000000Z
+UID:7e320741a2cda5e90538@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
+ and Northolt\nDates as listed by TfL: Sunday 16 May 2027\n\nSource: TfL pl
+ anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
+ .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
+ a097b8f&type=document\nPlans can change. Check before you travel: https://
+ tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
+ ed with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

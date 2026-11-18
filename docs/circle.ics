@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Circle from TfL's published list\, plu
+ s live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Circle from TfL's published list, plu
+ s live updates. Unofficial; check before you travel.
+NAME:TfL closures: Circle
+X-WR-CALNAME:TfL closures: Circle
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#FFD300
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 Circle: Hammersmith to Tower Hill\; Edgware Road to High Stre
+ et Kensington
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261116T000000Z
+UID:5623c0ec8fe42f06ead8@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHammersmith to Tower Hill\nEdg
+ ware Road to High Street Kensington\nDates as listed by TfL: Saturday 28 N
+ ovember to Sunday 29 November 2026\n\nSource: TfL planned track closures\,
+  correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plann
+ edtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document
+ \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
+ verground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Circle: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:59503cadcd9aa6a76070@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Circle: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:d111721548f2f4e5ea62@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Circle: Edgware Road to Aldgate\, via Victoria
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261116T000000Z
+UID:51343ff1d44db2c67b89@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to Aldgate\, via 
+ Victoria\nDates as listed by TfL: Saturday 6 February to Sunday 7 February
+  2027\n\n⚠️ TfL's PDF says 'Sunday 6 February'\, but 6 February 2027 i
+ s a Saturday. Assumed Saturday 6 February.\n\nSource: TfL planned track cl
+ osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
+ nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
+ ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
+ e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Circle: Hammersmith to Tower Hill\; Edgware Road to High Stre
+ et Kensington
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261116T000000Z
+UID:71b9e25ea48f241cd980@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHammersmith to Tower Hill\nEdg
+ ware Road to High Street Kensington\nDates as listed by TfL: Saturday 13 M
+ arch to Sunday 14 March 2027\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Circle: Edgware Road to Tower Hill via Victoria
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20261116T000000Z
+UID:6e2bb1a88803accd1549@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to Tower Hill via
+  Victoria\nDates as listed by TfL: Saturday 17 April to Sunday 18 April 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

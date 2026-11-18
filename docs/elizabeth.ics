@@ -1,0 +1,1428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Elizabeth line from TfL's published li
+ st\, plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Elizabeth line from TfL's published l
+ ist, plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Elizabeth line
+X-WR-CALNAME:TfL closures: Elizabeth line
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#6950A1
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261116T000000Z
+UID:988e95632e68df9fe049@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
+ inal 4\nDates as listed by TfL: Sunday 22 November 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway\, until 07:45
+DTSTART;TZID=Europe/London:20261122T043000
+DTEND;TZID=Europe/London:20261122T074500
+DTSTAMP:20261116T000000Z
+UID:d0ecfc62f4971ec588a4@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
+ \, until 07:45\nDates as listed by TfL: Sunday 22 November 2026\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Heathrow and Maidenhead\; Paddi
+ ngton to Abbey Wood and Shenfield
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261116T000000Z
+UID:8f60895f6fa87427af0e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Mai
+ denhead\nPaddington to Abbey Wood and Shenfield\nDates as listed by TfL: S
+ aturday 28 November to Sunday 29 November 2026\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: West Drayton to Slough until 09:00
+DTSTART;TZID=Europe/London:20261206T043000
+DTEND;TZID=Europe/London:20261206T090000
+DTSTAMP:20261116T000000Z
+UID:5669c9d1f29d8b42ab1f@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough until 0
+ 9:00\nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Acton Main Line\, Hanwell and West Ealing: 
+ Trains will not stop after 23:00 on Saturday and until 09:00 on Sunday
+DTSTART;TZID=Europe/London:20261212T230000
+DTEND;TZID=Europe/London:20261213T090000
+DTSTAMP:20261116T000000Z
+UID:46b801ef4c9ed566c207@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nActon Main Line\, Hanwell and West Ealing: Trains will not stop after 
+ 23:00 on Saturday and until 09:00 on Sunday\nDates as listed by TfL: Satur
+ day 12 December to Sunday 13 December 2026\n\nSource: TfL planned track cl
+ osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
+ nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
+ ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
+ e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261116T000000Z
+UID:6492223d3390b0966dda@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
+ inal 4\nDates as listed by TfL: Sunday 13 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:3f95d8e91865ba347299@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Elizabeth line: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:47d2ca06bc49bc13498f@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Elizabeth line: No service on the entire line
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261116T000000Z
+UID:f66ce9d3603ae2c4cbd1@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
+ as listed by TfL: Saturday 26 December 2026\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National Rail) and Stratfor
+ d to Romford
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:a16c0d0eada559a0cf8e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
+ l) and Stratford to Romford\nDates as listed by TfL: Saturday 26 December 
+ to Sunday 3 January 2027\n\nSource: TfL planned track closures\, correct a
+ t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
+ sures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Heathrow and Slough
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20261116T000000Z
+UID:17917bb8dd2605300061@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
+ ugh\nDates as listed by TfL: Saturday 26 December to Wednesday 30 December
+  2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National Rail) and Stratfor
+ d to Romford
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:f100e547efa25e742484@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
+ l) and Stratford to Romford\nDates as listed by TfL: Monday 28 December to
+  Sunday 3 January 2027\n\nSource: TfL planned track closures\, correct at 
+ Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosu
+ res.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can c
+ hange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/sta
+ tus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Heathrow and Slough
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20261116T000000Z
+UID:8b6f3bb8eca9a47df815@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
+ ugh\nDates as listed by TfL: Monday 28 December to Wednesday 30 December 2
+ 026\n\nSource: TfL planned track closures\, correct at Monday 16 November 
+ 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
+ -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
+  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
+ lendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: West Drayton to Slough
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:8b83ea159036ec324e09@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates 
+ as listed by TfL: Thursday 31 December to Sunday 3 January 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Acton Main Line\, Hanwell and West Ealing s
+ tations: Trains will not stop
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261116T000000Z
+UID:52444fa1486bb7204415@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nActon Main Line\, Hanwell and West Ealing stations: Trains will not st
+ op\nDates as listed by TfL: Sunday 3 January 2027\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20261116T000000Z
+UID:a05b8502f2111540533c@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
+ inal 4\nDates as listed by TfL: Saturday 9 January 2027\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National rail platforms) an
+ d Whitechapel to Shenfield
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:584a1182d9c08fa0ba6a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
+ l platforms) and Whitechapel to Shenfield\nDates as listed by TfL: Saturda
+ y 9 January to Sunday 10 January 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: West Drayton to Slough
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:9a1bc65b343911079ff0@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates 
+ as listed by TfL: Sunday 10 January 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270111T220000
+DTEND;TZID=Europe/London:20270112T013000
+DTSTAMP:20261116T000000Z
+UID:aa18ee06a4ab1305f6f1@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 11 January to Wednesday 13 January 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270111T223000
+DTEND;TZID=Europe/London:20270112T013000
+DTSTAMP:20261116T000000Z
+UID:2097746e5c171075eaf6@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 11 January to Wednesday 13 January
+  2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270112T220000
+DTEND;TZID=Europe/London:20270113T013000
+DTSTAMP:20261116T000000Z
+UID:b717db5e2dd772b90a0c@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 11 January to Wednesday 13 January 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270112T223000
+DTEND;TZID=Europe/London:20270113T013000
+DTSTAMP:20261116T000000Z
+UID:7d778531f06b3f734ee1@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 11 January to Wednesday 13 January
+  2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270113T220000
+DTEND;TZID=Europe/London:20270114T013000
+DTSTAMP:20261116T000000Z
+UID:7da76cb4a432a4df572c@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 11 January to Wednesday 13 January 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270113T223000
+DTEND;TZID=Europe/London:20270114T013000
+DTSTAMP:20261116T000000Z
+UID:b297a4175fe7ae8fab52@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 11 January to Wednesday 13 January
+  2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National rail platforms) an
+ d Whitechapel to Shenfield
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:2723efec60b9752a594b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
+ l platforms) and Whitechapel to Shenfield\nDates as listed by TfL: Saturda
+ y 16 January to Sunday 17 January 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National rail platforms) an
+ d Whitechapel to Shenfield\; Reduced service between Paddington and Maiden
+ head and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:480088e8d30bdcab3366@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
+ l platforms) and Whitechapel to Shenfield\nReduced service between Padding
+ ton and Maidenhead and at Heathrow Terminal 4\nDates as listed by TfL: Sun
+ day 24 January 2027\n\nSource: TfL planned track closures\, correct at Mon
+ day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
+ .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
+ ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
+ /\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\; Reduced service between Paddington and Maidenhead
+  and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:32ae825e2041c7cdf8b1@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\nRed
+ uced service between Paddington and Maidenhead and at Heathrow Terminal 4
+ \nDates as listed by TfL: Sunday 31 January 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National Rail platforms) an
+ d Whitechapel to Shenfield
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:510084ee1de5e55bfcdb@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
+ l platforms) and Whitechapel to Shenfield\nDates as listed by TfL: Sunday 
+ 31 January 2027\n\nSource: TfL planned track closures\, correct at Monday 
+ 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
+ ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
+ nofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270208T220000
+DTEND;TZID=Europe/London:20270209T013000
+DTSTAMP:20261116T000000Z
+UID:10e87d95f76d264af73d@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 8 February to Wednesday 10 February 2027\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270208T223000
+DTEND;TZID=Europe/London:20270209T013000
+DTSTAMP:20261116T000000Z
+UID:d345e84a5259cf6f4074@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 8 February to Wednesday 10 Februar
+ y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
+ er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
+ 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
+  calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270209T220000
+DTEND;TZID=Europe/London:20270210T013000
+DTSTAMP:20261116T000000Z
+UID:3ea4c1ee1184c4e21f88@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 8 February to Wednesday 10 February 2027\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270209T223000
+DTEND;TZID=Europe/London:20270210T013000
+DTSTAMP:20261116T000000Z
+UID:272caf1ab2a787e4dc37@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 8 February to Wednesday 10 Februar
+ y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
+ er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
+ 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
+  calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service Paddington to Maidenhead an
+ d Heathrow T4 after 22:00
+DTSTART;TZID=Europe/London:20270210T220000
+DTEND;TZID=Europe/London:20270211T013000
+DTSTAMP:20261116T000000Z
+UID:2b20649d005dcfab3f4a@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service Paddington to Maidenhead and Heathrow T4 after 22:00\n
+ Dates as listed by TfL: Monday 8 February to Wednesday 10 February 2027\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270210T223000
+DTEND;TZID=Europe/London:20270211T013000
+DTSTAMP:20261116T000000Z
+UID:cddc80ebbf2b8f08a821@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 8 February to Wednesday 10 Februar
+ y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
+ er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
+ 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
+  calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 23:00 on Saturday and until 09:00 on Sunday
+DTSTART;TZID=Europe/London:20270213T230000
+DTEND;TZID=Europe/London:20270214T090000
+DTSTAMP:20261116T000000Z
+UID:12328663302d10a7a8d9@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 23:00 on Saturday and until 09:00 on Sunday\nDates as listed by TfL: Sat
+ urday 13 February to Sunday 14 February 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Liverpool Street (National Rail platforms) an
+ d Whitechapel to Shenfield
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261116T000000Z
+UID:6d37387aadff03e146af@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
+ l platforms) and Whitechapel to Shenfield\nDates as listed by TfL: Sunday 
+ 14 February 2027\n\nSource: TfL planned track closures\, correct at Monday
+  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pd
+ f?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change.
+  Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\n
+ Unofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Abbey Wood until 10:30
+DTSTART;TZID=Europe/London:20270214T043000
+DTEND;TZID=Europe/London:20270214T103000
+DTSTAMP:20261116T000000Z
+UID:d10dc4d6289db22ab717@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood until
+  10:30\nDates as listed by TfL: Sunday 14 February 2027\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270214T043000
+DTEND;TZID=Europe/London:20270214T074500
+DTSTAMP:20261116T000000Z
+UID:d1cb8e1e58588b3ce7ed@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 14 February 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Abbey Wood and Stratford\; Trai
+ ns will not stop at Acton Main Line\, Hanwell and West Ealing
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261116T000000Z
+UID:30910f848c501cc9600f@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
+ tratford\nTrains will not stop at Acton Main Line\, Hanwell and West Ealin
+ g\nDates as listed by TfL: Sunday 21 February 2027\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270221T043000
+DTEND;TZID=Europe/London:20270221T074500
+DTSTAMP:20261116T000000Z
+UID:1d8dc0bb972a8d4c713d@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 21 February 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270228T043000
+DTEND;TZID=Europe/London:20270228T074500
+DTSTAMP:20261116T000000Z
+UID:3a4b47621584fa21e670@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 28 February 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 23:00 Saturday and all day Sunday
+DTSTART;TZID=Europe/London:20270306T230000
+DTEND;TZID=Europe/London:20270308T013000
+DTSTAMP:20261116T000000Z
+UID:de4362f66fe38a54b629@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 23:00 Saturday and all day Sunday\nDates as listed by TfL: Saturday 6 Ma
+ rch to Sunday 7 March 2027\n\nSource: TfL planned track closures\, correct
+  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackc
+ losures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans c
+ an change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground
+ /status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261116T000000Z
+UID:bcf95351e5f5eeade183@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\nDates as listed by TfL: Sunday 7 March 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270308T220000
+DTEND;TZID=Europe/London:20270309T013000
+DTSTAMP:20261116T000000Z
+UID:e72025e64ee3fb08f47a@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\, after 22:00\nDates as listed by TfL: Monday 8 March to Wednesda
+ y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
+ 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
+ ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
+ nofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\, after 22:30
+DTSTART;TZID=Europe/London:20270308T223000
+DTEND;TZID=Europe/London:20270309T013000
+DTSTAMP:20261116T000000Z
+UID:921996bd6092f70be5d1@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\, af
+ ter 22:30\nDates as listed by TfL: Monday 8 March to Wednesday 10 March 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270309T220000
+DTEND;TZID=Europe/London:20270310T013000
+DTSTAMP:20261116T000000Z
+UID:5422d4af930cfceee44d@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\, after 22:00\nDates as listed by TfL: Monday 8 March to Wednesda
+ y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
+ 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
+ ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
+ nofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\, after 22:30
+DTSTART;TZID=Europe/London:20270309T223000
+DTEND;TZID=Europe/London:20270310T013000
+DTSTAMP:20261116T000000Z
+UID:dae8851a05609147e421@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\, af
+ ter 22:30\nDates as listed by TfL: Monday 8 March to Wednesday 10 March 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270310T220000
+DTEND;TZID=Europe/London:20270311T013000
+DTSTAMP:20261116T000000Z
+UID:c6710b59a9ca3d7e3750@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\, after 22:00\nDates as listed by TfL: Monday 8 March to Wednesda
+ y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
+ 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
+ ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
+ nofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\, after 22:30
+DTSTART;TZID=Europe/London:20270310T223000
+DTEND;TZID=Europe/London:20270311T013000
+DTSTAMP:20261116T000000Z
+UID:95fd3e4369286ba5b93a@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\, af
+ ter 22:30\nDates as listed by TfL: Monday 8 March to Wednesday 10 March 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261116T000000Z
+UID:0fa530c6cbe4760cf3fe@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\nDates as listed by TfL: Sunday 14 March 2027\n\nSource: TfL plan
+ ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
+ k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
+ 97b8f&type=document\nPlans can change. Check before you travel: https://tf
+ l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
+  with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Abbey Wood and Stratford\, unti
+ l 10:30
+DTSTART;TZID=Europe/London:20270314T043000
+DTEND;TZID=Europe/London:20270314T103000
+DTSTAMP:20261116T000000Z
+UID:6d4de43d8db5f87241f4@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
+ tratford\, until 10:30\nDates as listed by TfL: Sunday 14 March 2027\n\nSo
+ urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
+ ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
+ 3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
+ not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270314T043000
+DTEND;TZID=Europe/London:20270314T074500
+DTSTAMP:20261116T000000Z
+UID:5d68803d8722fdbe6c57@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 14 March 2027\n\nSource: TfL p
+ lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
+ v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
+ 8a097b8f&type=document\nPlans can change. Check before you travel: https:/
+ /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
+ ted with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\, after 23:00 Saturday until 09:00 Sunday
+DTSTART;TZID=Europe/London:20270320T230000
+DTEND;TZID=Europe/London:20270321T090000
+DTSTAMP:20261116T000000Z
+UID:22fe72bdb6f019380f9f@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\, af
+ ter 23:00 Saturday until 09:00 Sunday\nDates as listed by TfL: Saturday 20
+  March to Sunday 21 March 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270321T043000
+DTEND;TZID=Europe/London:20270321T074500
+DTSTAMP:20261116T000000Z
+UID:879a72f43c7be423770e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 21 March 2027\n\nSource: TfL p
+ lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
+ v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
+ 8a097b8f&type=document\nPlans can change. Check before you travel: https:/
+ /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
+ ted with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead\, and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20261116T000000Z
+UID:e4a8cbb74cced47c1704@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead\, and at Heathrow Te
+ rminal 4\nDates as listed by TfL: Saturday 27 March to Sunday 28 March 202
+ 7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
+ 26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
+ 761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
+ ndar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Abbey Wood and Stratford until 
+ 10:30
+DTSTART;TZID=Europe/London:20270404T043000
+DTEND;TZID=Europe/London:20270404T103000
+DTSTAMP:20261116T000000Z
+UID:75165bfd7985371af153@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
+ tratford until 10:30\nDates as listed by TfL: Sunday 4 April 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway until 07:45
+DTSTART;TZID=Europe/London:20270404T043000
+DTEND;TZID=Europe/London:20270404T074500
+DTSTAMP:20261116T000000Z
+UID:6d70d7dfbfd1e0d7306c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway 
+ until 07:45\nDates as listed by TfL: Sunday 4 April 2027\n\nSource: TfL pl
+ anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
+ .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
+ a097b8f&type=document\nPlans can change. Check before you travel: https://
+ tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
+ ed with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington\, Maiden
+ head and Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270405T220000
+DTEND;TZID=Europe/London:20270406T013000
+DTSTAMP:20261116T000000Z
+UID:7d60d8ff5d14e9722f52@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington\, Maidenhead and Heathrow Terminal 
+ 4\, after 22:00\nDates as listed by TfL: Monday 5 April to Wednesday 7 Apr
+ il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270405T223000
+DTEND;TZID=Europe/London:20270406T013000
+DTSTAMP:20261116T000000Z
+UID:09757bce1c442553f5c0@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 5 April to Wednesday 7 April 2027
+ \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
+ 6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
+ 61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
+ dar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington\, Maiden
+ head and Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270406T220000
+DTEND;TZID=Europe/London:20270407T013000
+DTSTAMP:20261116T000000Z
+UID:b20f9f88ae22bb824b73@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington\, Maidenhead and Heathrow Terminal 
+ 4\, after 22:00\nDates as listed by TfL: Monday 5 April to Wednesday 7 Apr
+ il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270406T223000
+DTEND;TZID=Europe/London:20270407T013000
+DTSTAMP:20261116T000000Z
+UID:48b16dea2e876a5f597e@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 5 April to Wednesday 7 April 2027
+ \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
+ 6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
+ 61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
+ dar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington\, Maiden
+ head and Heathrow Terminal 4\, after 22:00
+DTSTART;TZID=Europe/London:20270407T220000
+DTEND;TZID=Europe/London:20270408T013000
+DTSTAMP:20261116T000000Z
+UID:ee3b8970e481ca0454a1@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington\, Maidenhead and Heathrow Terminal 
+ 4\, after 22:00\nDates as listed by TfL: Monday 5 April to Wednesday 7 Apr
+ il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270407T223000
+DTEND;TZID=Europe/London:20270408T013000
+DTSTAMP:20261116T000000Z
+UID:dffe2ba43c79369528bd@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Monday 5 April to Wednesday 7 April 2027
+ \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
+ 6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
+ 61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
+ dar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway\, until 07:45
+DTSTART;TZID=Europe/London:20270411T043000
+DTEND;TZID=Europe/London:20270411T074500
+DTSTAMP:20261116T000000Z
+UID:afa23be90a81ddb5abc7@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
+ \, until 07:45\nDates as listed by TfL: Sunday 11 April 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway\, until 07:45
+DTSTART;TZID=Europe/London:20270425T043000
+DTEND;TZID=Europe/London:20270425T074500
+DTSTAMP:20261116T000000Z
+UID:3af00c8692b6684983eb@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
+ \, until 07:45\nDates as listed by TfL: Sunday 25 April 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Acton Main Line\, Hanwell and West Ealing: 
+ Trains will not stop until 09:00
+DTSTART;TZID=Europe/London:20270502T043000
+DTEND;TZID=Europe/London:20270502T090000
+DTSTAMP:20261116T000000Z
+UID:abaecf8cef52fc5a92d7@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nActon Main Line\, Hanwell and West Ealing: Trains will not stop until 
+ 09:00\nDates as listed by TfL: Sunday 2 May 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Abbey Wood and Stratford\, unti
+ l 10:30
+DTSTART;TZID=Europe/London:20270502T043000
+DTEND;TZID=Europe/London:20270502T103000
+DTSTAMP:20261116T000000Z
+UID:4cfe21ead90f2063bd64@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
+ tratford\, until 10:30\nDates as listed by TfL: Sunday 2 May 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Reduced service between Paddington and Maid
+ enhead and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270506
+DTSTAMP:20261116T000000Z
+UID:c26715bad56ec37899e2@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
+ inal 4\nDates as listed by TfL: Tuesday 4 May to Wednesday 5 May 2027\n\nS
+ ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
+ tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
+ b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
+  not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270504T223000
+DTEND;TZID=Europe/London:20270505T013000
+DTSTAMP:20261116T000000Z
+UID:80671402bc6ffad7a270@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Tuesday 4 May to Wednesday 5 May 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing after 22:30
+DTSTART;TZID=Europe/London:20270505T223000
+DTEND;TZID=Europe/London:20270506T013000
+DTSTAMP:20261116T000000Z
+UID:4fc724aad0065e45d30e@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing afte
+ r 22:30\nDates as listed by TfL: Tuesday 4 May to Wednesday 5 May 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Elizabeth line: Trains will not stop at Acton Main Line\, H
+ anwell and West Ealing\; Reduced service between Paddington and Maidenhead
+  and at Heathrow Terminal 4
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261116T000000Z
+UID:14cd7b37233c2e8b595b@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nTrains will not stop at Acton Main Line\, Hanwell and West Ealing\nRed
+ uced service between Paddington and Maidenhead and at Heathrow Terminal 4
+ \nDates as listed by TfL: Sunday 16 May 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Elizabeth line: Paddington to Ealing Broadway\, until 07:45
+DTSTART;TZID=Europe/London:20270523T043000
+DTEND;TZID=Europe/London:20270523T074500
+DTSTAMP:20261116T000000Z
+UID:fe8c004562cf4f2cc678@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
+ \, until 07:45\nDates as listed by TfL: Sunday 23 May 2027\n\nSource: TfL 
+ planned track closures\, correct at Monday 16 November 2026. https://tfl.g
+ ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
+ 08a097b8f&type=document\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
+ ated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

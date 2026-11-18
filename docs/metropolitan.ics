@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Metropolitan from TfL's published list
+ \, plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Metropolitan from TfL's published lis
+ t, plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Metropolitan
+X-WR-CALNAME:TfL closures: Metropolitan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#9B0056
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 Metropolitan: Baker Street to Aldgate
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261116T000000Z
+UID:103c2b61082ff6dd0e66@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
+  as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nSour
+ ce: TfL planned track closures\, correct at Monday 16 November 2026. https
+ ://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-
+ a43b-3de08a097b8f&type=document\nPlans can change. Check before you travel
+ : https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, no
+ t affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Metropolitan: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:918f1832bb1a8fdbd4dc@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Metropolitan: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:6e8e74242517c3ee4794@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Metropolitan: Harrow-on-the-Hill to Uxbridge
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:fa822b7ba436aef26838@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHarrow-on-the-Hill to Uxbridge
+ \nDates as listed by TfL: Saturday 16 January to Sunday 17 January 2027\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Metropolitan: Aldgate to Harrow-on-the-Hill
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261116T000000Z
+UID:c7dbf2f2a9388e691abd@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nAldgate to Harrow-on-the-Hill
+ \nDates as listed by TfL: Saturday 13 February to Sunday 14 February 2027
+ \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
+ 6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
+ 61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
+ dar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Metropolitan: Harrow-on-the-Hill to Amersham\, Chesham and Wa
+ tford
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261116T000000Z
+UID:21072b6d16263e9383e0@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHarrow-on-the-Hill to Amersham
+ \, Chesham and Watford\nDates as listed by TfL: Thursday 18 February to Su
+ nday 21 February 2027\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Metropolitan: Baker Street to Aldgate
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261116T000000Z
+UID:bac4a6bae59718df87df@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
+  as listed by TfL: Saturday 13 March to Sunday 14 March 2027\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

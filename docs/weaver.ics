@@ -1,0 +1,813 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Weaver line from TfL's published list
+ \, plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Weaver line from TfL's published list
+ , plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Weaver line
+X-WR-CALNAME:TfL closures: Weaver line
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#9B0058
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on the entire line until 10:15
+DTSTART;TZID=Europe/London:20261122T043000
+DTEND;TZID=Europe/London:20261122T101500
+DTSTAMP:20261116T000000Z
+UID:6c981f382a0e5163d4cc@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
+ 0:15\nDates as listed by TfL: Sunday 22 November 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20261123T224500
+DTEND;TZID=Europe/London:20261124T013000
+DTSTAMP:20261116T000000Z
+UID:3e31037b13573dddc4c5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 23 November to Thursday 26 November 2026\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20261124T224500
+DTEND;TZID=Europe/London:20261125T013000
+DTSTAMP:20261116T000000Z
+UID:0469fb08e641ba48faa0@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 23 November to Thursday 26 November 2026\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20261125T224500
+DTEND;TZID=Europe/London:20261126T013000
+DTSTAMP:20261116T000000Z
+UID:cf4aac2d6f6f0151f1ea@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 23 November to Thursday 26 November 2026\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20261126T224500
+DTEND;TZID=Europe/London:20261127T013000
+DTSTAMP:20261116T000000Z
+UID:08f9365fd280984d92ff@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 23 November to Thursday 26 November 2026\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20261221T224500
+DTEND;TZID=Europe/London:20261222T013000
+DTSTAMP:20261116T000000Z
+UID:3fb80fcb68a977ed4743@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
+  to Tuesday 22 December 2026\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20261222T224500
+DTEND;TZID=Europe/London:20261223T013000
+DTSTAMP:20261116T000000Z
+UID:f8609cbd6446a8b4516d@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
+  to Tuesday 22 December 2026\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Weaver line: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:4fe92949e6adba9b3061@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:cb24a271f9de14381cd5@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on the entire line
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261116T000000Z
+UID:144230676b718508b9b6@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
+ as listed by TfL: Saturday 26 December 2026\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on the entire line\, until 10:15
+DTSTART;TZID=Europe/London:20270103T043000
+DTEND;TZID=Europe/London:20270103T101500
+DTSTAMP:20261116T000000Z
+UID:f5cbb8f4b9b51249e79b@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\, until
+  10:15\nDates as listed by TfL: Sunday 3 January 2027\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270105T224500
+DTEND;TZID=Europe/London:20270106T013000
+DTSTAMP:20261116T000000Z
+UID:e98f11cf7753fa6e4737@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Tuesday 5 January to Thursday 7 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270106T224500
+DTEND;TZID=Europe/London:20270107T013000
+DTSTAMP:20261116T000000Z
+UID:838d6bac81dada37b7c1@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Tuesday 5 January to Thursday 7 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270107T224500
+DTEND;TZID=Europe/London:20270108T013000
+DTSTAMP:20261116T000000Z
+UID:41ea11473d8065bc55b3@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Tuesday 5 January to Thursday 7 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Weaver line: Hackney Downs to Chingford
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:37b2713d857a5108ad2a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nHackney Downs to Chingford\nDa
+ tes as listed by TfL: Sunday 24 January 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270201T224500
+DTEND;TZID=Europe/London:20270202T013000
+DTSTAMP:20261116T000000Z
+UID:4c6142e3646850afa81e@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 1 Februar
+ y to Thursday 4 February 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270202T224500
+DTEND;TZID=Europe/London:20270203T013000
+DTSTAMP:20261116T000000Z
+UID:f58e82c89aca1313c482@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 1 Februar
+ y to Thursday 4 February 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270203T224500
+DTEND;TZID=Europe/London:20270204T013000
+DTSTAMP:20261116T000000Z
+UID:7713fe26c36cb6ba76fa@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 1 Februar
+ y to Thursday 4 February 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270204T224500
+DTEND;TZID=Europe/London:20270205T013000
+DTSTAMP:20261116T000000Z
+UID:a85f032acdbe3c1b0837@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 1 Februar
+ y to Thursday 4 February 2027\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt after
+  22:45
+DTSTART;TZID=Europe/London:20270215T224500
+DTEND;TZID=Europe/London:20270216T013000
+DTSTAMP:20261116T000000Z
+UID:d21d77e9c6487770078e@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt after 22:45\nDates as listed by TfL: Mo
+ nday 15 February to Thursday 18 February 2027\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt after
+  22:45
+DTSTART;TZID=Europe/London:20270216T224500
+DTEND;TZID=Europe/London:20270217T013000
+DTSTAMP:20261116T000000Z
+UID:fa5dad821728e7c99734@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt after 22:45\nDates as listed by TfL: Mo
+ nday 15 February to Thursday 18 February 2027\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt after
+  22:45
+DTSTART;TZID=Europe/London:20270217T224500
+DTEND;TZID=Europe/London:20270218T013000
+DTSTAMP:20261116T000000Z
+UID:dd45730b3f84f5a55e3e@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt after 22:45\nDates as listed by TfL: Mo
+ nday 15 February to Thursday 18 February 2027\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt after
+  22:45
+DTSTART;TZID=Europe/London:20270218T224500
+DTEND;TZID=Europe/London:20270219T013000
+DTSTAMP:20261116T000000Z
+UID:a435171c3a21016654d0@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt after 22:45\nDates as listed by TfL: Mo
+ nday 15 February to Thursday 18 February 2027\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: Entire line closed until 10:15
+DTSTART;TZID=Europe/London:20270221T043000
+DTEND;TZID=Europe/London:20270221T101500
+DTSTAMP:20261116T000000Z
+UID:dcc4b6a834612f6797da@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nEntire line closed until 10:15\nDates
+  as listed by TfL: Sunday 21 February 2027\n\nSource: TfL planned track cl
+ osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
+ nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
+ ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
+ e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270315T224500
+DTEND;TZID=Europe/London:20270316T013000
+DTSTAMP:20261116T000000Z
+UID:63745c8e0d1c89d80f10@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 15 March 
+ to Thursday 18 March 2027\n\nSource: TfL planned track closures\, correct 
+ at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
+ osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
+ n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
+ status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270316T224500
+DTEND;TZID=Europe/London:20270317T013000
+DTSTAMP:20261116T000000Z
+UID:2e93b13f391cc4b21e56@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 15 March 
+ to Thursday 18 March 2027\n\nSource: TfL planned track closures\, correct 
+ at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
+ osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
+ n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
+ status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270317T224500
+DTEND;TZID=Europe/London:20270318T013000
+DTSTAMP:20261116T000000Z
+UID:6bf031f346d9d622476c@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 15 March 
+ to Thursday 18 March 2027\n\nSource: TfL planned track closures\, correct 
+ at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
+ osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
+ n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
+ status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford\, after 22:45
+DTSTART;TZID=Europe/London:20270318T224500
+DTEND;TZID=Europe/London:20270319T013000
+DTSTAMP:20261116T000000Z
+UID:8ca28d7000d9e9f2ff17@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford\, after 22:45\nDates as listed by TfL: Monday 15 March 
+ to Thursday 18 March 2027\n\nSource: TfL planned track closures\, correct 
+ at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
+ osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
+ n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
+ status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on the entire line until 10:15
+DTSTART;TZID=Europe/London:20270328T043000
+DTEND;TZID=Europe/London:20270328T101500
+DTSTAMP:20261116T000000Z
+UID:b5c519fd984200f0683d@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
+ 0:15\nDates as listed by TfL: Sunday 28 March 2027\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270329T224500
+DTEND;TZID=Europe/London:20270330T013000
+DTSTAMP:20261116T000000Z
+UID:07a02966e68aff3722b5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270330T224500
+DTEND;TZID=Europe/London:20270331T013000
+DTSTAMP:20261116T000000Z
+UID:53077c6a0d7aa8082346@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270331T224500
+DTEND;TZID=Europe/London:20270401T013000
+DTSTAMP:20261116T000000Z
+UID:6cc248a692eb74b2c20c@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270401T224500
+DTEND;TZID=Europe/London:20270402T013000
+DTSTAMP:20261116T000000Z
+UID:25b9a95363257baf1505@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20270426T224500
+DTEND;TZID=Europe/London:20270427T013000
+DTSTAMP:20261116T000000Z
+UID:0eea489f355ee22692d9@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 26 April to
+  Thursday 29 April 2027\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20270427T224500
+DTEND;TZID=Europe/London:20270428T013000
+DTSTAMP:20261116T000000Z
+UID:0882526243680f9e825d@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 26 April to
+  Thursday 29 April 2027\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20270428T224500
+DTEND;TZID=Europe/London:20270429T013000
+DTSTAMP:20261116T000000Z
+UID:74b43d11c9682be79fd5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 26 April to
+  Thursday 29 April 2027\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Chingford after 22:45
+DTSTART;TZID=Europe/London:20270429T224500
+DTEND;TZID=Europe/London:20270430T013000
+DTSTAMP:20261116T000000Z
+UID:0236b58818d859489125@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Chingford after 22:45\nDates as listed by TfL: Monday 26 April to
+  Thursday 29 April 2027\n\nSource: TfL planned track closures\, correct at
+  Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
+ ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
+ change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
+ atus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Weaver line: No service on the entire line until 10:15
+DTSTART;TZID=Europe/London:20270509T043000
+DTEND;TZID=Europe/London:20270509T101500
+DTSTAMP:20261116T000000Z
+UID:34f576a8a1b1cb46a3c5@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
+ 0:15\nDates as listed by TfL: Sunday 9 May 2027\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
+ fL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270510T224500
+DTEND;TZID=Europe/London:20270511T013000
+DTSTAMP:20261116T000000Z
+UID:271e4d14d7ad8dbebcc0@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 10 May to Thursday 13 May 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270511T224500
+DTEND;TZID=Europe/London:20270512T013000
+DTSTAMP:20261116T000000Z
+UID:ee0f2b30accd5d10202b@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 10 May to Thursday 13 May 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270512T224500
+DTEND;TZID=Europe/London:20270513T013000
+DTSTAMP:20261116T000000Z
+UID:95c1ed370985c74f4601@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 10 May to Thursday 13 May 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
+ er 22:45
+DTSTART;TZID=Europe/London:20270513T224500
+DTEND;TZID=Europe/London:20270514T013000
+DTSTAMP:20261116T000000Z
+UID:5c5172289558d9828013@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
+ Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
+ Monday 10 May to Thursday 13 May 2027\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

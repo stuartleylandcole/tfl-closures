@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the DLR from TfL's published list\, plus l
+ ive updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the DLR from TfL's published list, plus l
+ ive updates. Unofficial; check before you travel.
+NAME:TfL closures: DLR
+X-WR-CALNAME:TfL closures: DLR
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#00A4A7
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Stratford International to Canning Town
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261116T000000Z
+UID:1de09389662ce7214cc2@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nStratford International to Can
+ ning Town\nDates as listed by TfL: Saturday 21 November to Sunday 22 Novem
+ ber 2026\n\nSource: TfL planned track closures\, correct at Monday 16 Nove
+ mber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=acc
+ c98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check b
+ efore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffici
+ al calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ DLR: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:f8d9b68090bbdfa09039@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ DLR: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:871bf4b18f97728d077b@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Poplar to Stratford and West India Quay
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:8303a4552bad19123106@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford and West I
+ ndia Quay\nDates as listed by TfL: Sunday 17 January 2027\n\nSource: TfL p
+ lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
+ v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
+ 8a097b8f&type=document\nPlans can change. Check before you travel: https:/
+ /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
+ ted with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Tower Gateway to Shadwell
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:52423187ec0a46a9906a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
+ es as listed by TfL: Sunday 24 January 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Custom House to Beckton
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261116T000000Z
+UID:cf11ebc6f1b17a4b36cf@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCustom House to Beckton\nDates
+  as listed by TfL: Saturday 6 February to Sunday 7 February 2027\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Tower Gateway to Shadwell
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20261116T000000Z
+UID:747b1d1df08a4a3feaa1@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
+ es as listed by TfL: Sunday 28 February 2027\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Poplar to Stratford and West India Quay
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261116T000000Z
+UID:4ba695a7746bd9c75b2a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford and West I
+ ndia Quay\nDates as listed by TfL: Saturday 13 March to Sunday 14 March 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Tower Gateway to Shadwell
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261116T000000Z
+UID:f59cc02e9fe347bce3a6@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
+ es as listed by TfL: Sunday 21 March 2027\n\nSource: TfL planned track clo
+ sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
+ t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
+ cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
+ -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Poplar to Stratford\; Westferry to Canning Town
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20261116T000000Z
+UID:9f75b4b27c80f645e058@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford\nWestferry
+  to Canning Town\nDates as listed by TfL: Friday 26 March to Monday 29 Mar
+ ch 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Tower Gateway to Shadwell
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261116T000000Z
+UID:3e9b99037d24954d052c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
+ es as listed by TfL: Sunday 4 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Westferry and Poplar to Lewisham
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261116T000000Z
+UID:0c5f82b9fc856890442b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWestferry and Poplar to Lewish
+ am\nDates as listed by TfL: Saturday 1 May to Monday 3 May 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 DLR: Bank and Tower Gateway to Poplar and West India Quay
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:a4947d033da6fdbdc308@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nBank and Tower Gateway to Popl
+ ar and West India Quay\nDates as listed by TfL: Saturday 8 May to Sunday 9
+  May 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Nov
+ ember 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=ac
+ cc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check 
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
+ ial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

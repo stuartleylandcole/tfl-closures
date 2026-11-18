@@ -1,0 +1,41 @@
+{
+  "published": "2026-11-16",
+  "pdf_url": "https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document",
+  "pdf_sha256": "3480af6a8712a7c3fe98e3a31c91668a433908c281885a5364704fc7225b15b5",
+  "pdf_rows": 242,
+  "pdf_event_count": 396,
+  "live_status_used": false,
+  "events_per_feed": {
+    "bakerloo": 7,
+    "central": 14,
+    "circle": 6,
+    "district": 17,
+    "hammersmith-city": 9,
+    "jubilee": 7,
+    "metropolitan": 7,
+    "northern": 5,
+    "piccadilly": 18,
+    "victoria": 2,
+    "waterloo-city": 2,
+    "elizabeth": 72,
+    "dlr": 13,
+    "liberty": 9,
+    "lioness": 13,
+    "mildmay": 80,
+    "suffragette": 15,
+    "weaver": 42,
+    "windrush": 53,
+    "tram": 3,
+    "london-cable-car": 2,
+    "all": 396
+  },
+  "date_warnings": [
+    "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
+    "p12 Piccadilly: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
+    "p14 Circle: TfL's PDF says 'Sunday 6 February', but 6 February 2027 is a Saturday. Assumed Saturday 6 February.",
+    "p14 District: TfL's PDF says 'Sunday 6 February', but 6 February 2027 is a Saturday. Assumed Saturday 6 February.",
+    "p14 Hammersmith & City: TfL's PDF says 'Sunday 6 February', but 6 February 2027 is a Saturday. Assumed Saturday 6 February."
+  ],
+  "unreadable_rows": [],
+  "live_report": []
+}

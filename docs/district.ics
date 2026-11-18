@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the District from TfL's published list\, p
+ lus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the District from TfL's published list, p
+ lus live updates. Unofficial; check before you travel.
+NAME:TfL closures: District
+X-WR-CALNAME:TfL closures: District
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#00782A
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 District: Edgware Road to High Street Kensington
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261116T000000Z
+UID:7febc275138818b4a7fa@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to High Street Ke
+ nsington\nDates as listed by TfL: Saturday 28 November to Sunday 29 Novemb
+ er 2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Turnham Green to Richmond
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261116T000000Z
+UID:a171d6d558ce6605d269@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
+ es as listed by TfL: Sunday 6 December 2026\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ District: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:37bd0c854df6efeb00a8@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ District: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:2bf830a95f1868481fa2@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: East Ham to Barking\, eastbound\; Upney to East Ham
+ \, westbound
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20261116T000000Z
+UID:fad4a34557bb43c04ea1@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
+ d\nUpney to East Ham\, westbound\nDates as listed by TfL: Saturday 26 Dece
+ mber to Tuesday 29 December 2026\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: East Ham to Barking\, eastbound\; Upney to East Ham
+ \, westbound
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20261116T000000Z
+UID:8744dee8e87fdd00ded0@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
+ d\nUpney to East Ham\, westbound\nDates as listed by TfL: Monday 28 Decemb
+ er to Tuesday 29 December 2026\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: East Ham to Barking\, eastbound\; Upney to East Ham
+ \, westbound
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:88521eb02c1e2bbee1a5@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
+ d\nUpney to East Ham\, westbound\nDates as listed by TfL: Sunday 10 Januar
+ y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
+ er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
+ 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
+  calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Turnham Green to Richmond
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:8f356ecb72f3dba6744a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
+ es as listed by TfL: Saturday 16 January to Sunday 17 January 2027\n\nSour
+ ce: TfL planned track closures\, correct at Monday 16 November 2026. https
+ ://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-
+ a43b-3de08a097b8f&type=document\nPlans can change. Check before you travel
+ : https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, no
+ t affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Turnham Green to Richmond
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:e3ce968e8a9e33c73401@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
+ es as listed by TfL: Saturday 23 January to Sunday 24 January 2027\n\nSour
+ ce: TfL planned track closures\, correct at Monday 16 November 2026. https
+ ://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-
+ a43b-3de08a097b8f&type=document\nPlans can change. Check before you travel
+ : https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, no
+ t affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Earl's Court to Whitechapel\; Parsons Green to Wimb
+ ledon
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261116T000000Z
+UID:563332b32b864a5463e2@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEarl's Court to Whitechapel\nP
+ arsons Green to Wimbledon\nDates as listed by TfL: Saturday 6 February to 
+ Sunday 7 February 2027\n\n⚠️ TfL's PDF says 'Sunday 6 February'\, but 
+ 6 February 2027 is a Saturday. Assumed Saturday 6 February.\n\nSource: TfL
+  planned track closures\, correct at Monday 16 November 2026. https://tfl.
+ gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3d
+ e08a097b8f&type=document\nPlans can change. Check before you travel: https
+ ://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affil
+ iated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: East Ham to Barking\, eastbound only\; Upney to Eas
+ t Ham\, westbound only
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261116T000000Z
+UID:5ec4a938328257c8a115@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
+ d only\nUpney to East Ham\, westbound only\nDates as listed by TfL: Sunday
+  14 February 2027\n\nSource: TfL planned track closures\, correct at Monda
+ y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
+ df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
+ . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
+ \nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Edgware Road to High Street Kensington
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261116T000000Z
+UID:3434592299c3dd6eb19c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to High Street Ke
+ nsington\nDates as listed by TfL: Saturday 13 March to Sunday 14 March 202
+ 7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
+ 26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
+ 761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
+ ndar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Parsons Green to Wimbledon
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261116T000000Z
+UID:2448828fa301b26262a1@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nParsons Green to Wimbledon\nDa
+ tes as listed by TfL: Saturday 20 March to Sunday 21 March 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Turnham Green to Richmond
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261116T000000Z
+UID:1c5285418f12f7119257@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
+ es as listed by TfL: Sunday 11 April 2027\n\nSource: TfL planned track clo
+ sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
+ t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
+ cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
+ -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Edgware Road and Embankment to Ealing Broadway\, Ke
+ nsington (Olympia)\, Richmond and Wimbledon
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20261116T000000Z
+UID:7dd6b13bdfaff4743f9f@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road and Embankment to
+  Ealing Broadway\, Kensington (Olympia)\, Richmond and Wimbledon\nDates as
+  listed by TfL: Saturday 17 April to Sunday 18 April 2027\n\nSource: TfL p
+ lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
+ v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
+ 8a097b8f&type=document\nPlans can change. Check before you travel: https:/
+ /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
+ ted with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Earl's Court to Ealing Broadway\, Kensington (Olymp
+ ia) and Richmond
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261116T000000Z
+UID:09697ec8ea565ea1f309@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nEarl's Court to Ealing Broadwa
+ y\, Kensington (Olympia) and Richmond\nDates as listed by TfL: Saturday 1 
+ May to Monday 3 May 2027\n\nSource: TfL planned track closures\, correct a
+ t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
+ sures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 District: Turnham Green to Ealing Broadway
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:7d5a4a2b8bff48b9ce5a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Ealing Broadw
+ ay\nDates as listed by TfL: Saturday 8 May to Sunday 9 May 2027\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1555 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Mildmay line from TfL's published list
+ \, plus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Mildmay line from TfL's published lis
+ t, plus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Mildmay line
+X-WR-CALNAME:TfL closures: Mildmay line
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#006FE6
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261116T000000Z
+UID:7fd8c5498b3e152b703b@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+ \nDates as listed by TfL: Sunday 22 November 2026\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Stratford after 22:15
+DTSTART;TZID=Europe/London:20261122T221500
+DTEND;TZID=Europe/London:20261123T013000
+DTSTAMP:20261116T000000Z
+UID:e4724ba0c6832457230b@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Stratford after 22:15\nDates as listed by TfL: Sunday 22 November 2
+ 026\n\nSource: TfL planned track closures\, correct at Monday 16 November 
+ 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
+ -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
+  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
+ lendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261116T000000Z
+UID:6830736e21058b623c87@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+ \nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20261208T234500
+DTEND;TZID=Europe/London:20261209T013000
+DTSTAMP:20261116T000000Z
+UID:154d79230ae4caf987ad@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20261209T230000
+DTEND;TZID=Europe/London:20261210T013000
+DTSTAMP:20261116T000000Z
+UID:a2842294ab88cf2e4c22@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20261209T234500
+DTEND;TZID=Europe/London:20261210T013000
+DTSTAMP:20261116T000000Z
+UID:2d4000f105faa698828c@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20261210T230000
+DTEND;TZID=Europe/London:20261211T013000
+DTSTAMP:20261116T000000Z
+UID:2b23ac5df0aac36b2f7a@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20261210T234500
+DTEND;TZID=Europe/London:20261211T013000
+DTSTAMP:20261116T000000Z
+UID:dcd2553665c7a6264944@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Stratford\, after 22:15
+DTSTART;TZID=Europe/London:20261213T221500
+DTEND;TZID=Europe/London:20261214T013000
+DTSTAMP:20261116T000000Z
+UID:2ffc094a187b3ea7d040@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Stratford\, after 22:15\nDates as listed by TfL: Sunday 13 December
+  2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
+ r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
+ cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
+ calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20261214T234500
+DTEND;TZID=Europe/London:20261215T013000
+DTSTAMP:20261116T000000Z
+UID:d0e80d3edca76681713d@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20261215T043000
+DTEND;TZID=Europe/London:20261215T061500
+DTSTAMP:20261116T000000Z
+UID:4c9ba555c669838ac91c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
+ 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20261215T234500
+DTEND;TZID=Europe/London:20261216T013000
+DTSTAMP:20261116T000000Z
+UID:b2004547524d6640c772@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20261216T043000
+DTEND;TZID=Europe/London:20261216T061500
+DTSTAMP:20261116T000000Z
+UID:b27eeb258b6ac47ed980@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
+ 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20261216T234500
+DTEND;TZID=Europe/London:20261217T013000
+DTSTAMP:20261116T000000Z
+UID:3e11f0155a5dfdad8b32@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20261217T043000
+DTEND;TZID=Europe/London:20261217T061500
+DTSTAMP:20261116T000000Z
+UID:d68fa45a3444b162e307@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
+ 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20261217T234500
+DTEND;TZID=Europe/London:20261218T013000
+DTSTAMP:20261116T000000Z
+UID:551c68c1cd236b9a0ef3@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
+ nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
+ uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
+ 097b8f&type=document\nPlans can change. Check before you travel: https://t
+ fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
+ d with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20261218T043000
+DTEND;TZID=Europe/London:20261218T061500
+DTSTAMP:20261116T000000Z
+UID:17d1ef16bf75688a528a@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
+ 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Mildmay line: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:90880f59aaf346d3e338@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Mildmay line: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:e543735efde86ff5cd12@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond and Shepherd's B
+ ush
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20261116T000000Z
+UID:4eac2429121c34a04a11@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+  and Shepherd's Bush\nDates as listed by TfL: Saturday 26 December 2026\n
+ \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
+  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
+ -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
+ r\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:db30c019f3d374c53334@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
+ s as listed by TfL: Saturday 9 January to Sunday 10 January 2027\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Clapham Junction
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261116T000000Z
+UID:7e0241f31dfc5d1a1c0e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Clapham 
+ Junction\nDates as listed by TfL: Sunday 10 January 2027\n\nSource: TfL pl
+ anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
+ .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
+ a097b8f&type=document\nPlans can change. Check before you travel: https://
+ tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
+ ed with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford\; South Acton to Richm
+ ond
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261116T000000Z
+UID:4dc9b18c78f3c3ce9434@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nSout
+ h Acton to Richmond\nDates as listed by TfL: Saturday 16 January to Sunday
+  17 January 2027\n\nSource: TfL planned track closures\, correct at Monday
+  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pd
+ f?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change.
+  Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\n
+ Unofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270118T234500
+DTEND;TZID=Europe/London:20270119T013000
+DTSTAMP:20261116T000000Z
+UID:f1d051267666c1578a3f@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 18 January to Tuesday 19 January 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270119T234500
+DTEND;TZID=Europe/London:20270120T013000
+DTSTAMP:20261116T000000Z
+UID:7ec50b62dd39c2840fb2@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 18 January to Tuesday 19 January 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270120T230000
+DTEND;TZID=Europe/London:20270121T013000
+DTSTAMP:20261116T000000Z
+UID:5922cea88f5e7fd3bf71@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 20 January to Thursday 21 January 2027\n\nSource: TfL plan
+ ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
+ k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
+ 97b8f&type=document\nPlans can change. Check before you travel: https://tf
+ l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
+  with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270121T230000
+DTEND;TZID=Europe/London:20270122T013000
+DTSTAMP:20261116T000000Z
+UID:f71e33cea09660a7ee43@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 20 January to Thursday 21 January 2027\n\nSource: TfL plan
+ ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
+ k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
+ 97b8f&type=document\nPlans can change. Check before you travel: https://tf
+ l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
+  with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:627edaa72eb6f2284881@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
+ s as listed by TfL: Saturday 23 January to Sunday 24 January 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: South Acton to Richmond
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261116T000000Z
+UID:5023cf1607eac623dbb7@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nSouth Acton to Richmond\nDates
+  as listed by TfL: Saturday 23 January 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:5cb5b3ca8443245224f7@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+ \nDates as listed by TfL: Sunday 24 January 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270125T234500
+DTEND;TZID=Europe/London:20270126T013000
+DTSTAMP:20261116T000000Z
+UID:bbba360712fb6dec496d@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 25 January to Tuesday 26 January 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270126T043000
+DTEND;TZID=Europe/London:20270126T061500
+DTSTAMP:20261116T000000Z
+UID:091793b7fbb23101a149@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 2
+ 6 January to Wednesday 27 January 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270126T234500
+DTEND;TZID=Europe/London:20270127T013000
+DTSTAMP:20261116T000000Z
+UID:c8bc32aa471d850098ca@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 25 January to Tuesday 26 January 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270127T043000
+DTEND;TZID=Europe/London:20270127T061500
+DTSTAMP:20261116T000000Z
+UID:129b24ef9c989b280ac0@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 2
+ 6 January to Wednesday 27 January 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270128T234500
+DTEND;TZID=Europe/London:20270129T013000
+DTSTAMP:20261116T000000Z
+UID:147774c4c2f1cea90f37@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Thursday 28 January 2027\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270129T043000
+DTEND;TZID=Europe/London:20270129T061500
+DTSTAMP:20261116T000000Z
+UID:5267569ad256978ee3ad@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Friday 29
+  January 2027\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261116T000000Z
+UID:29148e8d5404098064ad@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
+ s as listed by TfL: Saturday 30 January to Sunday 31 January 2027\n\nSourc
+ e: TfL planned track closures\, correct at Monday 16 November 2026. https:
+ //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
+ 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
+  affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261116T000000Z
+UID:651db33ca7cdc1fd0571@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
+ s as listed by TfL: Sunday 7 February 2027\n\nSource: TfL planned track cl
+ osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
+ nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
+ ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
+ e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush after 19:
+ 30 on Saturday until 12:00 on Sunday
+DTSTART;TZID=Europe/London:20270213T193000
+DTEND;TZID=Europe/London:20270214T120000
+DTSTAMP:20261116T000000Z
+UID:ee0f3c405ed272cc192d@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush after 19:30 on Saturday until 12:00 on Sunday\nDates as listed by 
+ TfL: Saturday 13 February to Sunday 14 February 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Camden Road to Stratford
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261116T000000Z
+UID:7d1241440b344ce0ef1f@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
+ s as listed by TfL: Sunday 14 February 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Gospel Oak to Richmond\; Willesden Junction to 
+ Shepherd's Bush
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261116T000000Z
+UID:95fe21bb24e5d118276e@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Richmond\nWilles
+ den Junction to Shepherd's Bush\nDates as listed by TfL: Saturday 20 Febru
+ ary to Sunday 21 February 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270301T234500
+DTEND;TZID=Europe/London:20270302T013000
+DTSTAMP:20261116T000000Z
+UID:20623ced705f5cf58925@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 1 March to Thursday 4 March 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270302T234500
+DTEND;TZID=Europe/London:20270303T013000
+DTSTAMP:20261116T000000Z
+UID:8647d3b93b375f471cab@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 1 March to Thursday 4 March 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270303T230000
+DTEND;TZID=Europe/London:20270304T013000
+DTSTAMP:20261116T000000Z
+UID:d8eedf15dbe86457cf27@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 3 March to Thursday 4 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270303T234500
+DTEND;TZID=Europe/London:20270304T013000
+DTSTAMP:20261116T000000Z
+UID:fdc2f04814a0f3ddb1d2@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 1 March to Thursday 4 March 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270304T230000
+DTEND;TZID=Europe/London:20270305T013000
+DTSTAMP:20261116T000000Z
+UID:7663de8be879562098a5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 3 March to Thursday 4 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270304T234500
+DTEND;TZID=Europe/London:20270305T013000
+DTSTAMP:20261116T000000Z
+UID:78a39dcd08f67d109f88@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 1 March to Thursday 4 March 2027\n\nSource: TfL planned track closur
+ es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
+ lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
+ ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
+ r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Gospel Oak to Richmond and Shepherd's Bush
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261116T000000Z
+UID:766cc9db1b6111763ccd@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Richmond and She
+ pherd's Bush\nDates as listed by TfL: Saturday 6 March to Sunday 7 March 2
+ 027\n\nSource: TfL planned track closures\, correct at Monday 16 November 
+ 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
+ -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
+  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
+ lendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270308T234500
+DTEND;TZID=Europe/London:20270309T013000
+DTSTAMP:20261116T000000Z
+UID:7bfce468ac6a530f1b57@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 8 March to Thursday 11 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270309T043000
+DTEND;TZID=Europe/London:20270309T061500
+DTSTAMP:20261116T000000Z
+UID:9db746fe07b1291562c8@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 9
+  March to Friday 12 March 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270309T234500
+DTEND;TZID=Europe/London:20270310T013000
+DTSTAMP:20261116T000000Z
+UID:a27398ff4f03c8132f18@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 8 March to Thursday 11 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270310T043000
+DTEND;TZID=Europe/London:20270310T061500
+DTSTAMP:20261116T000000Z
+UID:af9cb7fa1ee4259b49a1@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 9
+  March to Friday 12 March 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270310T234500
+DTEND;TZID=Europe/London:20270311T013000
+DTSTAMP:20261116T000000Z
+UID:68c8532da023fc21ca82@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 8 March to Thursday 11 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270311T043000
+DTEND;TZID=Europe/London:20270311T061500
+DTSTAMP:20261116T000000Z
+UID:a11edbed1299ce24dc2c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 9
+  March to Friday 12 March 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270311T234500
+DTEND;TZID=Europe/London:20270312T013000
+DTSTAMP:20261116T000000Z
+UID:435ee822c5ff7b80f3da@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 8 March to Thursday 11 March 2027\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270312T043000
+DTEND;TZID=Europe/London:20270312T061500
+DTSTAMP:20261116T000000Z
+UID:87159be75f630d10d356@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 9
+  March to Friday 12 March 2027\n\nSource: TfL planned track closures\, cor
+ rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
+ ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Stratford\, after 22:15
+DTSTART;TZID=Europe/London:20270314T221500
+DTEND;TZID=Europe/London:20270315T013000
+DTSTAMP:20261116T000000Z
+UID:af820ee02acbb7c3bbb2@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Stratford\, after 22:15\nDates as listed by TfL: Sunday 14 March 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270329T230000
+DTEND;TZID=Europe/London:20270330T013000
+DTSTAMP:20261116T000000Z
+UID:e81fa1c6a60ec5a94574@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270330T230000
+DTEND;TZID=Europe/London:20270331T013000
+DTSTAMP:20261116T000000Z
+UID:e2d68f315d79cd15e5fc@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270330T234500
+DTEND;TZID=Europe/London:20270331T013000
+DTSTAMP:20261116T000000Z
+UID:1dded37f9fc031ff0573@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 30 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270331T230000
+DTEND;TZID=Europe/London:20270401T013000
+DTSTAMP:20261116T000000Z
+UID:d61372d451c42f9e1b57@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270331T234500
+DTEND;TZID=Europe/London:20270401T013000
+DTSTAMP:20261116T000000Z
+UID:4dedbcde02824552f5d4@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 30 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270401T230000
+DTEND;TZID=Europe/London:20270402T013000
+DTSTAMP:20261116T000000Z
+UID:29f0d63a343f32beb0c5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Monday 29 March to Thursday 1 April 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270401T234500
+DTEND;TZID=Europe/London:20270402T013000
+DTSTAMP:20261116T000000Z
+UID:9a12efd19a3a831baf9a@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ uesday 30 March to Thursday 1 April 2027\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Stratford\, after 22:15
+DTSTART;TZID=Europe/London:20270404T221500
+DTEND;TZID=Europe/London:20270405T013000
+DTSTAMP:20261116T000000Z
+UID:4a5a05173500e185943a@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Stratford\, after 22:15\nDates as listed by TfL: Sunday 4 April 202
+ 7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
+ 26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
+ 761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
+ ndar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261116T000000Z
+UID:ea7438c750b69eaf7229@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+ \nDates as listed by TfL: Sunday 11 April 2027\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270412T234500
+DTEND;TZID=Europe/London:20270413T013000
+DTSTAMP:20261116T000000Z
+UID:de6b1f946140b1edbbdd@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 12 April to Tuesday 13 April 2027\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270413T234500
+DTEND;TZID=Europe/London:20270414T013000
+DTSTAMP:20261116T000000Z
+UID:84d72fdd5a3c438825a5@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: M
+ onday 12 April to Tuesday 13 April 2027\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270414T230000
+DTEND;TZID=Europe/London:20270415T013000
+DTSTAMP:20261116T000000Z
+UID:a371bef3bd2aadac4314@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 14 April to Thursday 15 April 2027\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Willesden Junction to Stratford\, eastbound onl
+ y\, after 23:00
+DTSTART;TZID=Europe/London:20270415T230000
+DTEND;TZID=Europe/London:20270416T013000
+DTSTAMP:20261116T000000Z
+UID:2d24f8287ebd90feab62@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
+ n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
+  TfL: Wednesday 14 April to Thursday 15 April 2027\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Stratford to Camden Road\, westbound only\, aft
+ er 23:45
+DTSTART;TZID=Europe/London:20270415T234500
+DTEND;TZID=Europe/London:20270416T013000
+DTSTAMP:20261116T000000Z
+UID:02c8ad5480650c60c5f6@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
+ d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
+ hursday 15 April 2027\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Gospel Oak to Stratford
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20261116T000000Z
+UID:d09dd02fc6b3feb4275c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Stratford\nDates
+  as listed by TfL: Sunday 18 April 2027\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270419T234500
+DTEND;TZID=Europe/London:20270420T013000
+DTSTAMP:20261116T000000Z
+UID:16509f7f8b0937bf876f@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Monday 19 April 2027\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270420T043000
+DTEND;TZID=Europe/London:20270420T061500
+DTSTAMP:20261116T000000Z
+UID:90a96f00ccc2c35f4209@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 2
+ 0 April 2027\n\nSource: TfL planned track closures\, correct at Monday 16 
+ November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
+ =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270421T234500
+DTEND;TZID=Europe/London:20270422T013000
+DTSTAMP:20261116T000000Z
+UID:2cfb878686eda2512096@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Wednesday 21 April to Thursday 22 April 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270422T043000
+DTEND;TZID=Europe/London:20270422T061500
+DTSTAMP:20261116T000000Z
+UID:90a6c704dbc7912fe476@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Thursday 
+ 22 April to Friday 23 April 2027\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Mildmay line: Camden Road to Willesden Junction\, westbound o
+ nly\, after 23:45
+DTSTART;TZID=Europe/London:20270422T234500
+DTEND;TZID=Europe/London:20270423T013000
+DTSTAMP:20261116T000000Z
+UID:ac193c973d5d647d0a70@tfl-closures
+CATEGORIES:Closure in the late evening or overnight only
+DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
+ oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
+ by TfL: Wednesday 21 April to Thursday 22 April 2027\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Shepherd's Bush\, southbo
+ und only\, until 06:15
+DTSTART;TZID=Europe/London:20270423T043000
+DTEND;TZID=Europe/London:20270423T061500
+DTSTAMP:20261116T000000Z
+UID:f8aeb73d7fdd33cf16eb@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
+ 's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Thursday 
+ 22 April to Friday 23 April 2027\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Clapham Junction
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261116T000000Z
+UID:05ffaa6173fe989dc78c@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Clapham 
+ Junction\nDates as listed by TfL: Saturday 1 May to Monday 3 May 2027\n\nS
+ ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
+ tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
+ b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
+  not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Mildmay line: Willesden Junction to Richmond
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261116T000000Z
+UID:7ddc9b2c2c5ee6045411@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
+ \nDates as listed by TfL: Sunday 9 May 2027\n\nSource: TfL planned track c
+ losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
+ ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
+ document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
+ be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

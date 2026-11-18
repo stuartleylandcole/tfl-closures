@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Planned closures on the Bakerloo from TfL's published list\, p
+ lus live updates. Unofficial\; check before you travel.
+X-WR-CALDESC:Planned closures on the Bakerloo from TfL's published list, p
+ lus live updates. Unofficial; check before you travel.
+NAME:TfL closures: Bakerloo
+X-WR-CALNAME:TfL closures: Bakerloo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-APPLE-CALENDAR-COLOR:#B36305
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:🚧 Bakerloo: Queen's Park to Harrow & Wealdstone
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261116T000000Z
+UID:e0c4667ca13590c8d856@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
+ stone\nDates as listed by TfL: Saturday 21 November to Sunday 22 November 
+ 2026\n\nSource: TfL planned track closures\, correct at Monday 16 November
+  2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98c
+ f-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Bakerloo: Queen's Park to Harrow & Wealdstone
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261116T000000Z
+UID:ea4839fd2a027c61db75@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
+ stone\nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ Bakerloo: Services will finish earlier than normal
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261116T000000Z
+UID:24b2601c0b5631ab5f63@tfl-closures
+CATEGORIES:Reduced service or trains not stopping at some stations
+DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
+ \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
+ sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
+ e for last train/tram times\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛔ Bakerloo: No service on Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261116T000000Z
+UID:7608fa7a3db4ea6b8161@tfl-closures
+CATEGORIES:Whole line closed
+DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
+  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
+ res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
+ plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
+ ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
+ lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Bakerloo: Queen's Park to Harrow & Wealdstone
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20261116T000000Z
+UID:a952d8aa25369ee40a29@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
+ stone\nDates as listed by TfL: Saturday 23 January to Sunday 24 January 20
+ 27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
+ 026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
+ e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
+ endar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Bakerloo: Stonebridge Park to Harrow & Wealdstone
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20261116T000000Z
+UID:e534d271dbbebb727a77@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nStonebridge Park to Harrow & W
+ ealdstone\nDates as listed by TfL: Friday 26 March to Monday 29 March 2027
+ \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
+ 6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
+ 61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
+ dar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚧 Bakerloo: Stonebridge Park to Harrow & Wealdstone
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261116T000000Z
+UID:2f370a6d17b545a297bf@tfl-closures
+CATEGORIES:Part of the line closed
+DESCRIPTION:🚧 Part of the line closed\n\nStonebridge Park to Harrow & W
+ ealdstone\nDates as listed by TfL: Saturday 1 May to Monday 3 May 2027\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
+ \, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR
