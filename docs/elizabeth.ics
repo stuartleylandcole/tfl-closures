@@ -40,12 +40,19 @@ UID:988e95632e68df9fe049@tfl-closures
 CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
- inal 4\nDates as listed by TfL: Sunday 22 November 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ inal 4\nDates as listed by TfL: Sunday 22 November 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): ELIZABETH LINE: Sunday 22 Nove
+ mber\, until 0740\, no service between Paddington and Ealing Broadway.\nTf
+ L live status (Reduced Service\, checked 18 November 2026): ELIZABETH LINE
+ : Sunday 22 November\, from 0740\, a reduced service operates between Padd
+ ington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West
+  Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour 
+ serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadw
+ ay\, Southall and Hayes & Harlington.\n\nSource: TfL planned track closure
+ s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
+ annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
+ nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -58,12 +65,20 @@ DTSTAMP:20261116T000000Z
 UID:d0ecfc62f4971ec588a4@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
- \, until 07:45\nDates as listed by TfL: Sunday 22 November 2026\n\nSource:
-  TfL planned track closures\, correct at Monday 16 November 2026. https://
- tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
- b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ \, until 07:45\nDates as listed by TfL: Sunday 22 November 2026\n\nTfL liv
+ e status (Part Closure\, checked 18 November 2026): ELIZABETH LINE: Sunday
+  22 November\, until 0740\, no service between Paddington and Ealing Broad
+ way.\nTfL live status (Reduced Service\, checked 18 November 2026): ELIZAB
+ ETH LINE: Sunday 22 November\, from 0740\, a reduced service operates betw
+ een Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour se
+ rve West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains 
+ an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealin
+ g Broadway\, Southall and Hayes & Harlington.\n\nSource: TfL planned track
+  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
+ ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
+ e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
+ tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
+ .
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -78,12 +93,23 @@ UID:8f60895f6fa87427af0e@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Mai
  denhead\nPaddington to Abbey Wood and Shenfield\nDates as listed by TfL: S
- aturday 28 November to Sunday 29 November 2026\n\nSource: TfL planned trac
- k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
- cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
- pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ aturday 28 November to Sunday 29 November 2026\n\nTfL live status (Part Cl
+ osure\, checked 18 November 2026): ELIZABETH LINE: Saturday 28 and Sunday 
+ 29 November\, no service between Maidenhead / Heathrow (all terminals) and
+  Abbey Wood / Shenfield. Use PICCADILLY LINE services between Heathrow and
+  Central London. LONDON PADDINGTON STATION will be closed on this day\, wi
+ th no HEATHROW EXPRESS services. GWR services will not run between Maidenh
+ ead / Greenford and Paddington\, with limited long distance services to/fr
+ om Euston. There will also be no GREATER ANGLIA services on these days bet
+ ween Shenfield / Southend Victoria / Southminster and Liverpool Street\, u
+ se CENTRAL LINE connections between Ealing Broadway\, West Acton (for Acto
+ n Main Line)\, Central London\, Liverpool Street\, Stratford and Newbury P
+ ark. Replacement bus services operate\, not serving Iver\, please use Lang
+ ley instead.\n\nSource: TfL planned track closures\, correct at Monday 16 
+ November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
+ =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -96,12 +122,15 @@ DTSTAMP:20261116T000000Z
 UID:5669c9d1f29d8b42ab1f@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough until 0
- 9:00\nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL planne
- d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
- api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
- b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ 9:00\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (P
+ art Closure\, checked 18 November 2026): ELIZABETH LINE: Sunday 6 December
+ \, until 0900\, no service between West Drayton and Slough. Replacement bu
+ s service W1 operates between Hayes & Harlington and Slough via West Drayt
+ on and Langley (not serving Iver).\n\nSource: TfL planned track closures\,
+  correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plann
+ edtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document
+ \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
+ verground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -117,11 +146,18 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing: Trains will not stop after 
  23:00 on Saturday and until 09:00 on Sunday\nDates as listed by TfL: Satur
- day 12 December to Sunday 13 December 2026\n\nSource: TfL planned track cl
- osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
- nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
- ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
- e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ day 12 December to Sunday 13 December 2026\n\nTfL live status (Reduced Ser
+ vice\, checked 18 November 2026): ELIZABETH LINE: Sunday 13 December\, a r
+ educed service operates between Paddington and Heathrow Terminal 4 / Maide
+ nhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langl
+ ey\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow T
+ erminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and 
+ Hayes & Harlington. Acton Main Line\, Hanwell and West Ealing stations are
+  CLOSED.\n\nSource: TfL planned track closures\, correct at Monday 16 Nove
+ mber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=acc
+ c98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check b
+ efore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffici
+ al calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -136,12 +172,18 @@ UID:6492223d3390b0966dda@tfl-closures
 CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
- inal 4\nDates as listed by TfL: Sunday 13 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ inal 4\nDates as listed by TfL: Sunday 13 December 2026\n\nTfL live status
+  (Reduced Service\, checked 18 November 2026): ELIZABETH LINE: Sunday 13 D
+ ecember\, a reduced service operates between Paddington and Heathrow Termi
+ nal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Dr
+ ayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour ser
+ ve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, 
+ Southall and Hayes & Harlington. Acton Main Line\, Hanwell and West Ealing
+  stations are CLOSED.\n\nSource: TfL planned track closures\, correct at M
+ onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
+ es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -173,11 +215,15 @@ DTSTAMP:20261116T000000Z
 UID:47d2ca06bc49bc13498f@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): ELIZABETH LINE: Christmas Day\, 25 December
+ \, and Boxing Day\, 26 December\, no service throughout the network. Servi
+ ces resume on Sunday 27 December to a revised Sunday timetable.\n\nSource:
+  TfL planned track closures\, correct at Monday 16 November 2026. https://
+ tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
+ b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
+ ffiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -190,11 +236,15 @@ DTSTAMP:20261116T000000Z
 UID:f66ce9d3603ae2c4cbd1@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
- as listed by TfL: Saturday 26 December 2026\n\nSource: TfL planned track c
- losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
- ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
- document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
+ osure\, checked 18 November 2026): ELIZABETH LINE: Christmas Day\, 25 Dece
+ mber\, and Boxing Day\, 26 December\, no service throughout the network. S
+ ervices resume on Sunday 27 December to a revised Sunday timetable.\n\nSou
+ rce: TfL planned track closures\, correct at Monday 16 November 2026. http
+ s://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3
+ -a43b-3de08a097b8f&type=document\nPlans can change. Check before you trave
+ l: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, n
+ ot affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -209,11 +259,32 @@ UID:a16c0d0eada559a0cf8e@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  l) and Stratford to Romford\nDates as listed by TfL: Saturday 26 December 
- to Sunday 3 January 2027\n\nSource: TfL planned track closures\, correct a
- t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
- sures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can
-  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ to Sunday 3 January 2027\n\nTfL live status (Planned Closure\, checked 18 
+ November 2026): ELIZABETH LINE: Christmas Day\, 25 December\, and Boxing D
+ ay\, 26 December\, no service throughout the network. Services resume on S
+ unday 27 December to a revised Sunday timetable.\nTfL live status (Part Cl
+ osure\, checked 18 November 2026): ELIZABETH LINE: From Sunday 27 December
+  until Sunday 3 January\, no service between Stratford and Romford. The li
+ mited services to/from Liverpool Street National Rail station will also no
+ t operate. There will also be no GREATER ANGLIA services between Liverpool
+  Street and Shenfield. Replacement bus service C operates between Stratfor
+ d City Bus Station (for Stratford and Maryland) and Romford via Forest Gat
+ e (Romford Road)\, Manor Park (Romford Road)\, Ilford\, Seven Kings\, Good
+ mayes (High Road) and Chadwell Heath (Wangey Road). GREATER ANGLIA also op
+ erate connecting non-stop replacement bus services between Newbury Park (f
+ or Central line) and Shenfield / Ingatestone.\nTfL live status (Part Closu
+ re\, checked 18 November 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 
+ December\, no service between Paddington and Heathrow (all terminals) / Re
+ ading. Use GWR services between Slough and Reading. There will also be no 
+ HEATHROW EXPRESS services\, or GWR services between Paddington and Slough 
+ / Greenford\, with some long distance services diverted to/from Euston not
+  serving Reading. Use PICCADILLY LINE services between Central London and 
+ Heathrow\, and between Heathrow terminals. Replacement buses operate.\n\nS
+ ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
+ tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
+ b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
+  not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -227,11 +298,32 @@ UID:17917bb8dd2605300061@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  ugh\nDates as listed by TfL: Saturday 26 December to Wednesday 30 December
-  2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
- r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
- cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+  2026\n\nTfL live status (Planned Closure\, checked 18 November 2026): ELI
+ ZABETH LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 December\, 
+ no service throughout the network. Services resume on Sunday 27 December t
+ o a revised Sunday timetable.\nTfL live status (Part Closure\, checked 18 
+ November 2026): ELIZABETH LINE: From Sunday 27 December until Sunday 3 Jan
+ uary\, no service between Stratford and Romford. The limited services to/f
+ rom Liverpool Street National Rail station will also not operate. There wi
+ ll also be no GREATER ANGLIA services between Liverpool Street and Shenfie
+ ld. Replacement bus service C operates between Stratford City Bus Station 
+ (for Stratford and Maryland) and Romford via Forest Gate (Romford Road)\, 
+ Manor Park (Romford Road)\, Ilford\, Seven Kings\, Goodmayes (High Road) a
+ nd Chadwell Heath (Wangey Road). GREATER ANGLIA also operate connecting no
+ n-stop replacement bus services between Newbury Park (for Central line) an
+ d Shenfield / Ingatestone.\nTfL live status (Part Closure\, checked 18 Nov
+ ember 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 December\, no servi
+ ce between Paddington and Heathrow (all terminals) / Reading. Use GWR serv
+ ices between Slough and Reading. There will also be no HEATHROW EXPRESS se
+ rvices\, or GWR services between Paddington and Slough / Greenford\, with 
+ some long distance services diverted to/from Euston not serving Reading. U
+ se PICCADILLY LINE services between Central London and Heathrow\, and betw
+ een Heathrow terminals. Replacement buses operate.\n\nSource: TfL planned 
+ track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
+ i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
+ f&type=document\nPlans can change. Check before you travel: https://tfl.go
+ v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
+ h TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,11 +338,29 @@ UID:f100e547efa25e742484@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  l) and Stratford to Romford\nDates as listed by TfL: Monday 28 December to
-  Sunday 3 January 2027\n\nSource: TfL planned track closures\, correct at 
- Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosu
- res.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can c
- hange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/sta
- tus/\nUnofficial calendar\, not affiliated with TfL.
+  Sunday 3 January 2027\n\nTfL live status (Part Closure\, checked 18 Novem
+ ber 2026): ELIZABETH LINE: From Sunday 27 December until Sunday 3 January
+ \, no service between Stratford and Romford. The limited services to/from 
+ Liverpool Street National Rail station will also not operate. There will a
+ lso be no GREATER ANGLIA services between Liverpool Street and Shenfield. 
+ Replacement bus service C operates between Stratford City Bus Station (for
+  Stratford and Maryland) and Romford via Forest Gate (Romford Road)\, Mano
+ r Park (Romford Road)\, Ilford\, Seven Kings\, Goodmayes (High Road) and C
+ hadwell Heath (Wangey Road). GREATER ANGLIA also operate connecting non-st
+ op replacement bus services between Newbury Park (for Central line) and Sh
+ enfield / Ingatestone.\nTfL live status (Part Closure\, checked 18 Novembe
+ r 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 December\, no service b
+ etween Paddington and Heathrow (all terminals) / Reading. Use GWR services
+  between Slough and Reading. There will also be no HEATHROW EXPRESS servic
+ es\, or GWR services between Paddington and Slough / Greenford\, with some
+  long distance services diverted to/from Euston not serving Reading. Use P
+ ICCADILLY LINE services between Central London and Heathrow\, and between 
+ Heathrow terminals. Replacement buses operate.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -264,11 +374,28 @@ UID:8b6f3bb8eca9a47df815@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  ugh\nDates as listed by TfL: Monday 28 December to Wednesday 30 December 2
- 026\n\nSource: TfL planned track closures\, correct at Monday 16 November 
- 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
- -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
-  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
- lendar\, not affiliated with TfL.
+ 026\n\nTfL live status (Part Closure\, checked 18 November 2026): ELIZABET
+ H LINE: From Sunday 27 December until Sunday 3 January\, no service betwee
+ n Stratford and Romford. The limited services to/from Liverpool Street Nat
+ ional Rail station will also not operate. There will also be no GREATER AN
+ GLIA services between Liverpool Street and Shenfield. Replacement bus serv
+ ice C operates between Stratford City Bus Station (for Stratford and Maryl
+ and) and Romford via Forest Gate (Romford Road)\, Manor Park (Romford Road
+ )\, Ilford\, Seven Kings\, Goodmayes (High Road) and Chadwell Heath (Wange
+ y Road). GREATER ANGLIA also operate connecting non-stop replacement bus s
+ ervices between Newbury Park (for Central line) and Shenfield / Ingateston
+ e.\nTfL live status (Part Closure\, checked 18 November 2026): ELIZABETH L
+ INE: Sunday 27 to Wednesday 30 December\, no service between Paddington an
+ d Heathrow (all terminals) / Reading. Use GWR services between Slough and 
+ Reading. There will also be no HEATHROW EXPRESS services\, or GWR services
+  between Paddington and Slough / Greenford\, with some long distance servi
+ ces diverted to/from Euston not serving Reading. Use PICCADILLY LINE servi
+ ces between Central London and Heathrow\, and between Heathrow terminals. 
+ Replacement buses operate.\n\nSource: TfL planned track closures\, correct
+  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackc
+ losures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans c
+ an change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground
+ /status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -281,12 +408,22 @@ DTSTAMP:20261116T000000Z
 UID:8b83ea159036ec324e09@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates 
- as listed by TfL: Thursday 31 December to Sunday 3 January 2027\n\nSource:
-  TfL planned track closures\, correct at Monday 16 November 2026. https://
- tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
- b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ as listed by TfL: Thursday 31 December to Sunday 3 January 2027\n\nTfL liv
+ e status (Part Closure\, checked 18 November 2026): ELIZABETH LINE: From S
+ unday 27 December until Sunday 3 January\, no service between Stratford an
+ d Romford. The limited services to/from Liverpool Street National Rail sta
+ tion will also not operate. There will also be no GREATER ANGLIA services 
+ between Liverpool Street and Shenfield. Replacement bus service C operates
+  between Stratford City Bus Station (for Stratford and Maryland) and Romfo
+ rd via Forest Gate (Romford Road)\, Manor Park (Romford Road)\, Ilford\, S
+ even Kings\, Goodmayes (High Road) and Chadwell Heath (Wangey Road). GREAT
+ ER ANGLIA also operate connecting non-stop replacement bus services betwee
+ n Newbury Park (for Central line) and Shenfield / Ingatestone.\n\nSource: 
+ TfL planned track closures\, correct at Monday 16 November 2026. https://t
+ fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
+ -3de08a097b8f&type=document\nPlans can change. Check before you travel: ht
+ tps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not af
+ filiated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -301,12 +438,22 @@ UID:52444fa1486bb7204415@tfl-closures
 CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing stations: Trains will not st
- op\nDates as listed by TfL: Sunday 3 January 2027\n\nSource: TfL planned t
- rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
- /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
- &type=document\nPlans can change. Check before you travel: https://tfl.gov
- .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
-  TfL.
+ op\nDates as listed by TfL: Sunday 3 January 2027\n\nTfL live status (Part
+  Closure\, checked 18 November 2026): ELIZABETH LINE: From Sunday 27 Decem
+ ber until Sunday 3 January\, no service between Stratford and Romford. The
+  limited services to/from Liverpool Street National Rail station will also
+  not operate. There will also be no GREATER ANGLIA services between Liverp
+ ool Street and Shenfield. Replacement bus service C operates between Strat
+ ford City Bus Station (for Stratford and Maryland) and Romford via Forest 
+ Gate (Romford Road)\, Manor Park (Romford Road)\, Ilford\, Seven Kings\, G
+ oodmayes (High Road) and Chadwell Heath (Wangey Road). GREATER ANGLIA also
+  operate connecting non-stop replacement bus services between Newbury Park
+  (for Central line) and Shenfield / Ingatestone.\n\nSource: TfL planned tr
+ ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
+ document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
+ type=document\nPlans can change. Check before you travel: https://tfl.gov.
+ uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
+ TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

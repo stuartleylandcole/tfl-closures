@@ -39,9 +39,37 @@ UID:e0c4667ca13590c8d856@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
  stone\nDates as listed by TfL: Saturday 21 November to Sunday 22 November 
- 2026\n\nSource: TfL planned track closures\, correct at Monday 16 November
-  2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98c
- f-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befor
+ 2026\n\nTfL live status (Part Closure\, checked 18 November 2026): BAKERLO
+ O LINE: Saturday 21 and Sunday 22 November\, no service between Queens Par
+ k and Harrow & Wealdstone. Please note that special bus service 718 will N
+ OT operate. There will also be no LIONESS LINE service between Euston and 
+ Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at 
+ Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & 
+ Wealdstone until 1900 Saturday only\, not on Sunday.\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
+ o take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261126T120000
+DTEND;TZID=Europe/London:20261127T115900
+DTSTAMP:20261116T000000Z
+UID:b99cc95fb896848dfa89@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
  alendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
@@ -56,12 +84,60 @@ DTSTAMP:20261116T000000Z
 UID:ea4839fd2a027c61db75@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
- stone\nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL plann
- ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
- /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
- 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ stone\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (
+ Part Closure\, checked 18 November 2026): BAKERLOO LINE: Sunday 6 December
+ \, no service between Queens Park and Harrow & Wealdstone. There will also
+  be no LIONESS LINE service between Willesden Junction and Harrow & Wealds
+ tone. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY train
+ s continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley
+  Central and Harrow & Wealdstone between 1300 and 2000 only\n\nSource: TfL
+  planned track closures\, correct at Monday 16 November 2026. https://tfl.
+ gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3d
+ e08a097b8f&type=document\nPlans can change. Check before you travel: https
+ ://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affil
+ iated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
+ o take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261217T120000
+DTEND;TZID=Europe/London:20261218T115900
+DTSTAMP:20261116T000000Z
+UID:932d86e021fa9eb9f073@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Bakerloo: Some London Underground Tube drivers are planning t
+ o take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261219T120000
+DTEND;TZID=Europe/London:20261220T115900
+DTSTAMP:20261116T000000Z
+UID:7e568cf4cbf7f63c2676@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -93,11 +169,15 @@ DTSTAMP:20261116T000000Z
 UID:7608fa7a3db4ea6b8161@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ mber\, no service on any line. Services resume on Boxing Day morning to a 
+ revised Sunday timetable. No Night Tube services operate on Christmas Eve 
+ or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
+ 6 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?
+ id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
+ heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
+ official calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

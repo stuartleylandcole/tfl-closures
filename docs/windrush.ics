@@ -40,12 +40,20 @@ UID:5f1237addf05dbe9d1ff@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to New Cross Gate\, during Night Overground hours only\nDates
-  as listed by TfL: Friday 27 November to Saturday 28 November 2026\n\nSour
- ce: TfL planned track closures\, correct at Monday 16 November 2026. https
- ://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-
- a43b-3de08a097b8f&type=document\nPlans can change. Check before you travel
- : https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, no
- t affiliated with TfL.
+  as listed by TfL: Friday 27 November to Saturday 28 November 2026\n\nTfL 
+ live status (Part Closure\, checked 18 November 2026): WINDRUSH LINE: From
+  0100 Saturday 28 and all day Sunday 29 November\, including Friday and Sa
+ turday Night Overground\, no service between Highbury & Islington and Batt
+ ersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LI
+ NE services between Highbury & Islington\, Canonbury and Dalston Kingsland
+ . Replacement bus services operate.\nTfL live status (Reduced Service\, ch
+ ecked 18 November 2026): WINDRUSH LINE: Saturday 28 and Sunday 29 November
+ \, a reduced service operates between New Cross Gate and Crystal Palace / 
+ West Croydon.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -62,11 +70,132 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
  m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
  t Overground service\nDates as listed by TfL: Saturday 28 November to Sund
- ay 29 November 2026\n\nSource: TfL planned track closures\, correct at Mon
- day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
- .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
- ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
- /\nUnofficial calendar\, not affiliated with TfL.
+ ay 29 November 2026\n\nTfL live status (Part Closure\, checked 18 November
+  2026): WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 Novembe
+ r\, including Friday and Saturday Night Overground\, no service between Hi
+ ghbury & Islington and Battersea Park / Clapham Junction / New Cross / New
+  Cross Gate. Use MILDMAY LINE services between Highbury & Islington\, Cano
+ nbury and Dalston Kingsland. Replacement bus services operate.\nTfL live s
+ tatus (Reduced Service\, checked 18 November 2026): WINDRUSH LINE: Saturda
+ y 28 and Sunday 29 November\, a reduced service operates between New Cross
+  Gate and Crystal Palace / West Croydon.\nTfL live status (Part Closure\, 
+ checked 18 November 2026): WINDRUSH LINE: Sunday 29 November\, until 0800
+ \, no service between Sydenham and West Croydon. Customers should use loca
+ l buses or trams via any reasonable route. First Trains: New Cross Gate to
+  West Croydon 0747\; West Croydon to New Cross Gate 0818\n\nSource: TfL pl
+ anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
+ .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
+ a097b8f&type=document\nPlans can change. Check before you travel: https://
+ tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
+ ed with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Monday 30 November\, Tuesday 1\, Wednesday 2 a
+ nd Thursday 3 December\, after 2215 each…
+DTSTART;TZID=Europe/London:20261130T221500
+DTEND;TZID=Europe/London:20261201T012900
+DTSTAMP:20261116T000000Z
+UID:ed7b3c28d30149c128b3@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWINDRUSH LINE: Monday 30 November\, Tuesday 1\, Wednesday 2 and
+  Thursday 3 December\, after 2215 each evening\, no service between Sydenh
+ am and West Croydon. West Croydon trains will divert to and depart from Cr
+ ystal Palace. Use local buses via any reasonable route or Southern Railway
+  trains between Sydenham and Norwood Junction. Tickets will also be accept
+ ed on Southern Railway trains between Crystal Palace and East Croydon (via
+  Norwood Junction)\, and on two Southern Railway rail replacement buses de
+ parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
+ nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
+ oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
+ status (Part Closure)\, checked 18 November 2026.\n\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Monday 30 November\, Tuesday 1\, Wednesday 2 a
+ nd Thursday 3 December\, after 2215 each…
+DTSTART;TZID=Europe/London:20261201T221500
+DTEND;TZID=Europe/London:20261202T012900
+DTSTAMP:20261116T000000Z
+UID:db0f02a8e60ddf2e94ee@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWINDRUSH LINE: Monday 30 November\, Tuesday 1\, Wednesday 2 and
+  Thursday 3 December\, after 2215 each evening\, no service between Sydenh
+ am and West Croydon. West Croydon trains will divert to and depart from Cr
+ ystal Palace. Use local buses via any reasonable route or Southern Railway
+  trains between Sydenham and Norwood Junction. Tickets will also be accept
+ ed on Southern Railway trains between Crystal Palace and East Croydon (via
+  Norwood Junction)\, and on two Southern Railway rail replacement buses de
+ parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
+ nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
+ oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
+ status (Part Closure)\, checked 18 November 2026.\n\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Monday 30 November\, Tuesday 1\, Wednesday 2 a
+ nd Thursday 3 December\, after 2215 each…
+DTSTART;TZID=Europe/London:20261202T221500
+DTEND;TZID=Europe/London:20261203T012900
+DTSTAMP:20261116T000000Z
+UID:006c64f336f04104ab5c@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWINDRUSH LINE: Monday 30 November\, Tuesday 1\, Wednesday 2 and
+  Thursday 3 December\, after 2215 each evening\, no service between Sydenh
+ am and West Croydon. West Croydon trains will divert to and depart from Cr
+ ystal Palace. Use local buses via any reasonable route or Southern Railway
+  trains between Sydenham and Norwood Junction. Tickets will also be accept
+ ed on Southern Railway trains between Crystal Palace and East Croydon (via
+  Norwood Junction)\, and on two Southern Railway rail replacement buses de
+ parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
+ nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
+ oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
+ status (Part Closure)\, checked 18 November 2026.\n\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Monday 30 November\, Tuesday 1\, Wednesday 2 a
+ nd Thursday 3 December\, after 2215 each…
+DTSTART;TZID=Europe/London:20261203T221500
+DTEND;TZID=Europe/London:20261204T012900
+DTSTAMP:20261116T000000Z
+UID:a03669f94c00ca1b06f9@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWINDRUSH LINE: Monday 30 November\, Tuesday 1\, Wednesday 2 and
+  Thursday 3 December\, after 2215 each evening\, no service between Sydenh
+ am and West Croydon. West Croydon trains will divert to and depart from Cr
+ ystal Palace. Use local buses via any reasonable route or Southern Railway
+  trains between Sydenham and Norwood Junction. Tickets will also be accept
+ ed on Southern Railway trains between Crystal Palace and East Croydon (via
+  Norwood Junction)\, and on two Southern Railway rail replacement buses de
+ parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
+ nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
+ oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
+ status (Part Closure)\, checked 18 November 2026.\n\nPlans can change. Che
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
+ ficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -81,12 +210,20 @@ UID:0217195f3b612c8a7946@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to New Cross Gate\, during Night Overground hours only\nDates
-  as listed by TfL: Friday 4 December to Saturday 5 December 2026\n\nSource
- : TfL planned track closures\, correct at Monday 16 November 2026. https:/
- /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
- 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+  as listed by TfL: Friday 4 December to Saturday 5 December 2026\n\nTfL li
+ ve status (Part Closure\, checked 18 November 2026): WINDRUSH LINE: From 0
+ 100 Saturday 5 and all day Sunday 6 December\, including Friday and Saturd
+ ay Night Overground\, no service between Highbury & Islington and Batterse
+ a Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE s
+ ervices between Highbury & Islington\, Canonbury and Dalston Kingsland. Re
+ placement bus services operate.\nTfL live status (Reduced Service\, checke
+ d 18 November 2026): WINDRUSH LINE: Saturday 5 and Sunday 6 December\, a r
+ educed service operates between New Cross Gate and Crystal Palace / West C
+ roydon.\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -103,11 +240,19 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
  m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
  t Overground service\nDates as listed by TfL: Saturday 5 December to Sunda
- y 6 December 2026\n\nSource: TfL planned track closures\, correct at Monda
- y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
- df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
- . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
- \nUnofficial calendar\, not affiliated with TfL.
+ y 6 December 2026\n\nTfL live status (Part Closure\, checked 18 November 2
+ 026): WINDRUSH LINE: From 0100 Saturday 5 and all day Sunday 6 December\, 
+ including Friday and Saturday Night Overground\, no service between Highbu
+ ry & Islington and Battersea Park / Clapham Junction / New Cross / New Cro
+ ss Gate. Use MILDMAY LINE services between Highbury & Islington\, Canonbur
+ y and Dalston Kingsland. Replacement bus services operate.\nTfL live statu
+ s (Reduced Service\, checked 18 November 2026): WINDRUSH LINE: Saturday 5 
+ and Sunday 6 December\, a reduced service operates between New Cross Gate 
+ and Crystal Palace / West Croydon.\n\nSource: TfL planned track closures\,
+  correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plann
+ edtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document
+ \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
+ verground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -122,12 +267,26 @@ UID:b909c6a44b0890d103b4@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
- y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
- ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
- /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
- 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
+ Part Closure\, checked 18 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
+ service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
+ lacement buses will run as follows: The bus for Crystal Palace will depart
+  London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Pa
+ rk\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\,
+  Tulse Hill and Streatham Hill. The bus for East Croydon will depart Londo
+ n Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, F
+ orest Hill\, Sydenham\, Norwood Junction and East Croydon (Arr 01:27). One
+  return bus from Crystal Palace departs at 2359\, calling at all stations 
+ to London Bridge via New Cross Gate. Alternatively\, use local buses or tr
+ ams via any reasonable route. The 2232 and 2247 trains from Highbury & Isl
+ ington to West Croydon will both divert to Crystal Palace. The 2338 train 
+ from Dalston Junction to New Cross Gate will not run\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -142,12 +301,26 @@ UID:e51c46eeb30cdf61c454@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
- y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
- ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
- /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
- 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
+ Part Closure\, checked 18 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
+ service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
+ lacement buses will run as follows: The bus for Crystal Palace will depart
+  London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Pa
+ rk\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\,
+  Tulse Hill and Streatham Hill. The bus for East Croydon will depart Londo
+ n Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, F
+ orest Hill\, Sydenham\, Norwood Junction and East Croydon (Arr 01:27). One
+  return bus from Crystal Palace departs at 2359\, calling at all stations 
+ to London Bridge via New Cross Gate. Alternatively\, use local buses or tr
+ ams via any reasonable route. The 2232 and 2247 trains from Highbury & Isl
+ ington to West Croydon will both divert to Crystal Palace. The 2338 train 
+ from Dalston Junction to New Cross Gate will not run\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -162,12 +335,26 @@ UID:971711bc1400c1f7c1a6@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
- y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
- ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
- /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
- 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
+ Part Closure\, checked 18 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
+ service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
+ lacement buses will run as follows: The bus for Crystal Palace will depart
+  London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Pa
+ rk\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\,
+  Tulse Hill and Streatham Hill. The bus for East Croydon will depart Londo
+ n Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, F
+ orest Hill\, Sydenham\, Norwood Junction and East Croydon (Arr 01:27). One
+  return bus from Crystal Palace departs at 2359\, calling at all stations 
+ to London Bridge via New Cross Gate. Alternatively\, use local buses or tr
+ ams via any reasonable route. The 2232 and 2247 trains from Highbury & Isl
+ ington to West Croydon will both divert to Crystal Palace. The 2338 train 
+ from Dalston Junction to New Cross Gate will not run\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +369,26 @@ UID:70bbd5366a6c5986e1da@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
- y TfL: Monday 7 December to Thursday 10 December 2026\n\nSource: TfL plann
- ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
- /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
- 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
+ Part Closure\, checked 18 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
+ service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
+ lacement buses will run as follows: The bus for Crystal Palace will depart
+  London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Pa
+ rk\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\,
+  Tulse Hill and Streatham Hill. The bus for East Croydon will depart Londo
+ n Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, F
+ orest Hill\, Sydenham\, Norwood Junction and East Croydon (Arr 01:27). One
+  return bus from Crystal Palace departs at 2359\, calling at all stations 
+ to London Bridge via New Cross Gate. Alternatively\, use local buses or tr
+ ams via any reasonable route. The 2232 and 2247 trains from Highbury & Isl
+ ington to West Croydon will both divert to Crystal Palace. The 2338 train 
+ from Dalston Junction to New Cross Gate will not run\n\nSource: TfL planne
+ d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
+ api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
+ b8f&type=document\nPlans can change. Check before you travel: https://tfl.
+ gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
+ ith TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -201,11 +402,23 @@ UID:8acf0d0993d4e441bf4c@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
  uays to New Cross\, after 22:00\nDates as listed by TfL: Sunday 13 Decembe
- r 2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
- er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
- 8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
- ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
-  calendar\, not affiliated with TfL.
+ r 2026\n\nTfL live status (Part Closure\, checked 18 November 2026): WINDR
+ USH LINE: Sunday 13 December\, after 2215\, no service between Highbury & 
+ Islington and Dalston Junction. Rail replacement buses will run as follows
+ : Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston J
+ unction. Alternatively\, use local bus route 30 between Highbury & Islingt
+ on\, Canonbury and Dalston. Last through trains: Highbury & Islington to D
+ alston Junction 2219\; Dalston Junction to Highbury & Islington 2210 (A la
+ ter train runs from Dalston Kingsland to Highbury & Islington at 2218)\nTf
+ L live status (Part Closure\, checked 18 November 2026): WINDRUSH LINE: Su
+ nday 13 December\, from 2200\, no service between Surrey Quays and New Cro
+ ss. Customers should use Windrush Line services to New Cross Gate and then
+  walk or use local bus routes 53\, 177 or 453.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -220,11 +433,23 @@ UID:4d6a2ad477930d9098a9@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to Dalston Junction\, after 22:15\nDates as listed by TfL: Su
- nday 13 December 2026\n\nSource: TfL planned track closures\, correct at M
- onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
- es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
- ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nUnofficial calendar\, not affiliated with TfL.
+ nday 13 December 2026\n\nTfL live status (Part Closure\, checked 18 Novemb
+ er 2026): WINDRUSH LINE: Sunday 13 December\, after 2215\, no service betw
+ een Highbury & Islington and Dalston Junction. Rail replacement buses will
+  run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Ro
+ ad) - Dalston Junction. Alternatively\, use local bus route 30 between Hig
+ hbury & Islington\, Canonbury and Dalston. Last through trains: Highbury &
+  Islington to Dalston Junction 2219\; Dalston Junction to Highbury & Islin
+ gton 2210 (A later train runs from Dalston Kingsland to Highbury & Islingt
+ on at 2218)\nTfL live status (Part Closure\, checked 18 November 2026): WI
+ NDRUSH LINE: Sunday 13 December\, from 2200\, no service between Surrey Qu
+ ays and New Cross. Customers should use Windrush Line services to New Cros
+ s Gate and then walk or use local bus routes 53\, 177 or 453.\n\nSource: T
+ fL planned track closures\, correct at Monday 16 November 2026. https://tf
+ l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
+ 3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
+ iliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -256,11 +481,14 @@ DTSTAMP:20261116T000000Z
 UID:9a9a76d37a7e5d0307d1@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): WINDRUSH LINE: Christmas Day\, 25 December
+ \, no service throughout the line. Services resume on Boxing Day morning t
+ o a revised Sunday timetable.\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -275,11 +503,36 @@ UID:ac9deaa76f662c9e88d2@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to New Cross and 
  Clapham Junction\nSydenham to Crystal Palace\nDates as listed by TfL: Satu
- rday 26 December 2026\n\nSource: TfL planned track closures\, correct at M
- onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
- es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
- ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nUnofficial calendar\, not affiliated with TfL.
+ rday 26 December 2026\n\nTfL live status (Part Closure\, checked 18 Novemb
+ er 2026): WINDRUSH LINE: Boxing Day\, 26 December\, no service between Sur
+ rey Quays and Battersea Park / Clapham Junction / New Cross.\nTfL live sta
+ tus (Part Closure\, checked 18 November 2026): WINDRUSH LINE: Boxing Day\,
+  26 December\, no service between Sydenham and Crystal Palace.\n\nSource: 
+ TfL planned track closures\, correct at Monday 16 November 2026. https://t
+ fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
+ -3de08a097b8f&type=document\nPlans can change. Check before you travel: ht
+ tps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not af
+ filiated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Sunday 27 December\, no service between Surrey
+  Quays and New Cross
+DTSTART;TZID=Europe/London:20261227T043000
+DTEND;TZID=Europe/London:20261228T012900
+DTSTAMP:20261116T000000Z
+UID:cc94745c9264a4c720e0@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWINDRUSH LINE: Sunday 27 December\, no service between Surrey Q
+ uays and New Cross. Customers should use Windrush Line services to New Cro
+ ss Gate and then walk or use local bus routes 53\, 177 or 453.\n\nFrom TfL
+ 's live status (Part Closure)\, checked 18 November 2026.\n\nPlans can cha
+ nge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/statu
+ s/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -38,12 +38,28 @@ DTSTAMP:20261116T000000Z
 UID:7fd8c5498b3e152b703b@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
- \nDates as listed by TfL: Sunday 22 November 2026\n\nSource: TfL planned t
- rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
- /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
- &type=document\nPlans can change. Check before you travel: https://tfl.gov
- .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
-  TfL.
+ \nDates as listed by TfL: Sunday 22 November 2026\n\nTfL live status (Redu
+ ced Service\, checked 18 November 2026): MILDMAY LINE: Sunday 22 November
+ \, until 2215\, a reduced service operates between Camden Road and Willesd
+ en Junction.\nTfL live status (Part Closure\, checked 18 November 2026): M
+ ILDMAY LINE: Sunday 22 November\, from 2215\, no service between Camden Ro
+ ad and Stratford. WINDRUSH LINE services continue to serve Highbury & Isli
+ ngton and Canonbury. Replacement bus service S operates between Camden Roa
+ d and Stratford via Holloway Road (for Piccadilly line)\, Highbury & Islin
+ gton (for Caledonian Road & Barnsbury)\, Canonbury (St Pauls Road)\, Dalst
+ on Junction (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackn
+ ey Wick. Some westbound journeys continue beyond Camden Road if required\,
+  serving all stations to Richmond\, except Brondesbury Park\, but call at 
+ Queens Park instead.\nTfL live status (Part Closure\, checked 18 November 
+ 2026): MILDMAY LINE: Sunday 22 November\, no service between Willesden Jun
+ ction and Richmond. Use DISTRICT LINE services between Gunnersbury and Ric
+ hmond. Replacement bus service R operates between Willesden Junction and G
+ unnersbury via Acton Central (The Vale) and South Acton (Acton Lane).\n\nS
+ ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
+ tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
+ b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
+  not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -57,11 +73,25 @@ UID:e4724ba0c6832457230b@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Stratford after 22:15\nDates as listed by TfL: Sunday 22 November 2
- 026\n\nSource: TfL planned track closures\, correct at Monday 16 November 
- 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
- -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
-  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
- lendar\, not affiliated with TfL.
+ 026\n\nTfL live status (Part Closure\, checked 18 November 2026): MILDMAY 
+ LINE: Sunday 22 November\, from 2215\, no service between Camden Road and 
+ Stratford. WINDRUSH LINE services continue to serve Highbury & Islington a
+ nd Canonbury. Replacement bus service S operates between Camden Road and S
+ tratford via Holloway Road (for Piccadilly line)\, Highbury & Islington (f
+ or Caledonian Road & Barnsbury)\, Canonbury (St Pauls Road)\, Dalston Junc
+ tion (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackney Wick
+ . Some westbound journeys continue beyond Camden Road if required\, servin
+ g all stations to Richmond\, except Brondesbury Park\, but call at Queens 
+ Park instead.\nTfL live status (Part Closure\, checked 18 November 2026): 
+ MILDMAY LINE: Sunday 22 November\, no service between Willesden Junction a
+ nd Richmond. Use DISTRICT LINE services between Gunnersbury and Richmond. 
+ Replacement bus service R operates between Willesden Junction and Gunnersb
+ ury via Acton Central (The Vale) and South Acton (Acton Lane).\n\nSource: 
+ TfL planned track closures\, correct at Monday 16 November 2026. https://t
+ fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
+ -3de08a097b8f&type=document\nPlans can change. Check before you travel: ht
+ tps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not af
+ filiated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -74,12 +104,23 @@ DTSTAMP:20261116T000000Z
 UID:6830736e21058b623c87@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
- \nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL planned tr
- ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
- document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
- type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ \nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (Part 
+ Closure\, checked 18 November 2026): MILDMAY LINE: Sunday 6 December\, no 
+ service between Willesden Junction and Richmond. There will also be no DIS
+ TRICT LINE service between Turnham Green and Richmond. Replacement bus ser
+ vice DL3 operates between Willesden Junction and Richmond via Acton Centra
+ l (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick
+  Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Ga
+ rdens).\nTfL live status (Reduced Service\, checked 18 November 2026): MIL
+ DMAY LINE: Sunday 6 December\, a reduced service will operate between Camd
+ en Road and Willesden Junction (via West Hampstead). Some trains will be d
+ iverted after Camden Road to/from Willesden Junction (Low Level) via South
+  Hampstead\, Kilburn High Road\, Queens Park and Kensal Green.\n\nSource: 
+ TfL planned track closures\, correct at Monday 16 November 2026. https://t
+ fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
+ -3de08a097b8f&type=document\nPlans can change. Check before you travel: ht
+ tps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not af
+ filiated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -94,12 +135,17 @@ UID:154d79230ae4caf987ad@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
- uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
- k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
- cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
- pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
+ osure\, checked 18 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ nd Thursday 10 December\, after 2345 each evening\, no westbound service f
+ rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
+ ll start from Camden Road at 0018 and 0035. Customers should use the last 
+ westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 
+ 388\, 393 or 488.\n\nSource: TfL planned track closures\, correct at Monda
+ y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
+ df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
+ . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
+ \nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -114,12 +160,32 @@ UID:a2842294ab88cf2e4c22@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
-  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
+ esday 9 and Thursday 10 December\, after 2345 each evening\, no westbound 
+ service from Stratford to Camden Road. The 2359 and 0015 services from Str
+ atford will start from Camden Road at 0018 and 0035. Customers should use 
+ the last westbound service from Stratford at 2344\, or local bus routes 30
+ \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 18 
+ November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, the 2
+ 129 and 2159 trains from Stratford to Richmond\, and 2135 train from Strat
+ ford to Clapham Junction\, terminate at Camden Road\, the 2147 Clapham Jun
+ ction to Stratford train will not run\, the 2148 train from Richmond to St
+ ratford and the 2203 and 2234 trains from Clapham Junction to Stratford wi
+ ll terminate at Willesden Junction.\nTfL live status (Part Closure\, check
+ ed 18 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
+  after 2300\, no eastbound service from Willesden Junction to Stratford. C
+ ustomers should use the last eastbound services detailed below or London O
+ verground services to Euston. Last through trains: Clapham Junction to Str
+ atford 2218\; Richmond to Stratford 2232\; Willesden Junction to Stratford
+  2252. The 2249 train from Richmond to Stratford will not run. The 2302 tr
+ ain from Richmond to Stratford will terminate at Willesden Junction. The 2
+ 318 train from Richmond to Willesden Junction will not run\n\nSource: TfL 
+ planned track closures\, correct at Monday 16 November 2026. https://tfl.g
+ ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
+ 08a097b8f&type=document\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
+ ated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +200,25 @@ UID:2d4000f105faa698828c@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
- uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
- k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
- cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
- pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
+ osure\, checked 18 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ nd Thursday 10 December\, after 2345 each evening\, no westbound service f
+ rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
+ ll start from Camden Road at 0018 and 0035. Customers should use the last 
+ westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 
+ 388\, 393 or 488.\nTfL live status (Part Closure\, checked 18 November 202
+ 6): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, after 2300\, no e
+ astbound service from Willesden Junction to Stratford. Customers should us
+ e the last eastbound services detailed below or London Overground services
+  to Euston. Last through trains: Clapham Junction to Stratford 2218\; Rich
+ mond to Stratford 2232\; Willesden Junction to Stratford 2252. The 2249 tr
+ ain from Richmond to Stratford will not run. The 2302 train from Richmond 
+ to Stratford will terminate at Willesden Junction. The 2318 train from Ric
+ hmond to Willesden Junction will not run\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -154,12 +233,32 @@ UID:2b23ac5df0aac36b2f7a@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
-  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+  TfL: Wednesday 9 December to Thursday 10 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
+ esday 9 and Thursday 10 December\, after 2345 each evening\, no westbound 
+ service from Stratford to Camden Road. The 2359 and 0015 services from Str
+ atford will start from Camden Road at 0018 and 0035. Customers should use 
+ the last westbound service from Stratford at 2344\, or local bus routes 30
+ \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 18 
+ November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, the 2
+ 129 and 2159 trains from Stratford to Richmond\, and 2135 train from Strat
+ ford to Clapham Junction\, terminate at Camden Road\, the 2147 Clapham Jun
+ ction to Stratford train will not run\, the 2148 train from Richmond to St
+ ratford and the 2203 and 2234 trains from Clapham Junction to Stratford wi
+ ll terminate at Willesden Junction.\nTfL live status (Part Closure\, check
+ ed 18 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
+  after 2300\, no eastbound service from Willesden Junction to Stratford. C
+ ustomers should use the last eastbound services detailed below or London O
+ verground services to Euston. Last through trains: Clapham Junction to Str
+ atford 2218\; Richmond to Stratford 2232\; Willesden Junction to Stratford
+  2252. The 2249 train from Richmond to Stratford will not run. The 2302 tr
+ ain from Richmond to Stratford will terminate at Willesden Junction. The 2
+ 318 train from Richmond to Willesden Junction will not run\n\nSource: TfL 
+ planned track closures\, correct at Monday 16 November 2026. https://tfl.g
+ ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
+ 08a097b8f&type=document\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
+ ated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,12 +273,25 @@ UID:dcd2553665c7a6264944@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
- uesday 8 December to Thursday 10 December 2026\n\nSource: TfL planned trac
- k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
- cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
- pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
+ osure\, checked 18 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ nd Thursday 10 December\, after 2345 each evening\, no westbound service f
+ rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
+ ll start from Camden Road at 0018 and 0035. Customers should use the last 
+ westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 
+ 388\, 393 or 488.\nTfL live status (Part Closure\, checked 18 November 202
+ 6): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, after 2300\, no e
+ astbound service from Willesden Junction to Stratford. Customers should us
+ e the last eastbound services detailed below or London Overground services
+  to Euston. Last through trains: Clapham Junction to Stratford 2218\; Rich
+ mond to Stratford 2232\; Willesden Junction to Stratford 2252. The 2249 tr
+ ain from Richmond to Stratford will not run. The 2302 train from Richmond 
+ to Stratford will terminate at Willesden Junction. The 2318 train from Ric
+ hmond to Willesden Junction will not run\n\nSource: TfL planned track clos
+ ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
+ /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
+ ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
+ dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -193,11 +305,20 @@ UID:2ffc094a187b3ea7d040@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Stratford\, after 22:15\nDates as listed by TfL: Sunday 13 December
-  2026\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
- r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
- cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+  2026\n\nTfL live status (Part Closure\, checked 18 November 2026): MILDMA
+ Y LINE: Sunday 13 December\, from 2215\, no service between Camden Road an
+ d Stratford. WINDRUSH LINE services are also closed between Highbury & Isl
+ ington and Dalston Junction. Replacement bus service S operates between Ca
+ mden Road and Stratford via Holloway Road (for Piccadilly line)\, Highbury
+  & Islington (for Caledonian Road & Barnsbury)\, Canonbury (St Pauls Road)
+ \, Dalston Junction (for Dalston Kingsland)\, Hackney Central\, Homerton a
+ nd Hackney Wick. Some westbound journeys continue beyond Camden Road if re
+ quired\, serving all stations to Richmond\, except Brondesbury Park\, but 
+ call at Queens Park instead.\n\nSource: TfL planned track closures\, corre
+ ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
+ kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
+  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
+ nd/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -212,12 +333,18 @@ UID:d0e80d3edca76681713d@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
- by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Monday 14\, Tues
+ day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
+  no westbound service from Camden Road to Willesden Junction. The 2359 and
+  0015 services from Stratford will terminate at Camden Road. Use London Ov
+ erground services from Euston to Willesden Junction\, Northern line from C
+ amden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road /
+  Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -232,11 +359,20 @@ UID:4c9ba555c669838ac91c@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
- 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
- s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
- annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
- nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ 5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
+ hecked 18 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
+ vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
+ Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
+  0608 second train from Willesden Junction to Clapham Junction does not ru
+ n. Use the next service at 0623 or local bus routes 220 or 228. The 0611 S
+ tratford to Clapham Junction train starts at Shepherds Bush\, and the 0651
+  Stratford to Richmond train starts at Acton Central.\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -251,12 +387,18 @@ UID:b2004547524d6640c772@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
- by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Monday 14\, Tues
+ day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
+  no westbound service from Camden Road to Willesden Junction. The 2359 and
+  0015 services from Stratford will terminate at Camden Road. Use London Ov
+ erground services from Euston to Willesden Junction\, Northern line from C
+ amden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road /
+  Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -271,11 +413,20 @@ UID:b27eeb258b6ac47ed980@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
- 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
- s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
- annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
- nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ 5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
+ hecked 18 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
+ vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
+ Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
+  0608 second train from Willesden Junction to Clapham Junction does not ru
+ n. Use the next service at 0623 or local bus routes 220 or 228. The 0611 S
+ tratford to Clapham Junction train starts at Shepherds Bush\, and the 0651
+  Stratford to Richmond train starts at Acton Central.\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -290,12 +441,18 @@ UID:3e11f0155a5dfdad8b32@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
- by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Monday 14\, Tues
+ day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
+  no westbound service from Camden Road to Willesden Junction. The 2359 and
+  0015 services from Stratford will terminate at Camden Road. Use London Ov
+ erground services from Euston to Willesden Junction\, Northern line from C
+ amden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road /
+  Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -310,11 +467,20 @@ UID:d68fa45a3444b162e307@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
- 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
- s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
- annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
- nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ 5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
+ hecked 18 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
+ vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
+ Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
+  0608 second train from Willesden Junction to Clapham Junction does not ru
+ n. Use the next service at 0623 or local bus routes 220 or 228. The 0611 S
+ tratford to Clapham Junction train starts at Shepherds Bush\, and the 0651
+  Stratford to Richmond train starts at Acton Central.\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -329,12 +495,18 @@ UID:551c68c1cd236b9a0ef3@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
- by TfL: Monday 14 December to Thursday 17 December 2026\n\nSource: TfL pla
- nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
- uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
- 097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
+  (Part Closure\, checked 18 November 2026): MILDMAY LINE: Monday 14\, Tues
+ day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
+  no westbound service from Camden Road to Willesden Junction. The 2359 and
+  0015 services from Stratford will terminate at Camden Road. Use London Ov
+ erground services from Euston to Willesden Junction\, Northern line from C
+ amden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road /
+  Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -349,11 +521,20 @@ UID:17d1ef16bf75688a528a@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
- 5 December to Friday 18 December 2026\n\nSource: TfL planned track closure
- s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
- annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
- nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ 5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
+ hecked 18 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
+ vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
+ Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
+  0608 second train from Willesden Junction to Clapham Junction does not ru
+ n. Use the next service at 0623 or local bus routes 220 or 228. The 0611 S
+ tratford to Clapham Junction train starts at Shepherds Bush\, and the 0651
+  Stratford to Richmond train starts at Acton Central.\n\nSource: TfL plann
+ ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
+ /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
+ 7b8f&type=document\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
+ with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -385,11 +566,14 @@ DTSTAMP:20261116T000000Z
 UID:e543735efde86ff5cd12@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): MILDMAY LINE: Christmas Day\, 25 December\,
+  no service throughout the line. Services resume on Boxing Day morning to 
+ a revised Sunday timetable.\n\nSource: TfL planned track closures\, correc
+ t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
+ closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
+ can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
+ d/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -404,11 +588,15 @@ UID:4eac2429121c34a04a11@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
   and Shepherd's Bush\nDates as listed by TfL: Saturday 26 December 2026\n
- \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
-  https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
- -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
- travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
- r\, not affiliated with TfL.
+ \nTfL live status (Part Closure\, checked 18 November 2026): MILDMAY LINE:
+  Boxing Day\, 26 December\, no service between Willesden Junction and Rich
+ mond / Shepherds Bush. Please use local London Buses services\, and DISTRI
+ CT LINE services between Gunnersbury\, Kew Gardens and Richmond.\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

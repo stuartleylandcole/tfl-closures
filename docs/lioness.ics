@@ -38,12 +38,19 @@ DTSTAMP:20261116T000000Z
 UID:b2151a148fc8fa1779b4@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nEuston to Watford Junction\nDa
- tes as listed by TfL: Saturday 21 November to Sunday 22 November 2026\n\nS
- ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
- tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
- b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
- vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
-  not affiliated with TfL.
+ tes as listed by TfL: Saturday 21 November to Sunday 22 November 2026\n\nT
+ fL live status (Planned Closure\, checked 18 November 2026): LIONESS LINE:
+  Saturday 21 and Sunday 22 November\, no service between Euston and Watfor
+ d Junction. There will also be no BAKERLOO LINE service between Queens Par
+ k and Harrow & Wealdstone. Special bus service 720 operates (please note s
+ ervice 718 will NOT operate). LONDON NORTH WESTERN RAILWAY trains continue
+  to serve Euston\, Harrow & Wealdstone\, Bushey and Watford Junction. SOUT
+ HERN trains serve Wembley Central\, Harrow & Wealdstone and Watford Juncti
+ on until 1900 Saturday only\, not on Sunday.\n\nSource: TfL planned track 
+ closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
+ ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
+ =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -56,12 +63,23 @@ DTSTAMP:20261116T000000Z
 UID:77c0cd02d3559a1b62c3@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Harrow &
-  Wealdstone\nDates as listed by TfL: Sunday 6 December 2026\n\nSource: TfL
-  planned track closures\, correct at Monday 16 November 2026. https://tfl.
- gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3d
- e08a097b8f&type=document\nPlans can change. Check before you travel: https
- ://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affil
- iated with TfL.
+  Wealdstone\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live st
+ atus (Reduced Service\, checked 18 November 2026): LIONESS LINE: Sunday 6 
+ December\, a reduced service will operate between Euston and South Hampste
+ ad\, and the 2359 last train from Euston to Willesden Junction will not ru
+ n.\nTfL live status (Part Closure\, checked 18 November 2026): LIONESS LIN
+ E: Sunday 6 December\, no service between Willesden Junction and Harrow & 
+ Wealdstone. There will also be no BAKERLOO LINE service between Queens Par
+ k and Harrow & Wealdstone. Special bus service 718 operates. LONDON NORTH 
+ WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN t
+ rains stop at Wembley Central and Harrow & Wealdstone between 1300 and 200
+ 0 only\nTfL live status (Reduced Service\, checked 18 November 2026): LION
+ ESS LINE: Sunday 6 December\, a reduced service operates between Harrow & 
+ Wealdstone and Watford Junction.\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -93,11 +111,16 @@ DTSTAMP:20261116T000000Z
 UID:ff4ed4241afc561c1229@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): LIONESS LINE: Christmas Day\, 25 December\,
+  and Boxing Day\, 26 December\, no service on the line. Services resume on
+  Sunday 27 December to a revised Sunday timetable. On Boxing Day\, use BAK
+ ERLOO LINE services between Queens Park and Harrow & Wealdstone.\n\nSource
+ : TfL planned track closures\, correct at Monday 16 November 2026. https:/
+ /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
+ 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
+ https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
+ affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -110,11 +133,38 @@ DTSTAMP:20261116T000000Z
 UID:48fb1ca62c500a664814@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
- as listed by TfL: Saturday 26 December 2026\n\nSource: TfL planned track c
- losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
- ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
- document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
+ osure\, checked 18 November 2026): LIONESS LINE: Christmas Day\, 25 Decemb
+ er\, and Boxing Day\, 26 December\, no service on the line. Services resum
+ e on Sunday 27 December to a revised Sunday timetable. On Boxing Day\, use
+  BAKERLOO LINE services between Queens Park and Harrow & Wealdstone.\n\nSo
+ urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
+ ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
+ 3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
+ not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Lioness line: Sunday 27 December\, the 0645 first train from 
+ Euston to Watford Junction will start from…
+DTSTART;TZID=Europe/London:20261227T064500
+DTEND;TZID=Europe/London:20261227T103600
+DTSTAMP:20261116T000000Z
+UID:d6709380f5f610bcbb69@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLIONESS LINE: Sunday 27 December\, the 0645 first train from Eu
+ ston to Watford Junction will start from Willesden Junction at 0700. Custo
+ mers from Euston and intermediate stations should use the Bakerloo line. T
+ he 1000 train from Watford Junction to Euston will start from Willesden Ju
+ nction at 1034\n\nFrom TfL's live status (Part Closure)\, checked 18 Novem
+ ber 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

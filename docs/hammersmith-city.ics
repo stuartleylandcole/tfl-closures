@@ -31,6 +31,27 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
+ planning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261126T120000
+DTEND;TZID=Europe/London:20261127T115900
+DTSTAMP:20261116T000000Z
+UID:40985777e78dacfacc04@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⛔ Hammersmith & City: No service on the entire line
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
@@ -38,12 +59,59 @@ DTSTAMP:20261116T000000Z
 UID:b4843ade6cc2018a91e3@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
- as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nSourc
- e: TfL planned track closures\, correct at Monday 16 November 2026. https:
- //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
- 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+ as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL l
+ ive status (Planned Closure\, checked 18 November 2026): HAMMERSMITH & CIT
+ Y LINE: Saturday 28 and Sunday 29 November\, no service on the entire line
+ . There will also be no CIRCLE LINE service between Hammersmith / High Str
+ eet Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT L
+ INE services between Aldgate East and Barking.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
+ L.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
+ planning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261217T120000
+DTEND;TZID=Europe/London:20261218T115900
+DTSTAMP:20261116T000000Z
+UID:296f41c9893a0f1b65ec@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
+ planning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261219T120000
+DTEND;TZID=Europe/London:20261220T115900
+DTSTAMP:20261116T000000Z
+UID:b8ae7606a46d14ad07d2@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -76,11 +144,15 @@ DTSTAMP:20261116T000000Z
 UID:ba430c3534a5e5626a54@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ mber\, no service on any line. Services resume on Boxing Day morning to a 
+ revised Sunday timetable. No Night Tube services operate on Christmas Eve 
+ or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
+ 6 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?
+ id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
+ heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
+ official calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -93,12 +165,19 @@ DTSTAMP:20261116T000000Z
 UID:d1a628f6b27fce619f57@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nMoorgate to Barking\nDates as 
- listed by TfL: Saturday 26 December to Tuesday 29 December 2026\n\nSource:
-  TfL planned track closures\, correct at Monday 16 November 2026. https://
- tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
- b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ listed by TfL: Saturday 26 December to Tuesday 29 December 2026\n\nTfL liv
+ e status (Part Closure\, checked 18 November 2026): HAMMERSMITH & CITY LIN
+ E: Boxing Day\, 26 December to Tuesday 29 December\, no service between Mo
+ orgate and Barking. There will also be no DISTRICT LINE service between Ea
+ st Ham and Barking / Upney. c2c services will not operate on Boxing Day bu
+ t operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Up
+ minster on other days (no trains to/from Liverpool Street). Replacement bu
+ s service DL7 operates between East Ham\, Barking and Upney.\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -111,12 +190,19 @@ DTSTAMP:20261116T000000Z
 UID:758a30459e227459a7b6@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nMoorgate to Barking\nDates as 
- listed by TfL: Monday 28 December to Tuesday 29 December 2026\n\nSource: T
- fL planned track closures\, correct at Monday 16 November 2026. https://tf
- l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
- 3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
- ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
- iliated with TfL.
+ listed by TfL: Monday 28 December to Tuesday 29 December 2026\n\nTfL live 
+ status (Part Closure\, checked 18 November 2026): HAMMERSMITH & CITY LINE:
+  Boxing Day\, 26 December to Tuesday 29 December\, no service between Moor
+ gate and Barking. There will also be no DISTRICT LINE service between East
+  Ham and Barking / Upney. c2c services will not operate on Boxing Day but 
+ operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upmi
+ nster on other days (no trains to/from Liverpool Street). Replacement bus 
+ service DL7 operates between East Ham\, Barking and Upney.\n\nSource: TfL 
+ planned track closures\, correct at Monday 16 November 2026. https://tfl.g
+ ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
+ 08a097b8f&type=document\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
+ ated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

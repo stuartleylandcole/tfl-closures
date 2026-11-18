@@ -31,6 +31,234 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Monday 21 until Wednes
+ day 23 December\, the London Cable Car will…
+DTSTART;TZID=Europe/London:20261221T000000
+DTEND;TZID=Europe/London:20261221T090000
+DTSTAMP:20261116T000000Z
+UID:14e7121bd0dc7c9cfae9@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
+ ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
+ us (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Chec
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
+ icial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Monday 21 until Wednes
+ day 23 December\, the London Cable Car will…
+DTSTART;TZID=Europe/London:20261221T210000
+DTEND;TZID=Europe/London:20261222T090000
+DTSTAMP:20261116T000000Z
+UID:64121698c41780f35c07@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
+ ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
+ us (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Chec
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
+ icial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Monday 21 until Wednes
+ day 23 December\, the London Cable Car will…
+DTSTART;TZID=Europe/London:20261222T210000
+DTEND;TZID=Europe/London:20261223T090000
+DTSTAMP:20261116T000000Z
+UID:fd51fd774fadd595f388@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
+ ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
+ us (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Chec
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
+ icial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Monday 21 until Wednes
+ day 23 December\, the London Cable Car will…
+DTSTART;TZID=Europe/London:20261223T210000
+DTEND;TZID=Europe/London:20261223T235900
+DTSTAMP:20261116T000000Z
+UID:714ec3b4d73c659bf855@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
+ ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
+ us (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Chec
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
+ icial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Christmas Eve\, Thursd
+ ay 24 December\, the London Cable Car will operate…
+DTSTART;TZID=Europe/London:20261224T000000
+DTEND;TZID=Europe/London:20261224T100000
+DTSTAMP:20261116T000000Z
+UID:cdbe62bca5d91844fc8e@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
+ ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
+  (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Check 
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
+ ial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Christmas Eve\, Thursd
+ ay 24 December\, the London Cable Car will operate…
+DTSTART;TZID=Europe/London:20261224T180000
+DTEND;TZID=Europe/London:20261224T235900
+DTSTAMP:20261116T000000Z
+UID:ed0fe496046504260822@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
+ ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
+  (Planned Closure)\, checked 18 November 2026.\n\nPlans can change. Check 
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
+ ial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Christmas Day\, Friday
+  25 December\, there will be no service on the…
+DTSTART;TZID=Europe/London:20261225T033000
+DTEND;TZID=Europe/London:20261226T012900
+DTSTAMP:20261116T000000Z
+UID:f6fde03a089e50a9e533@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Christmas Day\, Friday 25 December\, there wi
+ ll be no service on the London Cable Car\n\nFrom TfL's live status (Planne
+ d Closure)\, checked 18 November 2026.\n\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
+ ndar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26
+  until Wednesday 30 December\, the London Cable…
+DTSTART;TZID=Europe/London:20261226T000000
+DTEND;TZID=Europe/London:20261226T090000
+DTSTAMP:20261116T000000Z
+UID:5eb281c4d089a63b40b6@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
+ ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
+ L's live status (Planned Closure)\, checked 18 November 2026.\n\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26
+  until Wednesday 30 December\, the London Cable…
+DTSTART;TZID=Europe/London:20261226T223000
+DTEND;TZID=Europe/London:20261227T090000
+DTSTAMP:20261116T000000Z
+UID:ed4ef393301f690f4864@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
+ ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
+ L's live status (Planned Closure)\, checked 18 November 2026.\n\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26
+  until Wednesday 30 December\, the London Cable…
+DTSTART;TZID=Europe/London:20261227T223000
+DTEND;TZID=Europe/London:20261228T090000
+DTSTAMP:20261116T000000Z
+UID:1baff48223c2cc5a5fcf@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
+ ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
+ L's live status (Planned Closure)\, checked 18 November 2026.\n\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26
+  until Wednesday 30 December\, the London Cable…
+DTSTART;TZID=Europe/London:20261228T223000
+DTEND;TZID=Europe/London:20261229T090000
+DTSTAMP:20261116T000000Z
+UID:a74e9f31b0f473063f30@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
+ ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
+ L's live status (Planned Closure)\, checked 18 November 2026.\n\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26
+  until Wednesday 30 December\, the London Cable…
+DTSTART;TZID=Europe/London:20261229T223000
+DTEND;TZID=Europe/London:20261230T090000
+DTSTAMP:20261116T000000Z
+UID:83d453001778866e05ef@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
+ ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
+ L's live status (Planned Closure)\, checked 18 November 2026.\n\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nUnofficial calendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⛔ IFS Cloud Cable Car: No service
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270312

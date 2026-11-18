@@ -31,6 +31,69 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
+ nning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261126T120000
+DTEND;TZID=Europe/London:20261127T115900
+DTSTAMP:20261116T000000Z
+UID:5de878c146e7572310f8@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
+ nning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261217T120000
+DTEND;TZID=Europe/London:20261218T115900
+DTSTAMP:20261116T000000Z
+UID:1203218f161503d716b7@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Waterloo & City: Some London Underground Tube drivers are pla
+ nning to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261219T120000
+DTEND;TZID=Europe/London:20261220T115900
+DTSTAMP:20261116T000000Z
+UID:f68e44e828c020445cfd@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚠️ Waterloo & City: Services will finish earlier than normal
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
@@ -57,11 +120,18 @@ DTSTAMP:20261116T000000Z
 UID:b01fe42e4172122e24d7@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): Waterloo & City line: service operates 06:0
+ 0 until 00:30\, Monday to Friday only. There is no service on Saturdays\, 
+ Sundays and on bank/public holidays.\nTfL live status (Planned Closure\, c
+ hecked 18 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 December
+ \, no service on any line. Services resume on Boxing Day morning to a revi
+ sed Sunday timetable. No Night Tube services operate on Christmas Eve or B
+ oxing Day.\n\nSource: TfL planned track closures\, correct at Monday 16 No
+ vember 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=a
+ ccc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check
+  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffi
+ cial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -31,6 +31,99 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Piccadilly line service control staff are plannin
+ g to take strike action from 1159…
+DTSTART;TZID=Europe/London:20261120T115900
+DTEND;TZID=Europe/London:20261121T203000
+DTSTAMP:20261116T000000Z
+UID:6e18eb71bcb1f78931db@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Piccadilly line service control staff are planning
+  to take strike action from 1159 Friday 20 until 2030 Saturday 21 November
+ . Piccadilly line customers should complete journeys by 1030 on Friday mor
+ ning as service will begin to reduce after this time. There will be no ser
+ vice from midday on Friday until Saturday evening\, including Night Tube o
+ n Friday night. Normal Night Tube service is expected to operate on Saturd
+ ay night. Due to shared infrastructure around the Ealing Common District l
+ ine depot\, there will be no DISTRICT LINE service between Earls Court and
+  Richmond / Ealing Broadway from midday on Friday until Saturday evening. 
+ Replacement buses will operate during Friday Night Tube hours and Saturday
+  daytime only. Please use ELIZABETH LINE services for travel between Centr
+ al London and Heathrow\, and METROPOLITAN LINE services between Rayners La
+ ne and Uxbridge.\n\nFrom TfL's live status (Planned Closure)\, checked 18 
+ November 2026.\n\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wi
+ th TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
+  to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261126T120000
+DTEND;TZID=Europe/London:20261127T115900
+DTSTAMP:20261116T000000Z
+UID:c89960386b4d68176759@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
+  to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261217T120000
+DTEND;TZID=Europe/London:20261218T115900
+DTSTAMP:20261116T000000Z
+UID:0b75766b5940afc7f70f@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Some London Underground Tube drivers are planning
+  to take strike action from 12:00…
+DTSTART;TZID=Europe/London:20261219T120000
+DTEND;TZID=Europe/London:20261220T115900
+DTSTAMP:20261116T000000Z
+UID:6afc7e5675eecbef9160@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
+ r. There is likely to be some disruption across all Underground lines\, bu
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
+ cial Service)\, checked 18 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
+ alendar\, not affiliated with TfL.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚠️ Piccadilly: Services will finish earlier than normal
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
@@ -40,11 +133,14 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
  sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
- e for last train/tram times\n\nSource: TfL planned track closures\, correc
- t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
- closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
- can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ e for last train/tram times\n\nTfL live status (Part Closure\, checked 18 
+ November 2026): PICCADILLY LINE: Christmas Eve\, 24 December\, no service 
+ between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services i
+ nstead.\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
+ ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
+ 98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
+ l calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -57,12 +153,21 @@ DTSTAMP:20261116T000000Z
 UID:88ee106539f9c6027cb6@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
- s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\n\nSourc
- e: TfL planned track closures\, correct at Monday 16 November 2026. https:
- //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
- 43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+ s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\n\nTfL l
+ ive status (Planned Closure\, checked 18 November 2026): LONDON UNDERGROUN
+ D: Christmas Day\, 25 December\, no service on any line. Services resume o
+ n Boxing Day morning to a revised Sunday timetable. No Night Tube services
+  operate on Christmas Eve or Boxing Day.\nTfL live status (Part Closure\, 
+ checked 18 November 2026): PICCADILLY LINE: Christmas Eve\, 24 December\, 
+ no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE
+  services instead.\nTfL live status (Part Closure\, checked 18 November 20
+ 26): PICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 January\, no se
+ rvice between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE serv
+ ices instead.\n\nSource: TfL planned track closures\, correct at Monday 16
+  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
+ d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
+ fficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -75,11 +180,15 @@ DTSTAMP:20261116T000000Z
 UID:e8e637ba24f2d3771e77@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
-  listed by TfL: Friday 25 December 2026\n\nSource: TfL planned track closu
- res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
- plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
- ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+  listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
+ e\, checked 18 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ mber\, no service on any line. Services resume on Boxing Day morning to a 
+ revised Sunday timetable. No Night Tube services operate on Christmas Eve 
+ or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
+ 6 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?
+ id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
+ heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
+ official calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -92,12 +201,15 @@ DTSTAMP:20261116T000000Z
 UID:d0f7c7b63ad7dd873555@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
- s as listed by TfL: Monday 28 December to Sunday 3 January 2027\n\nSource:
-  TfL planned track closures\, correct at Monday 16 November 2026. https://
- tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
- b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ s as listed by TfL: Monday 28 December to Sunday 3 January 2027\n\nTfL liv
+ e status (Part Closure\, checked 18 November 2026): PICCADILLY LINE: Boxin
+ g Day\, 26 December to Sunday 3 January\, no service between Rayners Lane 
+ and Uxbridge. Please use METROPOLITAN LINE services instead.\n\nSource: Tf
+ L planned track closures\, correct at Monday 16 November 2026. https://tfl
+ .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
+ de08a097b8f&type=document\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
+ liated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
