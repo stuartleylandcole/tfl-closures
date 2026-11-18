@@ -34,13 +34,19 @@ from .page import render
 from .pdf_parser import parse_pdf
 
 PAGE_URL = "https://tfl.gov.uk/status-updates/planned-track-closures"
+# TfL's file server copy. Reachable from GitHub Actions (tfl.gov.uk itself
+# refuses requests from cloud servers), but may lag the website by a few days.
+CONTENT_URL = "https://content.tfl.gov.uk/planned-track-closures.pdf"
 LINK_RE = re.compile(r"""["']([^"'\s]*?planned-?track-?closures\.pdf[^"'\s]*)["']""", re.I)
 LONDON = ZoneInfo("Europe/London")
-UA = {"User-Agent": "tfl-closures-calendar (unofficial; github.com)"}
+UA = {"User-Agent": "tfl-closures-calendar/1.0 (unofficial; +https://github.com/stuartleylandcole/tfl-closures)"}
+STORE = Path("data/closures.pdf")           # newest good PDF, committed to the repo
+STORE_META = Path("data/closures.json")
 
 MIN_ROWS = 40                 # a real PDF has ~200+ rows
 MAX_UNREADABLE_SHARE = 0.05   # rows we couldn't turn into events
 MIN_EVENT_RATIO = 0.6         # new PDF must yield at least 60% of the previous PDF's events
+STALE_AFTER_DAYS = 28         # fail (and so email the owner) if the newest PDF is older than this
 
 
 class SafetyCheckFailed(Exception):
@@ -65,6 +71,59 @@ def download(url: str, dest: Path) -> None:
     dest.write_bytes(r.content)
 
 
+def newest_pdf(tmp: Path) -> tuple[Path, str, list[str]]:
+    """Pick the newest PDF among the stored copy and what can be downloaded.
+
+    Sources: PDF_URL (if set), the link on TfL's planned closures page, and
+    TfL's file server copy. A downloaded PDF replaces the stored one only if
+    its "correct at" date is newer, so a lagging source never goes backwards.
+    Returns (path, source_url, notes).
+    """
+    notes: list[str] = []
+    candidates: list[tuple[date, Path, str]] = []
+    if STORE.exists():
+        meta = json.loads(STORE_META.read_text()) if STORE_META.exists() else {}
+        # If someone uploaded a PDF by hand, the recorded URL no longer describes it
+        same_file = meta.get("sha256") == hashlib.sha256(STORE.read_bytes()).hexdigest()
+        try:
+            candidates.append((parse_pdf(str(STORE)).published, STORE,
+                               meta.get("url", PAGE_URL) if same_file else PAGE_URL))
+        except Exception as e:  # noqa: BLE001
+            notes.append(f"Stored PDF unreadable: {e}")
+
+    urls: list[str] = []
+    if os.environ.get("PDF_URL"):
+        urls.append(os.environ["PDF_URL"])
+    try:
+        urls.append(discover_pdf_url())
+    except Exception as e:  # noqa: BLE001
+        notes.append(f"Couldn't read TfL's page ({e}); using other sources")
+    urls.append(CONTENT_URL)
+
+    for n, url in enumerate(dict.fromkeys(urls)):
+        dest = tmp / f"download-{n}.pdf"
+        try:
+            download(url, dest)
+            candidates.append((parse_pdf(str(dest)).published, dest, url))
+        except Exception as e:  # noqa: BLE001
+            notes.append(f"Couldn't use {url}: {e}")
+
+    if not candidates:
+        raise RuntimeError("No closures PDF available:\n  " + "\n  ".join(notes))
+    # max() keeps the first of equal dates, and the stored copy is first, so a
+    # download only wins when it is strictly newer.
+    published, path, url = max(candidates, key=lambda c: c[0])
+    if path != STORE:
+        STORE.parent.mkdir(parents=True, exist_ok=True)
+        STORE.write_bytes(path.read_bytes())
+        STORE_META.write_text(json.dumps({
+            "url": url, "published": published.isoformat(),
+            "sha256": hashlib.sha256(STORE.read_bytes()).hexdigest()}, indent=2) + "\n")
+        notes.append(f"New PDF (correct at {published}) from {url}")
+        path = STORE
+    return path, url, notes
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--out", default="docs", type=Path)
@@ -84,18 +143,22 @@ def main(argv: list[str] | None = None) -> int:
     previous = json.loads(status_path.read_text()) if status_path.exists() else {}
 
     # 1. Get the PDF
+    source_notes: list[str] = []
     with tempfile.TemporaryDirectory() as tmp:
         if args.pdf:
             pdf_path = Path(args.pdf)
             pdf_url = args.pdf_url or previous.get("pdf_url") or PAGE_URL
         else:
-            # PDF_URL lets you pin the PDF by hand if TfL changes their page
-            pdf_url = os.environ.get("PDF_URL") or discover_pdf_url()
-            pdf_path = Path(tmp) / "closures.pdf"
-            download(pdf_url, pdf_path)
+            pdf_path, pdf_url, source_notes = newest_pdf(Path(tmp))
         pdf_bytes = pdf_path.read_bytes()
         pdf_sha = hashlib.sha256(pdf_bytes).hexdigest()
         parsed = parse_pdf(str(pdf_path))
+    for note in source_notes:
+        print("  •", note)
+    if (today - parsed.published).days > STALE_AFTER_DAYS and not args.force:
+        print(f"Newest PDF is correct at {parsed.published}, over {STALE_AFTER_DAYS} days old. "
+              "Download the latest from TfL and add it as data/closures.pdf.", file=sys.stderr)
+        return 1
 
     # 2. Rows -> events
     events, unreadable, warnings = [], [], []

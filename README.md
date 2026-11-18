@@ -72,7 +72,8 @@ python -m tfl_closures.build --out docs --pdf tests/fixtures/plannedtrackclosure
 * **Calendar colours** can't be set on a subscriber's behalf in Google. The subscribe page shows each line's colour, and Apple Calendar picks it up automatically.
 * **Approximate times.** "Start of service" is taken as 04:30, "end of service" as 01:30 and Night Tube as 00:30–05:30. The exact times are in TfL's wording in each event.
 * **Live status times.** The API labels times as UTC, and they're converted to London time. This was checked in November, when the two are the same. It's worth checking once British Summer Time starts that live-only events still show at the right hour.
-* **PDF link discovery.** Downloading the PDF from TfL's page couldn't be tested from the environment this was built in. If the first run fails at "No planned track closures PDF link found", set the `PDF_URL` variable.
+* **Where the PDF comes from.** tfl.gov.uk refuses requests from GitHub's servers (HTTP 403), so the job downloads TfL's copy on its file server (`content.tfl.gov.uk/planned-track-closures.pdf`) instead. That copy can lag the website by about a week. The newest PDF seen is kept in `data/closures.pdf`. A download only replaces it if its "correct at" date is newer. If the newest PDF is more than 28 days old, the job fails and GitHub emails you.
+* **Adding a newer PDF by hand.** Download the PDF from TfL's page. On GitHub, open the `data` folder, choose **Add file → Upload files**, and upload it as `closures.pdf`, replacing the old one. The calendars rebuild within a couple of minutes.
 * **Line colours** are approximate TfL brand colours.
 
 Not affiliated with Transport for London. Always check [TfL's status page](https://tfl.gov.uk/tube-dlr-overground/status/) before you travel.
