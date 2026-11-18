@@ -171,11 +171,13 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
  sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
- e for last train/tram times\n\nSource: TfL planned track closures\, correc
- t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
- closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
- can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ e for last train/tram times\n\nTfL live status (Part Closure\, checked 18 
+ November 2026): DISTRICT LINE: Christmas Eve\, 24 December\, no service be
+ tween Earls Court and Kensington Olympia.\n\nSource: TfL planned track clo
+ sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
+ t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
+ cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
+ -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -223,11 +225,14 @@ DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
  perate on Boxing Day but operate between Fenchurch Street\, Limehouse\, We
  st Ham\, Barking and Upminster on other days (no trains to/from Liverpool 
  Street). Replacement bus service DL7 operates between East Ham\, Barking a
- nd Upminster.\n\nSource: TfL planned track closures\, correct at Monday 16
-  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
- d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ nd Upminster.\nTfL live status (Part Closure\, checked 18 November 2026): 
+ DISTRICT LINE: Boxing Day\, 26 December to New Years Day\, 1 January\, no 
+ service between Earls Court and Kensington Olympia.\n\nSource: TfL planned
+  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/a
+ pi/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b
+ 8f&type=document\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wi
+ th TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -254,11 +259,14 @@ DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
  rate on Boxing Day but operate between Fenchurch Street\, Limehouse\, West
   Ham\, Barking and Upminster on other days (no trains to/from Liverpool St
  reet). Replacement bus service DL7 operates between East Ham\, Barking and
-  Upminster.\n\nSource: TfL planned track closures\, correct at Monday 16 N
- ovember 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=
- accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Chec
- k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
- icial calendar\, not affiliated with TfL.
+  Upminster.\nTfL live status (Part Closure\, checked 18 November 2026): DI
+ STRICT LINE: Boxing Day\, 26 December to New Years Day\, 1 January\, no se
+ rvice between Earls Court and Kensington Olympia.\n\nSource: TfL planned t
+ rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
+ /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
+ &type=document\nPlans can change. Check before you travel: https://tfl.gov
+ .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
+  TfL.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
