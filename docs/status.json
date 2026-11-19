@@ -26,8 +26,8 @@
     "weaver": 42,
     "windrush": 58,
     "tram": 3,
-    "london-cable-car": 13,
-    "all": 443
+    "london-cable-car": 15,
+    "all": 445
   },
   "date_warnings": [
     "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
@@ -50,7 +50,7 @@
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
-    "Live only: District: Piccadilly line service control staff are planning to take strike action from 1159… (Fri 20 Nov 11:59)",
+    "Live only: District: Piccadilly line service control staff are planning to take strike action from Friday 20… (Fri 20 Nov 11:59)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
@@ -70,6 +70,8 @@
     "Live only: IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26 until Wednesday 30 December, the London Cable… (Sun 27 Dec 22:30)",
     "Live only: IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26 until Wednesday 30 December, the London Cable… (Mon 28 Dec 22:30)",
     "Live only: IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26 until Wednesday 30 December, the London Cable… (Tue 29 Dec 22:30)",
+    "Live only: IFS Cloud Cable Car: London Cable Car: Boxing Day Saturday 26 until Wednesday 30 December, the London Cable… (Wed 30 Dec 22:30)",
+    "Live only: IFS Cloud Cable Car: London Cable Car: New Year's Eve Thursday 31 December, the London Cable Car will operate… (Thu 31 Dec 00:00)",
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
@@ -79,7 +81,7 @@
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
-    "Live only: Piccadilly: Piccadilly line service control staff are planning to take strike action from 1159… (Fri 20 Nov 11:59)",
+    "Live only: Piccadilly: Piccadilly line service control staff are planning to take strike action from Friday 20… (Fri 20 Nov 11:59)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
