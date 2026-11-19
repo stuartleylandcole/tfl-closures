@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the IFS Cloud Cable Car from TfL's publish
- ed list\, plus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the IFS Cloud Cable Car from TfL's publis
- hed list, plus live updates. Unofficial; check before you travel.
-NAME:TfL closures: IFS Cloud Cable Car
-X-WR-CALNAME:TfL closures: IFS Cloud Cable Car
+DESCRIPTION:Planned closures on the IFS Cloud Cable Car\, plus live update
+ s. Unofficial\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the IFS Cloud Cable Car, plus live update
+ s. Unofficial; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: IFS Cloud Cable Car (unofficial)
+X-WR-CALNAME:Planned closures: IFS Cloud Cable Car (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#E21836
 X-PUBLISHED-TTL:PT6H
@@ -43,8 +43,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
  us (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Chec
- k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
- icial calendar\, not affiliated with TfL.
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
+ ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
+ nsport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -62,8 +63,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
  us (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Chec
- k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
- icial calendar\, not affiliated with TfL.
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
+ ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
+ nsport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -81,8 +83,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
  us (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Chec
- k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
- icial calendar\, not affiliated with TfL.
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
+ ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
+ nsport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -100,8 +103,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
  us (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Chec
- k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoff
- icial calendar\, not affiliated with TfL.
+ k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
+ ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
+ nsport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -119,8 +123,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
  ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
   (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Check 
- before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
- ial calendar\, not affiliated with TfL.
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
+  by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
+ port for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -138,8 +143,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
  ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
   (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Check 
- before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
- ial calendar\, not affiliated with TfL.
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
+  by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
+ port for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -157,8 +163,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Day\, Friday 25 December\, there wi
  ll be no service on the London Cable Car\n\nFrom TfL's live status (Planne
  d Closure)\, checked 19 November 2026.\n\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
- ndar\, not affiliated with TfL.
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -177,7 +184,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -196,7 +204,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -215,7 +224,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -234,7 +244,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -253,7 +264,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -272,7 +284,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
  L's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
- tatus/\nUnofficial calendar\, not affiliated with TfL.
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -290,8 +303,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: New Year's Eve Thursday 31 December\, the Lon
  don Cable Car will operate between 09:00 - 22:30\n\nFrom TfL's live status
   (Planned Closure)\, checked 19 November 2026.\n\nPlans can change. Check 
- before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
- ial calendar\, not affiliated with TfL.
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
+  by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
+ port for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -309,8 +323,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service\nDates as listed by TfL: T
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
  i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
  f&type=document\nPlans can change. Check before you travel: https://tfl.go
- v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
- h TfL.
+ v.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cal
+ endar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Victoria from TfL's published list\, p
- lus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Victoria from TfL's published list, p
- lus live updates. Unofficial; check before you travel.
-NAME:TfL closures: Victoria
-X-WR-CALNAME:TfL closures: Victoria
+DESCRIPTION:Planned closures on the Victoria\, plus live updates. Unoffici
+ al\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Victoria, plus live updates. Unoffici
+ al; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Victoria (unofficial)
+X-WR-CALNAME:Planned closures: Victoria (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#0098D4
 X-PUBLISHED-TTL:PT6H
@@ -44,8 +44,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -64,8 +65,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -84,8 +86,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -104,7 +107,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -124,8 +128,9 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
  6 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?
  id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
- heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
- official calendar\, not affiliated with TfL.
+ heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPo
+ wered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by 
+ Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

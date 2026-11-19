@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Lioness line from TfL's published list
- \, plus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Lioness line from TfL's published lis
- t, plus live updates. Unofficial; check before you travel.
-NAME:TfL closures: Lioness line
-X-WR-CALNAME:TfL closures: Lioness line
+DESCRIPTION:Planned closures on the Lioness line\, plus live updates. Unof
+ ficial\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Lioness line, plus live updates. Unof
+ ficial; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Lioness line (unofficial)
+X-WR-CALNAME:Planned closures: Lioness line (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#FAA61A
 X-PUBLISHED-TTL:PT6H
@@ -50,7 +50,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Watford Junction\nDa
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -79,7 +80,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Harrow &
  orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
  trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
  lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -98,7 +100,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -119,8 +122,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  : TfL planned track closures\, correct at Monday 16 November 2026. https:/
  /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
  3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+ https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
+ Unofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -141,8 +144,9 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates
  urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
  ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
  3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
- el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
- not affiliated with TfL.
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Da
+ ta\nUnofficial calendar\, not produced or endorsed by Transport for London
+ .
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -163,8 +167,8 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  he 1000 train from Watford Junction to Euston will start from Willesden Ju
  nction at 1034\n\nFrom TfL's live status (Part Closure)\, checked 19 Novem
  ber 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -181,8 +185,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Watford Junction\nDa
  rce: TfL planned track closures\, correct at Monday 16 November 2026. http
  s://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3
  -a43b-3de08a097b8f&type=document\nPlans can change. Check before you trave
- l: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, n
- ot affiliated with TfL.
+ l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
+ a\nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -200,8 +204,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Kilburn High Road\,
  7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
  26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
  761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
- ndar\, not affiliated with TfL.
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -219,8 +224,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Kilburn High Road\,
  7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
  26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
  761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
- ndar\, not affiliated with TfL.
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -238,8 +244,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Kilburn High Road\,
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -257,8 +264,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Kilburn High Road\,
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -275,8 +283,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Watford Junction\nDa
  fL planned track closures\, correct at Monday 16 November 2026. https://tf
  l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
  3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
- ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
- iliated with TfL.
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUno
+ fficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -293,8 +301,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Watford
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
  k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
  97b8f&type=document\nPlans can change. Check before you travel: https://tf
- l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
-  with TfL.
+ l.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial
+  calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -311,8 +319,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nEuston to Watford Junction\nDa
  lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
  v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
  8a097b8f&type=document\nPlans can change. Check before you travel: https:/
- /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
- ted with TfL.
+ /tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffic
+ ial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

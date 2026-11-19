@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Central from TfL's published list\, pl
- us live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Central from TfL's published list, pl
- us live updates. Unofficial; check before you travel.
-NAME:TfL closures: Central
-X-WR-CALNAME:TfL closures: Central
+DESCRIPTION:Planned closures on the Central\, plus live updates. Unofficia
+ l\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Central, plus live updates. Unofficia
+ l; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Central (unofficial)
+X-WR-CALNAME:Planned closures: Central (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#E32017
 X-PUBLISHED-TTL:PT6H
@@ -44,8 +44,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,7 +71,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
  nday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosure
  s.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can cha
  nge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/statu
- s/\nUnofficial calendar\, not affiliated with TfL.
+ s/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endors
+ ed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -95,8 +97,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -115,8 +118,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -135,8 +139,9 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
  cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
- e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial c
- alendar\, not affiliated with TfL.
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -155,7 +160,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -175,8 +181,9 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
  6 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?
  id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. C
- heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUn
- official calendar\, not affiliated with TfL.
+ heck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPo
+ wered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by 
+ Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -196,7 +203,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -215,8 +223,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
  rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
  /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
  &type=document\nPlans can change. Check before you travel: https://tfl.gov
- .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
-  TfL.
+ .uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cale
+ ndar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -233,8 +241,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
   TfL planned track closures\, correct at Monday 16 November 2026. https://
  tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
  b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nU
+ nofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -251,7 +259,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nNortholt to West Ruislip\nDate
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -271,8 +280,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
   31 January.\n\nSource: TfL planned track closures\, correct at Monday 16 
  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
  =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
- ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
- ficial calendar\, not affiliated with TfL.
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
+ red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
+ ansport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -289,8 +299,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
  : TfL planned track closures\, correct at Monday 16 November 2026. https:/
  /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
  3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+ https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
+ Unofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -309,7 +319,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
  ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
  s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
- und/status/\nUnofficial calendar\, not affiliated with TfL.
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -326,8 +337,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
  fL planned track closures\, correct at Monday 16 November 2026. https://tf
  l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
  3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
- ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
- iliated with TfL.
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUno
+ fficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -346,8 +357,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -364,8 +375,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway
  anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
  .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
  a097b8f&type=document\nPlans can change. Check before you travel: https://
- tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
- ed with TfL.
+ tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffici
+ al calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

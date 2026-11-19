@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the DLR from TfL's published list\, plus l
- ive updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the DLR from TfL's published list, plus l
- ive updates. Unofficial; check before you travel.
-NAME:TfL closures: DLR
-X-WR-CALNAME:TfL closures: DLR
+DESCRIPTION:Planned closures on the DLR\, plus live updates. Unofficial\; 
+ check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the DLR, plus live updates. Unofficial; c
+ heck before you travel. Powered by TfL Open Data.
+NAME:Planned closures: DLR (unofficial)
+X-WR-CALNAME:Planned closures: DLR (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#00A4A7
 X-PUBLISHED-TTL:PT6H
@@ -46,7 +46,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nStratford International to Can
  ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
  kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
   can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nUnofficial calendar\, not affiliated with TfL.
+ nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
+ r endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -65,7 +66,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -85,7 +87,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
  t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
  cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
- -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, n
+ ot produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,8 +105,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford and West I
  lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
  v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
  8a097b8f&type=document\nPlans can change. Check before you travel: https:/
- /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
- ted with TfL.
+ /tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffic
+ ial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -120,7 +123,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -137,8 +141,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCustom House to Beckton\nDates
  : TfL planned track closures\, correct at Monday 16 November 2026. https:/
  /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
  3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+ https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
+ Unofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -155,7 +159,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -172,8 +177,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford and West I
  27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
  026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
  e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
- you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
- endar\, not affiliated with TfL.
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL
+  Open Data\nUnofficial calendar\, not produced or endorsed by Transport fo
+ r London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -190,7 +196,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
  t/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=do
  cument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube
- -dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, n
+ ot produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -207,8 +214,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nPoplar to Stratford\nWestferry
  ch 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
  ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
  98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
- fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
- l calendar\, not affiliated with TfL.
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered b
+ y TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpo
+ rt for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -225,7 +233,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nTower Gateway to Shadwell\nDat
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -242,8 +251,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWestferry and Poplar to Lewish
   TfL planned track closures\, correct at Monday 16 November 2026. https://
  tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
  b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nU
+ nofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -260,8 +269,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nBank and Tower Gateway to Popl
   May 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Nov
  ember 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=ac
  cc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check 
- before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffic
- ial calendar\, not affiliated with TfL.
+ before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
+  by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
+ port for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

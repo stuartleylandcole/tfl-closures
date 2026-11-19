@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Mildmay line from TfL's published list
- \, plus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Mildmay line from TfL's published lis
- t, plus live updates. Unofficial; check before you travel.
-NAME:TfL closures: Mildmay line
-X-WR-CALNAME:TfL closures: Mildmay line
+DESCRIPTION:Planned closures on the Mildmay line\, plus live updates. Unof
+ ficial\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Mildmay line, plus live updates. Unof
+ ficial; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Mildmay line (unofficial)
+X-WR-CALNAME:Planned closures: Mildmay line (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#006FE6
 X-PUBLISHED-TTL:PT6H
@@ -58,8 +58,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
  ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
  3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
- el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
- not affiliated with TfL.
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Da
+ ta\nUnofficial calendar\, not produced or endorsed by Transport for London
+ .
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,8 +91,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
   TfL planned track closures\, correct at Monday 16 November 2026. https://
  tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
  b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nU
+ nofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -119,8 +120,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
   TfL planned track closures\, correct at Monday 16 November 2026. https://
  tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
  b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nU
+ nofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -145,7 +146,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  y 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.p
  df?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change
  . Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/
- \nUnofficial calendar\, not affiliated with TfL.
+ \nPowered by TfL Open Data\nUnofficial calendar\, not produced or endorsed
+  by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -184,8 +186,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  planned track closures\, correct at Monday 16 November 2026. https://tfl.g
  ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
  08a097b8f&type=document\nPlans can change. Check before you travel: https:
- //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
- ated with TfL.
+ //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
+ cial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -218,7 +220,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -257,8 +260,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  planned track closures\, correct at Monday 16 November 2026. https://tfl.g
  ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
  08a097b8f&type=document\nPlans can change. Check before you travel: https:
- //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
- ated with TfL.
+ //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
+ cial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -291,7 +294,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -318,7 +322,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
  kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
   can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nUnofficial calendar\, not affiliated with TfL.
+ nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
+ r endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -343,8 +348,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
   Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -371,8 +377,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -397,8 +403,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
   Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -425,8 +432,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -451,8 +458,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
   Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -479,8 +487,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -505,8 +513,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
   Camden Town.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -533,8 +542,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -553,7 +562,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -573,7 +583,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -595,8 +606,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  : TfL planned track closures\, correct at Monday 16 November 2026. https:/
  /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
  3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+ https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
+ Unofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -613,8 +624,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
  : TfL planned track closures\, correct at Monday 16 November 2026. https:/
  /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
  3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not 
- affiliated with TfL.
+ https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
+ Unofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -631,8 +642,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Clapham
  anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
  .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
  a097b8f&type=document\nPlans can change. Check before you travel: https://
- tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
- ed with TfL.
+ tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffici
+ al calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -651,7 +662,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nSout
   16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pd
  f?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change.
   Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\n
- Unofficial calendar\, not affiliated with TfL.
+ Powered by TfL Open Data\nUnofficial calendar\, not produced or endorsed b
+ y Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -670,7 +682,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -689,7 +702,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -708,8 +722,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
  k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
  97b8f&type=document\nPlans can change. Check before you travel: https://tf
- l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
-  with TfL.
+ l.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial
+  calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -728,8 +742,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
  k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
  97b8f&type=document\nPlans can change. Check before you travel: https://tf
- l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
-  with TfL.
+ l.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial
+  calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -746,8 +760,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
  e: TfL planned track closures\, correct at Monday 16 November 2026. https:
  //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
  43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -764,7 +778,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nSouth Acton to Richmond\nDates
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -781,8 +796,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -801,8 +816,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
  api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
  b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial c
+ alendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -821,7 +836,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -840,8 +856,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
  api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
  b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial c
+ alendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -860,7 +876,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -879,7 +896,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
  trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
  lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -897,8 +915,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
   January 2027\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -915,8 +934,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
  e: TfL planned track closures\, correct at Monday 16 November 2026. https:
  //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
  43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -933,7 +952,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
  osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
  nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
  ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
- e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ e-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, 
+ not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -952,8 +972,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
  api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
  b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial c
+ alendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -970,7 +990,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nCamden Road to Stratford\nDate
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -989,7 +1010,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Richmond\nWilles
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1008,7 +1030,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1027,7 +1050,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1046,8 +1070,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1066,7 +1090,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1085,8 +1110,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1105,7 +1130,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1122,8 +1148,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Richmond and She
  027\n\nSource: TfL planned track closures\, correct at Monday 16 November 
  2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf
  -e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before
-  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial ca
- lendar\, not affiliated with TfL.
+  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by Tf
+ L Open Data\nUnofficial calendar\, not produced or endorsed by Transport f
+ or London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1142,8 +1169,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1162,7 +1189,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1181,8 +1209,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1201,7 +1229,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1220,8 +1249,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1240,7 +1269,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1259,8 +1289,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1279,7 +1309,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1296,8 +1327,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
  026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
  e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
- you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
- endar\, not affiliated with TfL.
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL
+  Open Data\nUnofficial calendar\, not produced or endorsed by Transport fo
+ r London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1316,8 +1348,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
  cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
  pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1336,8 +1368,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
  cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
  pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1356,7 +1388,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1375,8 +1408,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
  cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
  pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1395,7 +1428,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1414,8 +1448,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
  cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
  pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1434,7 +1468,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1451,8 +1486,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
  26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
  761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
- ndar\, not affiliated with TfL.
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1469,8 +1505,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
  cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
  pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
- /tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with Tf
- L.
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1489,7 +1525,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
  plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
  ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ lr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not
+  produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1508,7 +1545,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
  plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
  ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ lr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not
+  produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1527,8 +1565,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
  i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
  f&type=document\nPlans can change. Check before you travel: https://tfl.go
- v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
- h TfL.
+ v.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cal
+ endar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1547,8 +1585,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
  i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
  f&type=document\nPlans can change. Check before you travel: https://tfl.go
- v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
- h TfL.
+ v.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cal
+ endar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1567,7 +1605,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
  es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
  ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nUnofficial calendar\, not affiliated with TfL.
+ us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
+ sed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1584,7 +1623,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nGospel Oak to Stratford\nDates
  res\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/
  plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docu
  ment\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-d
- lr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ lr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not
+  produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1603,7 +1643,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
  kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
   can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nUnofficial calendar\, not affiliated with TfL.
+ nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
+ r endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1621,8 +1662,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  0 April 2027\n\nSource: TfL planned track closures\, correct at Monday 16 
  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
  =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
- ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
- ficial calendar\, not affiliated with TfL.
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
+ red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
+ ansport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1641,8 +1683,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
  api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
  b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial c
+ alendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1661,7 +1703,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
  trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
  lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1680,8 +1723,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  d track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/
  api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097
  b8f&type=document\nPlans can change. Check before you travel: https://tfl.
- gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated w
- ith TfL.
+ gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial c
+ alendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1700,7 +1743,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
  trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
  lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1717,8 +1761,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Clapham
  ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
  tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
  b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
- vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
-  not affiliated with TfL.
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open D
+ ata\nUnofficial calendar\, not produced or endorsed by Transport for Londo
+ n.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1735,7 +1780,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  losures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docum
  ent/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=
  document\nPlans can change. Check before you travel: https://tfl.gov.uk/tu
- be-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ be-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\,
+  not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

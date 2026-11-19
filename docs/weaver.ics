@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Weaver line from TfL's published list
- \, plus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Weaver line from TfL's published list
- , plus live updates. Unofficial; check before you travel.
-NAME:TfL closures: Weaver line
-X-WR-CALNAME:TfL closures: Weaver line
+DESCRIPTION:Planned closures on the Weaver line\, plus live updates. Unoff
+ icial\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Weaver line, plus live updates. Unoff
+ icial; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Weaver line (unofficial)
+X-WR-CALNAME:Planned closures: Weaver line (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#9B0058
 X-PUBLISHED-TTL:PT6H
@@ -46,8 +46,9 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
  uses operate.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
  d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUno
- fficial calendar\, not affiliated with TfL.
+ eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
+ ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
+ ransport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -74,8 +75,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   buses operate.\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,8 +104,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   buses operate.\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -130,8 +133,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   buses operate.\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -158,8 +162,9 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   buses operate.\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -185,7 +190,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
  kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
   can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nUnofficial calendar\, not affiliated with TfL.
+ nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
+ r endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -211,7 +217,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
  kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
   can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nUnofficial calendar\, not affiliated with TfL.
+ nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
+ r endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,7 +237,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -250,8 +258,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
  rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
  /document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f
  &type=document\nPlans can change. Check before you travel: https://tfl.gov
- .uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with
-  TfL.
+ .uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cale
+ ndar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -271,8 +279,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -289,8 +297,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\, until
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -309,7 +317,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -328,7 +337,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -347,7 +357,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -364,7 +375,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nHackney Downs to Chingford\nDa
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -382,7 +394,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
  ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
  s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
- und/status/\nUnofficial calendar\, not affiliated with TfL.
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -400,7 +413,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
  ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
  s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
- und/status/\nUnofficial calendar\, not affiliated with TfL.
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -418,7 +432,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
  ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
  s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
- und/status/\nUnofficial calendar\, not affiliated with TfL.
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -436,7 +451,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
  ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
  s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
- und/status/\nUnofficial calendar\, not affiliated with TfL.
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -455,8 +471,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -475,8 +491,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -495,8 +511,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -515,8 +531,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -533,7 +549,8 @@ DESCRIPTION:⛔ Whole line closed\n\nEntire line closed until 10:15\nDates
  osures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docume
  nt/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=d
  ocument\nPlans can change. Check before you travel: https://tfl.gov.uk/tub
- e-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ e-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, 
+ not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -551,7 +568,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
  osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
  n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
- status/\nUnofficial calendar\, not affiliated with TfL.
+ status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or e
+ ndorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -569,7 +587,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
  osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
  n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
- status/\nUnofficial calendar\, not affiliated with TfL.
+ status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or e
+ ndorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -587,7 +606,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
  osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
  n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
- status/\nUnofficial calendar\, not affiliated with TfL.
+ status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or e
+ ndorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -605,7 +625,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackcl
  osures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans ca
  n change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/
- status/\nUnofficial calendar\, not affiliated with TfL.
+ status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or e
+ ndorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -622,8 +643,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
  i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
  f&type=document\nPlans can change. Check before you travel: https://tfl.go
- v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
- h TfL.
+ v.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cal
+ endar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -642,7 +663,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -661,7 +683,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -680,7 +703,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -699,7 +723,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -717,7 +742,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
  ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
- atus/\nUnofficial calendar\, not affiliated with TfL.
+ atus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or end
+ orsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -735,7 +761,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
  ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
- atus/\nUnofficial calendar\, not affiliated with TfL.
+ atus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or end
+ orsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -753,7 +780,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
  ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
- atus/\nUnofficial calendar\, not affiliated with TfL.
+ atus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or end
+ orsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -771,7 +799,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
   Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclos
  ures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can 
  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/st
- atus/\nUnofficial calendar\, not affiliated with TfL.
+ atus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or end
+ orsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -788,8 +817,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
  ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
  ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
  ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
- k/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with T
- fL.
+ k/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calend
+ ar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -808,7 +837,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -827,7 +857,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -846,7 +877,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -865,7 +897,8 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

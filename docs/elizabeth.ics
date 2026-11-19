@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//tfl-closures//Unofficial TfL planned closures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Planned closures on the Elizabeth line from TfL's published li
- st\, plus live updates. Unofficial\; check before you travel.
-X-WR-CALDESC:Planned closures on the Elizabeth line from TfL's published l
- ist, plus live updates. Unofficial; check before you travel.
-NAME:TfL closures: Elizabeth line
-X-WR-CALNAME:TfL closures: Elizabeth line
+DESCRIPTION:Planned closures on the Elizabeth line\, plus live updates. Un
+ official\; check before you travel. Powered by TfL Open Data.
+X-WR-CALDESC:Planned closures on the Elizabeth line, plus live updates. Un
+ official; check before you travel. Powered by TfL Open Data.
+NAME:Planned closures: Elizabeth line (unofficial)
+X-WR-CALNAME:Planned closures: Elizabeth line (unofficial)
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-APPLE-CALENDAR-COLOR:#6950A1
 X-PUBLISHED-TTL:PT6H
@@ -52,7 +52,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -77,8 +78,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
   closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
  ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
  e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL
- .
+ tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -108,8 +109,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Mai
  ley instead.\n\nSource: TfL planned track closures\, correct at Monday 16 
  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id
  =accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Che
- ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnof
- ficial calendar\, not affiliated with TfL.
+ ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
+ red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
+ ansport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -130,7 +132,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough until 0
   correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plann
  edtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document
  \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
- verground/status/\nUnofficial calendar\, not affiliated with TfL.
+ verground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not pro
+ duced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -156,8 +159,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
   CLOSED.\n\nSource: TfL planned track closures\, correct at Monday 16 Nove
  mber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=acc
  c98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check b
- efore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnoffici
- al calendar\, not affiliated with TfL.
+ efore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered 
+ by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transp
+ ort for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -183,7 +187,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  onday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosur
  es.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can ch
  ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nUnofficial calendar\, not affiliated with TfL.
+ us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
+ sed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -202,7 +207,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
  closures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans 
  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nUnofficial calendar\, not affiliated with TfL.
+ d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
+  endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -222,8 +228,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   TfL planned track closures\, correct at Monday 16 November 2026. https://
  tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43
  b-3de08a097b8f&type=document\nPlans can change. Check before you travel: h
- ttps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not a
- ffiliated with TfL.
+ ttps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nU
+ nofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -243,8 +249,8 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates
  rce: TfL planned track closures\, correct at Monday 16 November 2026. http
  s://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3
  -a43b-3de08a097b8f&type=document\nPlans can change. Check before you trave
- l: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, n
- ot affiliated with TfL.
+ l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
+ a\nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -284,8 +290,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  rate.\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
  r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
  cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
+ TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
+  for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -324,8 +331,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  fL planned track closures\, correct at Monday 16 November 2026. https://tf
  l.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-
  3de08a097b8f&type=document\nPlans can change. Check before you travel: htt
- ps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not aff
- iliated with TfL.
+ ps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUno
+ fficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -352,8 +359,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates
  TfL planned track closures\, correct at Monday 16 November 2026. https://t
  fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
  -3de08a097b8f&type=document\nPlans can change. Check before you travel: ht
- tps://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not af
- filiated with TfL.
+ tps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUn
+ official calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -382,8 +389,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -402,8 +409,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
  uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
  097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ fl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficia
+ l calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -422,7 +429,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
  s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
  annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
  nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -439,7 +447,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
  /plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=doc
  ument\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-
- dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, no
+ t produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -458,8 +467,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  Source: TfL planned track closures\, correct at Monday 16 November 2026. h
  ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
  7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
- \, not affiliated with TfL.
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -478,8 +488,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
   2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
  r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
  cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
+ TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
+  for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -498,8 +509,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  Source: TfL planned track closures\, correct at Monday 16 November 2026. h
  ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
  7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
- \, not affiliated with TfL.
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -518,8 +530,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
   2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
  r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
  cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
+ TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
+  for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -538,8 +551,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  Source: TfL planned track closures\, correct at Monday 16 November 2026. h
  ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
  7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
- \, not affiliated with TfL.
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -558,8 +572,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
   2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
  r 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98
  cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial 
- calendar\, not affiliated with TfL.
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
+ TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
+  for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -578,7 +593,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
  es\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/p
  lannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docum
  ent\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dl
- r-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ r-overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not 
+ produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -599,7 +615,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National rai
  day 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures
  .pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can chan
  ge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status
- /\nUnofficial calendar\, not affiliated with TfL.
+ /\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endorse
+ d by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -620,8 +637,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -639,8 +656,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  31 January 2027\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -659,8 +677,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
   https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
  -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
- travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
- r\, not affiliated with TfL.
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Ope
+ n Data\nUnofficial calendar\, not produced or endorsed by Transport for Lo
+ ndon.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -679,8 +698,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
  er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
  8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
- ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
-  calendar\, not affiliated with TfL.
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by
+  TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpor
+ t for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -699,8 +719,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
   https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
  -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
- travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
- r\, not affiliated with TfL.
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Ope
+ n Data\nUnofficial calendar\, not produced or endorsed by Transport for Lo
+ ndon.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -719,8 +740,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
  er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
  8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
- ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
-  calendar\, not affiliated with TfL.
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by
+  TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpor
+ t for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -739,8 +761,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \nSource: TfL planned track closures\, correct at Monday 16 November 2026.
   https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761
  -47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you 
- travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calenda
- r\, not affiliated with TfL.
+ travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Ope
+ n Data\nUnofficial calendar\, not produced or endorsed by Transport for Lo
+ ndon.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -759,8 +782,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novemb
  er 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc9
  8cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check bef
- ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial
-  calendar\, not affiliated with TfL.
+ ore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by
+  TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpor
+ t for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -780,7 +804,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -799,7 +824,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
   16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pd
  f?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change.
   Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\n
- Unofficial calendar\, not affiliated with TfL.
+ Powered by TfL Open Data\nUnofficial calendar\, not produced or endorsed b
+ y Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -816,8 +842,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood until
  nned track closures\, correct at Monday 16 November 2026. https://tfl.gov.
  uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a
  097b8f&type=document\nPlans can change. Check before you travel: https://t
- fl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliate
- d with TfL.
+ fl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficia
+ l calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -834,8 +860,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  L planned track closures\, correct at Monday 16 November 2026. https://tfl
  .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
  de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -854,8 +880,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
  i/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8
  f&type=document\nPlans can change. Check before you travel: https://tfl.go
- v.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated wit
- h TfL.
+ v.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial cal
+ endar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -872,8 +898,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  L planned track closures\, correct at Monday 16 November 2026. https://tfl
  .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
  de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -890,8 +916,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  L planned track closures\, correct at Monday 16 November 2026. https://tfl
  .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
  de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -911,7 +937,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
   at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackc
  losures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans c
  an change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground
- /status/\nUnofficial calendar\, not affiliated with TfL.
+ /status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or 
+ endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -930,8 +957,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
  /api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a09
  7b8f&type=document\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated 
- with TfL.
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -950,8 +977,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -970,8 +998,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
  026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
  e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
- you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
- endar\, not affiliated with TfL.
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL
+  Open Data\nUnofficial calendar\, not produced or endorsed by Transport fo
+ r London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -990,8 +1019,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1010,8 +1040,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
  026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
  e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
- you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
- endar\, not affiliated with TfL.
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL
+  Open Data\nUnofficial calendar\, not produced or endorsed by Transport fo
+ r London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1030,8 +1061,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  y 10 March 2027\n\nSource: TfL planned track closures\, correct at Monday 
  16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
  ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nU
- nofficial calendar\, not affiliated with TfL.
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1050,8 +1082,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  27\n\nSource: TfL planned track closures\, correct at Monday 16 November 2
  026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-
  e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before 
- you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cal
- endar\, not affiliated with TfL.
+ you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL
+  Open Data\nUnofficial calendar\, not produced or endorsed by Transport fo
+ r London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1070,8 +1103,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
  k/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a0
  97b8f&type=document\nPlans can change. Check before you travel: https://tf
- l.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated
-  with TfL.
+ l.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial
+  calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1089,8 +1122,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
  urce: TfL planned track closures\, correct at Monday 16 November 2026. htt
  ps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b
  3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you trav
- el: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, 
- not affiliated with TfL.
+ el: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Da
+ ta\nUnofficial calendar\, not produced or endorsed by Transport for London
+ .
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1107,8 +1141,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
  v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
  8a097b8f&type=document\nPlans can change. Check before you travel: https:/
- /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
- ted with TfL.
+ /tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffic
+ ial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1128,7 +1162,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
  ackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPla
  ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nUnofficial calendar\, not affiliated with TfL.
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1145,8 +1180,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  lanned track closures\, correct at Monday 16 November 2026. https://tfl.go
  v.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de0
  8a097b8f&type=document\nPlans can change. Check before you travel: https:/
- /tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affilia
- ted with TfL.
+ /tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffic
+ ial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1165,8 +1200,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  7\n\nSource: TfL planned track closures\, correct at Monday 16 November 20
  26. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e
  761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial cale
- ndar\, not affiliated with TfL.
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1184,8 +1220,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
  e: TfL planned track closures\, correct at Monday 16 November 2026. https:
  //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
  43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1202,8 +1238,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
  .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
  a097b8f&type=document\nPlans can change. Check before you travel: https://
- tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliat
- ed with TfL.
+ tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffici
+ al calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1222,8 +1258,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
  ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
  98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
- fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
- l calendar\, not affiliated with TfL.
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered b
+ y TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpo
+ rt for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1242,8 +1279,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1262,8 +1300,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
  ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
  98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
- fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
- l calendar\, not affiliated with TfL.
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered b
+ y TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpo
+ rt for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1282,8 +1321,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1302,8 +1342,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  il 2027\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
  ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
  98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check be
- fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficia
- l calendar\, not affiliated with TfL.
+ fore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered b
+ y TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transpo
+ rt for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1322,8 +1363,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
  6. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e7
  61-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before yo
- u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calen
- dar\, not affiliated with TfL.
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1340,8 +1382,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  L planned track closures\, correct at Monday 16 November 2026. https://tfl
  .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
  de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1358,8 +1400,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  L planned track closures\, correct at Monday 16 November 2026. https://tfl
  .gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3
  de08a097b8f&type=document\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affi
- liated with TfL.
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1378,8 +1420,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/
  document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&
  type=document\nPlans can change. Check before you travel: https://tfl.gov.
- uk/tube-dlr-overground/status/\nUnofficial calendar\, not affiliated with 
- TfL.
+ uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calen
+ dar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1397,8 +1439,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Abbey Wood and S
  e: TfL planned track closures\, correct at Monday 16 November 2026. https:
  //tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a
  43b-3de08a097b8f&type=document\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not
-  affiliated with TfL.
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1417,8 +1459,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  ource: TfL planned track closures\, correct at Monday 16 November 2026. ht
  tps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47
  b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tra
- vel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\,
-  not affiliated with TfL.
+ vel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open D
+ ata\nUnofficial calendar\, not produced or endorsed by Transport for Londo
+ n.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1437,8 +1480,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  Source: TfL planned track closures\, correct at Monday 16 November 2026. h
  ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
  7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
- \, not affiliated with TfL.
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1457,8 +1501,9 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  Source: TfL planned track closures\, correct at Monday 16 November 2026. h
  ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
  7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar
- \, not affiliated with TfL.
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1479,7 +1524,8 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
  ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
  =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nUnofficial calendar\, not affiliated with TfL.
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1496,8 +1542,8 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  planned track closures\, correct at Monday 16 November 2026. https://tfl.g
  ov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de
  08a097b8f&type=document\nPlans can change. Check before you travel: https:
- //tfl.gov.uk/tube-dlr-overground/status/\nUnofficial calendar\, not affili
- ated with TfL.
+ //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
+ cial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
