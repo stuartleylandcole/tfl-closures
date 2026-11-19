@@ -1,4 +1,4 @@
-# TfL planned closures as calendars (unofficial)
+# London rail planned closures as calendars (unofficial)
 
 TfL publishes planned track closures about six months ahead as a [31-page PDF](https://tfl.gov.uk/status-updates/planned-track-closures). This project turns it into one subscribable calendar per line, plus an all-lines calendar. It updates automatically when TfL publishes a new version.
 
@@ -76,4 +76,10 @@ python -m tfl_closures.build --out docs --pdf tests/fixtures/plannedtrackclosure
 * **Adding a newer PDF by hand.** Download the PDF from TfL's page. On GitHub, open the `data` folder, choose **Add file → Upload files**, and upload it as `closures.pdf`, replacing the old one. The calendars rebuild within a couple of minutes.
 * **Line colours** are approximate TfL brand colours.
 
-Not affiliated with Transport for London. Always check [TfL's status page](https://tfl.gov.uk/tube-dlr-overground/status/) before you travel.
+## Data licence and terms
+
+* **Live status** comes from TfL's Unified API under the [Transport Data Service licence](https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service). As it requires, the page, every calendar and every event say **"Powered by TfL Open Data"**. Requests stay far below the 500-calls-per-minute limit, at two calls a day. Register for a free key at the [TfL API portal](https://api-portal.tfl.gov.uk/) and add it as the `TFL_APP_KEY` secret.
+* **Branding.** Following TfL's ["use our data, not our brand"](https://tfl.gov.uk/info-for/open-data-users/design-and-branding) guidance, the project uses no roundel, no TfL fonts and no TfL logos. It doesn't use "TfL" in calendar or page names, and it says it is unofficial and not endorsed by TfL.
+* **The planned closures PDF** is website content, not part of the open data licence. TfL's [website terms](https://tfl.gov.uk/corporate/terms-and-conditions/website) only allow personal, non-commercial reuse of its material. Publishing calendars built from it needs TfL's permission.
+
+Not produced or endorsed by Transport for London. Always check [TfL's status page](https://tfl.gov.uk/tube-dlr-overground/status/) before you travel.

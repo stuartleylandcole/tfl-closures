@@ -13,6 +13,8 @@ from .lines import BY_ID, LINES
 
 LONDON = ZoneInfo("Europe/London")
 STATUS_URL = "https://tfl.gov.uk/tube-dlr-overground/status/"
+# Required wording under TfL's Transport Data Service licence
+ATTRIBUTION = "Powered by TfL Open Data"
 VTIMEZONE = """BEGIN:VTIMEZONE
 TZID:Europe/London
 BEGIN:DAYLIGHT
@@ -51,7 +53,8 @@ def describe(ev: Event, published: date, pdf_url: str) -> str:
     if ev.source == "pdf":
         parts.append(f"Source: TfL planned track closures, correct at {published:%A %-d %B %Y}. {pdf_url}")
     parts.append(f"Plans can change. Check before you travel: {STATUS_URL}")
-    parts.append("Unofficial calendar, not affiliated with TfL.")
+    parts.append(ATTRIBUTION)
+    parts.append("Unofficial calendar, not produced or endorsed by Transport for London.")
     return "\n".join(parts)
 
 
@@ -105,16 +108,16 @@ def write_feeds(out: Path, events: list[Event], published: date, pdf_url: str) -
     for line in LINES:
         evs = [e for e in events if e.line_id == line.id]
         cal = build_calendar(
-            f"TfL closures: {line.name}",
-            f"Planned closures on the {line.name} from TfL's published list, plus live updates. "
-            "Unofficial; check before you travel.",
+            f"Planned closures: {line.name} (unofficial)",
+            f"Planned closures on the {line.name}, plus live updates. "
+            f"Unofficial; check before you travel. {ATTRIBUTION}.",
             line.colour, evs, published, pdf_url, stamp)
         (out / f"{line.id}.ics").write_bytes(cal.to_ical())
         counts[line.id] = len(evs)
     cal = build_calendar(
-        "TfL closures: all lines",
-        "Planned closures on every TfL rail line from TfL's published list, plus live updates. "
-        "Unofficial; check before you travel.",
+        "Planned closures: all London rail lines (unofficial)",
+        "Planned closures on London's Underground, Elizabeth line, Overground, DLR, trams and "
+        f"cable car, plus live updates. Unofficial; check before you travel. {ATTRIBUTION}.",
         None, events, published, pdf_url, stamp)
     (out / "all.ics").write_bytes(cal.to_ical())
     counts["all"] = len(events)

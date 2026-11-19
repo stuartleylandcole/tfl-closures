@@ -96,18 +96,19 @@ def render(events: list[Event], base_url: str, published: date, pdf_url: str,
     return f"""<!DOCTYPE html>
 <html lang="en-GB"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TfL planned closures as calendars (unofficial)</title>
+<title>London rail planned closures as calendars (unofficial)</title>
 <meta name="description" content="Subscribe to planned track closures for the London lines you use, in Google, Apple or Outlook calendar.">
 <style>{CSS}</style></head>
 <body><main>
-<h1>TfL planned closures, in your calendar</h1>
+<h1>London rail planned closures, in your calendar</h1>
 <p class="lede">Subscribe to the lines you use. Closures appear in your calendar and update automatically when TfL publishes changes.</p>
 <ul class="legend">{legend}</ul>
 <div class="all"><strong>Every line in one calendar</strong><div class="btns">{_buttons(f"{base}/all.ics")}</div></div>
 {''.join(cards)}
 <footer>
 <p>Built from TfL's <a href="{escape(pdf_url)}">planned track closures list</a> (correct at {published:%-d %B %Y}) and TfL's live line status. Checked daily, last updated {updated:%-d %B %Y, %H:%M}.</p>
-<p>Plans can change at short notice. <a href="https://tfl.gov.uk/tube-dlr-overground/status/">Check TfL's status page</a> before you travel. This is an unofficial project and isn't affiliated with Transport for London.</p>
+<p>Plans can change at short notice. <a href="https://tfl.gov.uk/tube-dlr-overground/status/">Check TfL's status page</a> before you travel. This is an unofficial project. It isn't produced or endorsed by Transport for London.</p>
+<p><strong>Powered by TfL Open Data</strong></p>
 <p>Google Calendar refreshes subscribed calendars roughly every 12–24 hours. On a phone, the Google link opens in your browser; the calendar then appears in the app.</p>
 </footer>
 </main><script>{JS}</script></body></html>
