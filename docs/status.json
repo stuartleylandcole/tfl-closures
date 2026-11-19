@@ -13,7 +13,7 @@
     "hammersmith-city": 11,
     "jubilee": 10,
     "metropolitan": 10,
-    "northern": 8,
+    "northern": 12,
     "piccadilly": 21,
     "victoria": 5,
     "waterloo-city": 6,
@@ -27,7 +27,7 @@
     "windrush": 58,
     "tram": 3,
     "london-cable-car": 15,
-    "all": 445
+    "all": 449
   },
   "date_warnings": [
     "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
@@ -78,6 +78,10 @@
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
+    "Live only: Northern: Saturday 21 and Sunday 22 November, no Night Tube service between Kennington and Stockwell (Sat 21 Nov 00:55)",
+    "Live only: Northern: Saturday 21 and Sunday 22 November, no Night Tube service between Kennington and Stockwell (Sun 22 Nov 00:55)",
+    "Live only: Northern: Saturday 28 and Sunday 29 November, no Night Tube service between Kennington and Stockwell (Sat 28 Nov 00:55)",
+    "Live only: Northern: Saturday 28 and Sunday 29 November, no Night Tube service between Kennington and Stockwell (Sun 29 Nov 00:55)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
