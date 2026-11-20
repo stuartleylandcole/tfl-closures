@@ -31,28 +31,28 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 District: Piccadilly line service control staff are planning 
- to take strike action from Friday 20…
-DTSTART;TZID=Europe/London:20261120T115900
+SUMMARY:📢 District: Piccadilly line service control staff are taking st
+ rike action from Friday 20 until…
+DTSTART;TZID=Europe/London:20261120T120900
 DTEND;TZID=Europe/London:20261121T203000
 DTSTAMP:20261116T000000Z
-UID:213954ddee925e91bb17@tfl-closures
+UID:67afe23d501f1ec7c9d4@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nTUBE STRIKE: Piccadilly line service control staff are planning
-  to take strike action from Friday 20 until Saturday evening\, 21 November
- . Due to shared infrastructure around the Ealing Common District line depo
- t\, there will be no DISTRICT LINE service between Earls Court and Richmon
- d / Ealing Broadway from midday on Friday until Saturday evening\, with a 
- reduced service on the rest of the line. No Piccadilly line service is exp
- ected during the strike. Replacement bus services operate during Friday Ni
- ght Tube and Saturday daytime hours only. Please use MILDMAY LINE services
-  between Gunnersbury\, Kew Gardens and Richmond\, where available.\n\nFrom
-  TfL's live status (Planned Closure)\, checked 19 November 2026.\n\nPlans 
- can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgroun
- d/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or
-  endorsed by Transport for London.
+ s list)\n\nTUBE STRIKE: Piccadilly line service control staff are taking s
+ trike action from Friday 20 until Saturday evening\, 21 November. Due to s
+ hared infrastructure around the Ealing Common District line depot\, there 
+ will be no DISTRICT LINE service between Turnham Green and Ealing Broadway
+  from midday on Friday until Saturday evening\, with a reduced service on 
+ the rest of the line. No Piccadilly line service is expected during the st
+ rike. Replacement bus services operate during Friday Night Tube and Saturd
+ ay daytime hours only. Please use MILDMAY LINE services between Gunnersbur
+ y\, Kew Gardens and Richmond\, where available.\n\nFrom TfL's live status 
+ (Part Closure)\, checked 20 November 2026.\n\nPlans can change. Check befo
+ re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
+ TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
+  for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,7 +70,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 20 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -87,7 +87,7 @@ UID:7febc275138818b4a7fa@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to High Street Ke
  nsington\nDates as listed by TfL: Saturday 28 November to Sunday 29 Novemb
- er 2026\n\nTfL live status (Part Closure\, checked 19 November 2026): DIST
+ er 2026\n\nTfL live status (Part Closure\, checked 20 November 2026): DIST
  RICT LINE: Saturday 28 and Sunday 29 November\, no service between High St
  reet Kensington and Edgware Road. There will also be no CIRCLE LINE servic
  e on this section.\n\nSource: TfL planned track closures\, correct at Mond
@@ -109,7 +109,7 @@ UID:a171d6d558ce6605d269@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
  es as listed by TfL: Sunday 6 December 2026\n\nTfL live status (Part Closu
- re\, checked 19 November 2026): DISTRICT LINE: Sunday 6 December\, no serv
+ re\, checked 20 November 2026): DISTRICT LINE: Sunday 6 December\, no serv
  ice between Turnham Green and Richmond. There will also be no MILDMAY LINE
   service between Willesden Junction and Richmond. Replacement bus service 
  R operates between Willesden Junction and Richmond via Acton Central (The 
@@ -138,7 +138,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 20 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -159,7 +159,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 19 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 20 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -177,7 +177,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
  sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
- e for last train/tram times\n\nTfL live status (Part Closure\, checked 19 
+ e for last train/tram times\n\nTfL live status (Part Closure\, checked 20 
  November 2026): DISTRICT LINE: Christmas Eve\, 24 December\, no service be
  tween Earls Court and Kensington Olympia.\n\nSource: TfL planned track clo
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
@@ -198,7 +198,7 @@ UID:2bf830a95f1868481fa2@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 19 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 20 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -223,18 +223,18 @@ DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
  d\nUpney to East Ham\, westbound\nDates as listed by TfL: Saturday 26 Dece
  mber to Tuesday 29 December 2026\nTfL's PDF lists this closure in more tha
  n one week\; it's shown here as one event.\n\nTfL live status (Part Closur
- e\, checked 19 November 2026): DISTRICT LINE: Boxing Day\, 26 December to 
+ e\, checked 20 November 2026): DISTRICT LINE: Boxing Day\, 26 December to 
  Tuesday 29 December\, no westbound service from Upney to East Ham\, and no
   eastbound service from East Ham to Barking. Replacement bus service DL7 o
  perates between East Ham\, Barking and Upminster.\nTfL live status (Part C
- losure\, checked 19 November 2026): DISTRICT LINE: Boxing Day\, 26 Decembe
+ losure\, checked 20 November 2026): DISTRICT LINE: Boxing Day\, 26 Decembe
  r to Tuesday 29 December\, no westbound service from Upney to East Ham\, a
  nd no eastbound service from East Ham to Barking. There will also be no HA
  MMERSMITH & CITY LINE services between Moorgate and Barking. c2c services 
  will not operate on Boxing Day but operate between Fenchurch Street\, Lime
  house\, West Ham\, Barking and Upminster on other days (no trains to/from 
  Liverpool Street). Replacement bus service DL7 operates between East Ham\,
-  Barking and Upminster.\nTfL live status (Part Closure\, checked 19 Novemb
+  Barking and Upminster.\nTfL live status (Part Closure\, checked 20 Novemb
  er 2026): DISTRICT LINE: Boxing Day\, 26 December to New Years Day\, 1 Jan
  uary\, no service between Earls Court and Kensington Olympia.\n\nSource: T
  fL planned track closures\, correct at Monday 16 November 2026. https://tf
