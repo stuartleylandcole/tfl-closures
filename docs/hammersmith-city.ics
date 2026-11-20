@@ -31,20 +31,20 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Strike planned\, services may be disrupte
- d
+SUMMARY:📢 Hammersmith & City: Some London Underground Tube drivers are 
+ planning to take strike action from 12:00…
 DTSTART;TZID=Europe/London:20261126T120000
 DTEND;TZID=Europe/London:20261127T115900
 DTSTAMP:20261116T000000Z
-UID:d12a57f09840a289bd30@tfl-closures
+UID:40985777e78dacfacc04@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
  to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 Novembe
  r. There is likely to be some disruption across all Underground lines\, bu
- t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 20 November 2026.\n\nPlans can change. Check befor
+ t trains are expected to run on most lines.\n\nFrom TfL's live status (Pla
+ nned Closure)\, checked 20 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
