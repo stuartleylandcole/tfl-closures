@@ -32,62 +32,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Piccadilly line service control staff are plannin
- g to take strike action from Friday 20…
-DTSTART;TZID=Europe/London:20261120T115900
-DTEND;TZID=Europe/London:20261121T203000
-DTSTAMP:20261116T000000Z
-UID:c04cc63d6069fa2997f7@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nTUBE STRIKE: Piccadilly line service control staff are planning
-  to take strike action from Friday 20 until Saturday evening 21 November. 
- There will be no service from midday on Friday until Saturday evening\, in
- cluding Night Tube on Friday night. Normal Night Tube service is expected 
- to operate on Saturday night. Due to shared infrastructure around the Eali
- ng Common District line depot\, there will be no DISTRICT LINE service bet
- ween Turnham Green and Ealing Broadway from midday on Friday until Saturda
- y evening. Replacement buses will operate during Friday Night Tube hours a
- nd Saturday daytime only. Please use ELIZABETH LINE services for travel be
- tween Central London and Heathrow\, and between terminals\, and METROPOLIT
- AN LINE services between Rayners Lane and Uxbridge.\n\nFrom TfL's live sta
- tus (Planned Closure)\, checked 21 November 2026.\n\nPlans can change. Che
- ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
- red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
- ansport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 District: Piccadilly line service control staff are taking st
- rike action from Friday 20 until…
-DTSTART;TZID=Europe/London:20261120T120900
-DTEND;TZID=Europe/London:20261121T203000
-DTSTAMP:20261116T000000Z
-UID:67afe23d501f1ec7c9d4@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nTUBE STRIKE: Piccadilly line service control staff are taking s
- trike action from Friday 20 until Saturday evening\, 21 November. Due to s
- hared infrastructure around the Ealing Common District line depot\, there 
- will be no DISTRICT LINE service between Turnham Green and Ealing Broadway
-  from midday on Friday until Saturday evening\, with a reduced service on 
- the rest of the line. No Piccadilly line service is expected during the st
- rike. Replacement bus services operate during Friday Night Tube and Saturd
- ay daytime hours only. Please use MILDMAY LINE services between Gunnersbur
- y\, Kew Gardens and Richmond\, where available.\n\nFrom TfL's live status 
- (Part Closure)\, checked 21 November 2026.\n\nPlans can change. Check befo
- re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
- TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
-  for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📢 Northern: On the early mornings of Saturday 21 and Sunday 22 
  November\, no Night Tube service…
 DTSTART;TZID=Europe/London:20261121T005500
@@ -186,22 +130,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📢 District: District Line: No service between Kensington (Olymp
  ia) and Earl's Court due to train…
-DTSTART;TZID=Europe/London:20261121T082108
-DTEND;TZID=Europe/London:20261121T163532
+DTSTART;TZID=Europe/London:20261121T200213
+DTEND;TZID=Europe/London:20261122T011313
 DTSTAMP:20261116T000000Z
-UID:bbc34342fc316766a9a0@tfl-closures
+UID:ef3d25ae5b51d9df3cd4@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nDistrict Line: No service between Kensington (Olympia) and Earl
- 's Court due to train cancellations. NO SERVICE between Turnham Green and 
- Ealing Broadway due to strike action. Tickets will be accepted on London B
- uses\, Mildmay line\, DLR\, Elizabeth line\, C2C and South Western service
- s. SEVERE DELAYS on the rest of the line.\n\nFrom TfL's live status (Part 
- Suspended)\, checked 21 November 2026.\n\nPlans can change. Check before y
- ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
- Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
-  London.
+ 's Court due to train cancellations. SEVERE DELAYS on the rest of the line
+  due to strike action. Tickets will be accepted on London Buses\, Mildmay 
+ line\, DLR\, Elizabeth line\, C2C and South Western services.\n\nFrom TfL'
+ s live status (Part Suspended)\, checked 21 November 2026.\n\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
+ sed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
