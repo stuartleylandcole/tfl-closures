@@ -38,17 +38,14 @@ DTSTAMP:20261116T000000Z
 UID:6c981f382a0e5163d4cc@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line until 1
- 0:15\nDates as listed by TfL: Sunday 22 November 2026\n\nTfL live status (
- Part Closure\, checked 21 November 2026): WEAVER LINE: Sunday 22 November
- \, until 1015\, no service between Liverpool Street and Cheshunt / Chingfo
- rd / Enfield Town. Use local London Buses and London Underground connectio
- ns between Central London and Hackney Downs / Seven Sisters. Replacement b
- uses operate.\n\nSource: TfL planned track closures\, correct at Monday 16
-  November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
- d=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Ch
- eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
- ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
- ransport for London.
+ 0:15\nDates as listed by TfL: Sunday 22 November 2026\n\n⚠️ Not showin
+ g on TfL's live status as of 22 November 2026. It may have been cancelled 
+ or not yet added\, so check before you travel.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -64,7 +61,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Monday 23 November to Thursday 26 November 2026\n\nTfL live status (Part C
- losure\, checked 21 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
+ losure\, checked 22 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
  Wednesday 25 and Thursday 26 November\, after 2245 each evening\, no servi
  ce between Hackney Downs and Cheshunt / Enfield Town. Use London Undergrou
  nd connections between Central London and Seven Sisters\, and for Rectory 
@@ -93,7 +90,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Monday 23 November to Thursday 26 November 2026\n\nTfL live status (Part C
- losure\, checked 21 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
+ losure\, checked 22 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
  Wednesday 25 and Thursday 26 November\, after 2245 each evening\, no servi
  ce between Hackney Downs and Cheshunt / Enfield Town. Use London Undergrou
  nd connections between Central London and Seven Sisters\, and for Rectory 
@@ -122,7 +119,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Monday 23 November to Thursday 26 November 2026\n\nTfL live status (Part C
- losure\, checked 21 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
+ losure\, checked 22 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
  Wednesday 25 and Thursday 26 November\, after 2245 each evening\, no servi
  ce between Hackney Downs and Cheshunt / Enfield Town. Use London Undergrou
  nd connections between Central London and Seven Sisters\, and for Rectory 
@@ -151,7 +148,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Monday 23 November to Thursday 26 November 2026\n\nTfL live status (Part C
- losure\, checked 21 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
+ losure\, checked 22 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
  Wednesday 25 and Thursday 26 November\, after 2245 each evening\, no servi
  ce between Hackney Downs and Cheshunt / Enfield Town. Use London Undergrou
  nd connections between Central London and Seven Sisters\, and for Rectory 
@@ -178,7 +175,7 @@ UID:3fb80fcb68a977ed4743@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
-  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 21
+  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 22
   November 2026): WEAVER LINE: Monday 21 and Tuesday 22 December\, after 22
  45 each evening\, no service between Hackney Downs and Chingford. Last thr
  ough trains operate at 2231 from Liverpool Street and at 2253 from Chingfo
@@ -205,7 +202,7 @@ UID:f8609cbd6446a8b4516d@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
-  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 21
+  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 22
   November 2026): WEAVER LINE: Monday 21 and Tuesday 22 December\, after 22
  45 each evening\, no service between Hackney Downs and Chingford. Last thr
  ough trains operate at 2231 from Liverpool Street and at 2253 from Chingfo
@@ -252,7 +249,7 @@ UID:cb24a271f9de14381cd5@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 21 November 2026): WEAVER LINE: Christmas Day\, 25 December\, 
+ e\, checked 22 November 2026): WEAVER LINE: Christmas Day\, 25 December\, 
  and Boxing Day\, 26 December\, no service on the line. Services resume on 
  Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL planned t
  rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
@@ -273,7 +270,7 @@ UID:144230676b718508b9b6@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 21 November 2026): WEAVER LINE: Christmas Day\, 25 Decembe
+ osure\, checked 22 November 2026): WEAVER LINE: Christmas Day\, 25 Decembe
  r\, and Boxing Day\, 26 December\, no service on the line. Services resume
   on Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL plann
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk

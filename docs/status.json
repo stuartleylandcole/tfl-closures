@@ -9,11 +9,11 @@
     "bakerloo": 10,
     "central": 17,
     "circle": 9,
-    "district": 20,
+    "district": 19,
     "hammersmith-city": 11,
     "jubilee": 10,
     "metropolitan": 11,
-    "northern": 10,
+    "northern": 8,
     "piccadilly": 20,
     "victoria": 5,
     "waterloo-city": 7,
@@ -27,7 +27,7 @@
     "windrush": 59,
     "tram": 3,
     "london-cable-car": 18,
-    "all": 452
+    "all": 449
   },
   "date_warnings": [
     "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
@@ -38,6 +38,7 @@
   ],
   "unreadable_rows": [],
   "live_report": [
+    "Not in live status: ⛔ Weaver line: No service on the entire line until 10:15 (Sun 22 Nov)",
     "Live only: Bakerloo: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Bakerloo: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Bakerloo: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
@@ -50,7 +51,6 @@
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: District: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
-    "Live only: District: District Line: No service between Kensington (Olympia) and Earl's Court due to train… (Sat 21 Nov 20:02)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Hammersmith & City: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
@@ -82,8 +82,6 @@
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",
-    "Live only: Northern: On the early mornings of Saturday 21 and Sunday 22 November, no Night Tube service… (Sat 21 Nov 00:55)",
-    "Live only: Northern: On the early mornings of Saturday 21 and Sunday 22 November, no Night Tube service… (Sun 22 Nov 00:55)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 26 Nov 12:00)",

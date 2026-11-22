@@ -41,19 +41,17 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
  inal 4\nDates as listed by TfL: Sunday 22 November 2026\n\nTfL live status
-  (Part Closure\, checked 21 November 2026): ELIZABETH LINE: Sunday 22 Nove
- mber\, until 0740\, no service between Paddington and Ealing Broadway.\nTf
- L live status (Reduced Service\, checked 21 November 2026): ELIZABETH LINE
- : Sunday 22 November\, from 0740\, a reduced service operates between Padd
- ington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West
-  Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour 
- serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadw
- ay\, Southall and Hayes & Harlington.\n\nSource: TfL planned track closure
- s\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/pl
- annedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=docume
- nt\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
- roduced or endorsed by Transport for London.
+  (Reduced Service\, checked 22 November 2026): ELIZABETH LINE: Sunday 22 N
+ ovember\, from 0740\, a reduced service operates between Paddington and He
+ athrow Terminal 4 / Maidenhead. Two trains an hour serve West Drayton\, La
+ ngley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathro
+ w Terminals 2 and 3. Eight trains an hour serve Ealing Broadway\, Southall
+  and Hayes & Harlington.\n\nSource: TfL planned track closures\, correct a
+ t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
+ sures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can
+  change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
+ tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
+ dorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -67,19 +65,17 @@ UID:d0ecfc62f4971ec588a4@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Ealing Broadway
  \, until 07:45\nDates as listed by TfL: Sunday 22 November 2026\n\nTfL liv
- e status (Part Closure\, checked 21 November 2026): ELIZABETH LINE: Sunday
-  22 November\, until 0740\, no service between Paddington and Ealing Broad
- way.\nTfL live status (Reduced Service\, checked 21 November 2026): ELIZAB
- ETH LINE: Sunday 22 November\, from 0740\, a reduced service operates betw
- een Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour se
- rve West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains 
- an hour serve Heathrow Terminals 2 and 3. Eight trains an hour serve Ealin
- g Broadway\, Southall and Hayes & Harlington.\n\nSource: TfL planned track
-  closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/doc
- ument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&typ
- e=document\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
- \, not produced or endorsed by Transport for London.
+ e status (Reduced Service\, checked 22 November 2026): ELIZABETH LINE: Sun
+ day 22 November\, from 0740\, a reduced service operates between Paddingto
+ n and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve West Dray
+ ton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve
+  Heathrow Terminals 2 and 3. Eight trains an hour serve Ealing Broadway\, 
+ Southall and Hayes & Harlington.\n\nSource: TfL planned track closures\, c
+ orrect at Monday 16 November 2026. https://tfl.gov.uk/api/document/planned
+ trackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -95,7 +91,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Mai
  denhead\nPaddington to Abbey Wood and Shenfield\nDates as listed by TfL: S
  aturday 28 November to Sunday 29 November 2026\n\nTfL live status (Part Cl
- osure\, checked 21 November 2026): ELIZABETH LINE: Saturday 28 and Sunday 
+ osure\, checked 22 November 2026): ELIZABETH LINE: Saturday 28 and Sunday 
  29 November\, no service between Maidenhead / Heathrow (all terminals) and
   Abbey Wood / Shenfield. Use PICCADILLY LINE services between Heathrow and
   Central London. LONDON PADDINGTON STATION will be closed on this day\, wi
@@ -125,7 +121,7 @@ UID:5669c9d1f29d8b42ab1f@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough until 0
  9:00\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (P
- art Closure\, checked 21 November 2026): ELIZABETH LINE: Sunday 6 December
+ art Closure\, checked 22 November 2026): ELIZABETH LINE: Sunday 6 December
  \, until 0900\, no service between West Drayton and Slough. Replacement bu
  s service W1 operates between Hayes & Harlington and Slough via West Drayt
  on and Langley (not serving Iver).\n\nSource: TfL planned track closures\,
@@ -150,7 +146,7 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing: Trains will not stop after 
  23:00 on Saturday and until 09:00 on Sunday\nDates as listed by TfL: Satur
  day 12 December to Sunday 13 December 2026\n\nTfL live status (Reduced Ser
- vice\, checked 21 November 2026): ELIZABETH LINE: Sunday 13 December\, a r
+ vice\, checked 22 November 2026): ELIZABETH LINE: Sunday 13 December\, a r
  educed service operates between Paddington and Heathrow Terminal 4 / Maide
  nhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langl
  ey\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow T
@@ -177,7 +173,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
  inal 4\nDates as listed by TfL: Sunday 13 December 2026\n\nTfL live status
-  (Reduced Service\, checked 21 November 2026): ELIZABETH LINE: Sunday 13 D
+  (Reduced Service\, checked 22 November 2026): ELIZABETH LINE: Sunday 13 D
  ecember\, a reduced service operates between Paddington and Heathrow Termi
  nal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Dr
  ayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour ser
@@ -222,7 +218,7 @@ UID:47d2ca06bc49bc13498f@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 21 November 2026): ELIZABETH LINE: Christmas Day\, 25 December
+ e\, checked 22 November 2026): ELIZABETH LINE: Christmas Day\, 25 December
  \, and Boxing Day\, 26 December\, no service throughout the network. Servi
  ces resume on Sunday 27 December to a revised Sunday timetable.\n\nSource:
   TfL planned track closures\, correct at Monday 16 November 2026. https://
@@ -243,7 +239,7 @@ UID:f66ce9d3603ae2c4cbd1@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 21 November 2026): ELIZABETH LINE: Christmas Day\, 25 Dece
+ osure\, checked 22 November 2026): ELIZABETH LINE: Christmas Day\, 25 Dece
  mber\, and Boxing Day\, 26 December\, no service throughout the network. S
  ervices resume on Sunday 27 December to a revised Sunday timetable.\n\nSou
  rce: TfL planned track closures\, correct at Monday 16 November 2026. http
@@ -267,10 +263,10 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  l) and Stratford to Romford\nDates as listed by TfL: Saturday 26 December 
  to Sunday 3 January 2027\nTfL's PDF lists this closure in more than one we
  ek\; it's shown here as one event.\n\nTfL live status (Planned Closure\, c
- hecked 21 November 2026): ELIZABETH LINE: Christmas Day\, 25 December\, an
+ hecked 22 November 2026): ELIZABETH LINE: Christmas Day\, 25 December\, an
  d Boxing Day\, 26 December\, no service throughout the network. Services r
  esume on Sunday 27 December to a revised Sunday timetable.\nTfL live statu
- s (Part Closure\, checked 21 November 2026): ELIZABETH LINE: From Sunday 2
+ s (Part Closure\, checked 22 November 2026): ELIZABETH LINE: From Sunday 2
  7 December until Sunday 3 January\, no service between Stratford and Romfo
  rd. The limited services to/from Liverpool Street National Rail station wi
  ll also not operate. There will also be no GREATER ANGLIA services between
@@ -280,7 +276,7 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  ngs\, Goodmayes (High Road) and Chadwell Heath (Wangey Road). GREATER ANGL
  IA also operate connecting non-stop replacement bus services between Newbu
  ry Park (for Central line) and Shenfield / Ingatestone.\nTfL live status (
- Part Closure\, checked 21 November 2026): ELIZABETH LINE: Sunday 27 to Wed
+ Part Closure\, checked 22 November 2026): ELIZABETH LINE: Sunday 27 to Wed
  nesday 30 December\, no service between Paddington and Heathrow (all termi
  nals) / Reading. Use GWR services between Slough and Reading. There will a
  lso be no HEATHROW EXPRESS services\, or GWR services between Paddington a
@@ -307,11 +303,11 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  ugh\nDates as listed by TfL: Saturday 26 December to Wednesday 30 December
   2026\nTfL's PDF lists this closure in more than one week\; it's shown her
- e as one event.\n\nTfL live status (Planned Closure\, checked 21 November 
+ e as one event.\n\nTfL live status (Planned Closure\, checked 22 November 
  2026): ELIZABETH LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 D
  ecember\, no service throughout the network. Services resume on Sunday 27 
  December to a revised Sunday timetable.\nTfL live status (Part Closure\, c
- hecked 21 November 2026): ELIZABETH LINE: From Sunday 27 December until Su
+ hecked 22 November 2026): ELIZABETH LINE: From Sunday 27 December until Su
  nday 3 January\, no service between Stratford and Romford. The limited ser
  vices to/from Liverpool Street National Rail station will also not operate
  . There will also be no GREATER ANGLIA services between Liverpool Street a
@@ -321,7 +317,7 @@ DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  gh Road) and Chadwell Heath (Wangey Road). GREATER ANGLIA also operate con
  necting non-stop replacement bus services between Newbury Park (for Centra
  l line) and Shenfield / Ingatestone.\nTfL live status (Part Closure\, chec
- ked 21 November 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 December
+ ked 22 November 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 December
  \, no service between Paddington and Heathrow (all terminals) / Reading. U
  se GWR services between Slough and Reading. There will also be no HEATHROW
   EXPRESS services\, or GWR services between Paddington and Slough / Greenf
@@ -346,7 +342,7 @@ UID:8b83ea159036ec324e09@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates 
  as listed by TfL: Thursday 31 December to Sunday 3 January 2027\n\nTfL liv
- e status (Part Closure\, checked 21 November 2026): ELIZABETH LINE: From S
+ e status (Part Closure\, checked 22 November 2026): ELIZABETH LINE: From S
  unday 27 December until Sunday 3 January\, no service between Stratford an
  d Romford. The limited services to/from Liverpool Street National Rail sta
  tion will also not operate. There will also be no GREATER ANGLIA services 
@@ -356,7 +352,7 @@ DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates
  even Kings\, Goodmayes (High Road) and Chadwell Heath (Wangey Road). GREAT
  ER ANGLIA also operate connecting non-stop replacement bus services betwee
  n Newbury Park (for Central line) and Shenfield / Ingatestone.\nTfL live s
- tatus (Part Closure\, checked 21 November 2026): ELIZABETH LINE: Thursday 
+ tatus (Part Closure\, checked 22 November 2026): ELIZABETH LINE: Thursday 
  31 December\, New Years Day 1 January and Saturday 2 January\, no service 
  between West Drayton and Reading. Use GWR services between Slough and Read
  ing. There will also be no GWR services between Paddington and Slough / Gr
@@ -382,7 +378,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing stations: Trains will not st
  op\nDates as listed by TfL: Sunday 3 January 2027\n\nTfL live status (Part
-  Closure\, checked 21 November 2026): ELIZABETH LINE: From Sunday 27 Decem
+  Closure\, checked 22 November 2026): ELIZABETH LINE: From Sunday 27 Decem
  ber until Sunday 3 January\, no service between Stratford and Romford. The
   limited services to/from Liverpool Street National Rail station will also
   not operate. There will also be no GREATER ANGLIA services between Liverp
