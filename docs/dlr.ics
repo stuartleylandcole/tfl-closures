@@ -39,15 +39,12 @@ UID:1de09389662ce7214cc2@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nStratford International to Can
  ning Town\nDates as listed by TfL: Saturday 21 November to Sunday 22 Novem
- ber 2026\n\nTfL live status (Part Closure\, checked 22 November 2026): DOC
- KLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November\, no service betw
- een Canning Town and Stratford International. Please use JUBILEE LINE and 
- local London Buses services.\n\nSource: TfL planned track closures\, corre
- ct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrac
- kclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans
-  can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgrou
- nd/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced o
- r endorsed by Transport for London.
+ ber 2026\n\nSource: TfL planned track closures\, correct at Monday 16 Nove
+ mber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=acc
+ c98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. Check b
+ efore you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered 
+ by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transp
+ ort for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -81,7 +78,7 @@ UID:871bf4b18f97728d077b@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 22 November 2026): DOCKLANDS LIGHT RAILWAY: Christmas Day\, 25
+ e\, checked 23 November 2026): DOCKLANDS LIGHT RAILWAY: Christmas Day\, 25
   December\, no service throughout the network. Services resume on Boxing D
  ay morning to a revised Sunday timetable.\n\nSource: TfL planned track clo
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
