@@ -39,7 +39,7 @@ UID:103c2b61082ff6dd0e66@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
   as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL 
- live status (Part Closure\, checked 23 November 2026): METROPOLITAN LINE: 
+ live status (Part Closure\, checked 24 November 2026): METROPOLITAN LINE: 
  Saturday 28 and Sunday 29 November\, no service between Baker Street and A
  ldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services o
  n this section.\n\nSource: TfL planned track closures\, correct at Monday 
@@ -65,7 +65,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 23 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 24 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -86,7 +86,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 23 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 24 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -123,7 +123,7 @@ UID:6e8e74242517c3ee4794@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 23 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 24 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -149,9 +149,30 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and
   0900\, no service between Baker Street and Aldgate. Use CIRCLE and HAMMER
  SMITH & CITY LINE services instead.\n\nFrom TfL's live status (Part Closur
- e)\, checked 23 November 2026.\n\nPlans can change. Check before you trave
+ e)\, checked 24 November 2026.\n\nPlans can change. Check before you trave
  l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
  a\nUnofficial calendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Metropolitan: Strike planned\, services may be disrupted
+DTSTART;TZID=Europe/London:20270104T120000
+DTEND;TZID=Europe/London:20270105T115900
+DTSTAMP:20261116T000000Z
+UID:a9c9b8bae2cb5a6effc0@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nTUBE STRIKE: Some London Underground Tube drivers are planning 
+ to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
+ here is likely to be some disruption across all Underground lines\, but tr
+ ains are expected to run on most lines.\n\nFrom TfL's live status (Special
+  Service)\, checked 24 November 2026.\n\nPlans can change. Check before yo
+ u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
+ pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
+ London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
