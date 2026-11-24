@@ -31,6 +31,26 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Windrush Line: No service between Sydenham and
+  West Croydon while police respond to an…
+DTSTART;TZID=Europe/London:20261124T150148
+DTEND;TZID=Europe/London:20261124T185918
+DTSTAMP:20261116T000000Z
+UID:6ef53100999069a5dc30@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWindrush Line: No service between Sydenham and West Croydon whi
+ le police respond to an incident at Norwood Junction. GOOD SERVICE on the 
+ rest of the line.\n\nFrom TfL's live status (Part Suspended)\, checked 24 
+ November 2026.\n\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial ca
+ lendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌙 Windrush line: Highbury & Islington to New Cross Gate\, durin
  g Night Overground hours only
 DTSTART;TZID=Europe/London:20261128T003000

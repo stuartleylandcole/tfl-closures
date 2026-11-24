@@ -202,6 +202,26 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Windrush Line: No service between Sydenham and
+  West Croydon while police respond to an…
+DTSTART;TZID=Europe/London:20261124T150148
+DTEND;TZID=Europe/London:20261124T185918
+DTSTAMP:20261116T000000Z
+UID:6ef53100999069a5dc30@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWindrush Line: No service between Sydenham and West Croydon whi
+ le police respond to an incident at Norwood Junction. GOOD SERVICE on the 
+ rest of the line.\n\nFrom TfL's live status (Part Suspended)\, checked 24 
+ November 2026.\n\nPlans can change. Check before you travel: https://tfl.g
+ ov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial ca
+ lendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
  er 22:45
 DTSTART;TZID=Europe/London:20261124T224500
@@ -373,6 +393,29 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
  eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
  ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
  ransport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
+ imately\, and Sunday 29 November\,…
+DTSTART;TZID=Europe/London:20261128T004500
+DTEND;TZID=Europe/London:20261128T053000
+DTSTAMP:20261116T000000Z
+UID:850e5f7a71e887d97eff@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
+ roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
+ \, no Friday and Saturday Night Tube service between Kennington and Stockw
+ ell. For travel between Central London and Stockwell\, and stations to Mor
+ den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
+ etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
+ \, checked 24 November 2026.\n\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -550,6 +593,29 @@ DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
  a097b8f&type=document\nPlans can change. Check before you travel: https://
  tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffici
  al calendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
+ imately\, and Sunday 29 November\,…
+DTSTART;TZID=Europe/London:20261129T004500
+DTEND;TZID=Europe/London:20261129T071000
+DTSTAMP:20261116T000000Z
+UID:25c44cb7e0d6930e9d1b@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
+ roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
+ \, no Friday and Saturday Night Tube service between Kennington and Stockw
+ ell. For travel between Central London and Stockwell\, and stations to Mor
+ den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
+ etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
+ \, checked 24 November 2026.\n\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
