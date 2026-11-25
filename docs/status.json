@@ -24,10 +24,10 @@
     "mildmay": 80,
     "suffragette": 14,
     "weaver": 42,
-    "windrush": 60,
+    "windrush": 59,
     "tram": 3,
     "london-cable-car": 18,
-    "all": 455
+    "all": 454
   },
   "date_warnings": [
     "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
@@ -102,7 +102,6 @@
     "Live only: Windrush line: Monday 30 November, Tuesday 1, Wednesday 2 and Thursday 3 December, after 2215 each… (Wed 2 Dec 22:15)",
     "Live only: Windrush line: Monday 30 November, Tuesday 1, Wednesday 2 and Thursday 3 December, after 2215 each… (Thu 3 Dec 22:15)",
     "Live only: Windrush line: Sunday 27 December, no service between Surrey Quays and New Cross (Sun 27 Dec 04:30)",
-    "Live only: Windrush line: From 2045 Thursday 31 December until 1030 New Years Day 1 January, no service between… (Thu 31 Dec 20:45)",
-    "Live only: Windrush line: Windrush Line: No service between Sydenham and West Croydon while police respond to an… (Tue 24 Nov 15:01)"
+    "Live only: Windrush line: From 2045 Thursday 31 December until 1030 New Years Day 1 January, no service between… (Thu 31 Dec 20:45)"
   ]
 }
