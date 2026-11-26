@@ -50,6 +50,28 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Queen's Park and 
+ Harrow & Wealdstone due to strike…
+DTSTART;TZID=Europe/London:20261126T152211
+DTEND;TZID=Europe/London:20261126T182732
+DTSTAMP:20261116T000000Z
+UID:440ea3ed638a3f3362b5@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nBakerloo Line: No service between Queen's Park and Harrow & Wea
+ ldstone due to strike action. GOOD SERVICE on the rest of the line. Servic
+ e is operating between Queen's Park and Harrow & Wealdstone approximately 
+ every 5 minutes. Tube services will finish early tonight so please complet
+ e your journey at 21:00.\n\nFrom TfL's live status (Part Suspended)\, chec
+ ked 26 November 2026.\n\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
+ cial calendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🚧 Bakerloo: Queen's Park to Harrow & Wealdstone
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207

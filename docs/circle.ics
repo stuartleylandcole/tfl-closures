@@ -31,21 +31,21 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Circle: Thursday 26\, all day\, and until 1200 Friday 27 Nove
- mber\, no service due to strike action
-DTSTART;TZID=Europe/London:20261126T043000
-DTEND;TZID=Europe/London:20261127T120000
+SUMMARY:📢 Circle: Circle Line: No service on the entire line due to str
+ ike action
+DTSTART;TZID=Europe/London:20261126T121256
+DTEND;TZID=Europe/London:20261126T182732
 DTSTAMP:20261116T000000Z
-UID:3b0a1d85e0957a29ebbc@tfl-closures
+UID:77bf72b361d5c28f3db8@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nCIRCLE LINE: Thursday 26\, all day\, and until 1200 Friday 27 N
- ovember\, no service due to strike action.\n\nFrom TfL's live status (Plan
- ned Closure)\, checked 26 November 2026.\n\nPlans can change. Check before
-  you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by Tf
- L Open Data\nUnofficial calendar\, not produced or endorsed by Transport f
- or London.
+ s list)\n\nCircle Line: No service on the entire line due to strike action
+ . Tube services on other lines will finish early tonight so please complet
+ e your journey by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 2
+ 6 November 2026.\n\nPlans can change. Check before you travel: https://tfl
+ .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
+ calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

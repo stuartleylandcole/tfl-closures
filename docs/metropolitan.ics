@@ -31,6 +31,31 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Metropolitan: Metropolitan Line: No service between Baker Str
+ eet and Aldgate and SEVERE DELAYS on the…
+DTSTART;TZID=Europe/London:20261126T122609
+DTEND;TZID=Europe/London:20261126T182732
+DTSTAMP:20261116T000000Z
+UID:95fc2d0b2166e322b3af@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nMetropolitan Line: No service between Baker Street and Aldgate 
+ and SEVERE DELAYS on the rest of the line due to strike action. Services a
+ re operating between Baker Street and Watford / Uxbridge every 15 minutes
+ \, between Baker Street and Amersham every 30 minutes and between Watford 
+ and Chesham every 30 minutes. Customers travelling to Chesham are advised 
+ to go to Watford and change. Tube services will finish early tonight so pl
+ ease complete your journey by 21:00.\n\nFrom TfL's live status (Part Suspe
+ nded)\, checked 26 November 2026.\n\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🚧 Metropolitan: Baker Street to Aldgate
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130

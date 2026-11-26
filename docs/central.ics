@@ -31,6 +31,30 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Central: Central Line: No service between White City and Live
+ rpool Street and MINOR DELAYS on the…
+DTSTART;TZID=Europe/London:20261126T151814
+DTEND;TZID=Europe/London:20261126T182732
+DTSTAMP:20261116T000000Z
+UID:ed52bd39e17f7b33a3dc@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nCentral Line: No service between White City and Liverpool Stree
+ t and MINOR DELAYS on the rest of the line due to strike action. Service i
+ s operating between White City and Ealing Broadway / West Ruislip every 12
+  minutes and between Liverpool Street and Hainault via Newbury Park\, betw
+ een Leytonstone and Epping via Woodford and between Hainault and Woodford 
+ every 12 minutes. Tube services will finish early tonight so please comple
+ te your journey by 21:00.\n\nFrom TfL's live status (Part Suspended)\, che
+ cked 26 November 2026.\n\nPlans can change. Check before you travel: https
+ ://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoff
+ icial calendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌙 Central: Marble Arch to Ealing Broadway\, during Saturday Nig
  ht Tube only
 DTSTART;TZID=Europe/London:20261213T003000
