@@ -31,25 +31,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Northern Line: No service on the entire line due to
-  strike action
-DTSTART;TZID=Europe/London:20261126T225837
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:9c47266c0f2fe4ac05f1@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNorthern Line: No service on the entire line due to strike acti
- on.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nP
- lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
- ed or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
  imately\, and Sunday 29 November\,…
 DTSTART;TZID=Europe/London:20261128T004500

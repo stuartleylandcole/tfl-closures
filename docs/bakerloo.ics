@@ -50,22 +50,22 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Queen's Park and 
- Harrow & Wealdstone and NO SERVICE…
-DTSTART;TZID=Europe/London:20261126T215809
-DTEND;TZID=Europe/London:20261127T040135
+SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Stonebridge Park 
+ and Harrow & Wealdstone\, and SEVERE…
+DTSTART;TZID=Europe/London:20261127T143835
+DTEND;TZID=Europe/London:20261127T182041
 DTSTAMP:20261116T000000Z
-UID:a4187589d21fb8c97d15@tfl-closures
+UID:0011e1c8d4767913ffed@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nBakerloo Line: No service between Queen's Park and Harrow & Wea
- ldstone and NO SERVICE between Paddington and Elephant & Castle due to str
- ike action. SEVERE DELAYS on the rest of the line.\n\nFrom TfL's live stat
- us (Part Suspended)\, checked 27 November 2026.\n\nPlans can change. Check
-  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowere
- d by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tran
- sport for London.
+ s list)\n\nBakerloo Line: No service between Stonebridge Park and Harrow &
+  Wealdstone\, and SEVERE DELAYS on the rest of the line due to strike acti
+ on. Services are operating approximately every 10 minutes between Stonebri
+ dge Park and Elephant & Castle.\n\nFrom TfL's live status (Part Suspended)
+ \, checked 27 November 2026.\n\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

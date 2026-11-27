@@ -242,88 +242,6 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Waterloo & City: Waterloo and City Line: No service due to st
- rike action
-DTSTART;TZID=Europe/London:20261126T142544
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:0d841ccd04c007ba29ef@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nWaterloo and City Line: No service due to strike action. Tube s
- ervices on other lines will finish early tonight so please complete your j
- ourney by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 27 Novemb
- er 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk/
- tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
- \, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Circle: Circle Line: No service on the entire line due to str
- ike action
-DTSTART;TZID=Europe/London:20261126T211039
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:33acaa9359855e8c4d76@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nCircle Line: No service on the entire line due to strike action
- .\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nPla
- ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
- ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
-  or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 District: District Line: No service between Turnham Green and
-  Ealing Broadway due to strike action
-DTSTART;TZID=Europe/London:20261126T214712
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:9b6272edd8ce20804e55@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nDistrict Line: No service between Turnham Green and Ealing Broa
- dway due to strike action. SEVERE DELAYS on the rest of the line. If you'r
- e travelling beyond Earl's Court\, please take the first train and change 
- there. Services are operating approximately every 10 minutes.\n\nFrom TfL'
- s live status (Part Suspended)\, checked 27 November 2026.\n\nPlans can ch
- ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
- sed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Queen's Park and 
- Harrow & Wealdstone and NO SERVICE…
-DTSTART;TZID=Europe/London:20261126T215809
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:a4187589d21fb8c97d15@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nBakerloo Line: No service between Queen's Park and Harrow & Wea
- ldstone and NO SERVICE between Paddington and Elephant & Castle due to str
- ike action. SEVERE DELAYS on the rest of the line.\n\nFrom TfL's live stat
- us (Part Suspended)\, checked 27 November 2026.\n\nPlans can change. Check
-  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowere
- d by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tran
- sport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🌙 Weaver line: Hackney Downs to Enfield Town and Cheshunt\, aft
  er 22:45
 DTSTART;TZID=Europe/London:20261126T224500
@@ -344,116 +262,63 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Northern Line: No service on the entire line due to
-  strike action
-DTSTART;TZID=Europe/London:20261126T225837
-DTEND;TZID=Europe/London:20261127T040135
+SUMMARY:📢 Central: Central Line: No service between White City and Marb
+ le Arch due to strike action
+DTSTART;TZID=Europe/London:20261127T140229
+DTEND;TZID=Europe/London:20261127T182041
 DTSTAMP:20261116T000000Z
-UID:9c47266c0f2fe4ac05f1@tfl-closures
+UID:0ea7390f99db743baf5a@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNorthern Line: No service on the entire line due to strike acti
- on.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nP
- lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
- ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
- ed or endorsed by Transport for London.
+ s list)\n\nCentral Line: No service between White City and Marble Arch due
+  to strike action. SEVERE DELAYS on the rest of the line. Services are ope
+ rating every 20 minutes.\n\nFrom TfL's live status (Part Suspended)\, chec
+ ked 27 November 2026.\n\nPlans can change. Check before you travel: https:
+ //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
+ cial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Windrush line: Windrush Line: No service between New Cross Ga
- te and Crystal Palace / West Croydon while…
-DTSTART;TZID=Europe/London:20261126T232631
-DTEND;TZID=Europe/London:20261127T040135
+SUMMARY:📢 Piccadilly: Piccadilly Line: No service between Rayners Lane 
+ and Uxbridge\, and SEVERE DELAYS between…
+DTSTART;TZID=Europe/London:20261127T143415
+DTEND;TZID=Europe/London:20261127T182041
 DTSTAMP:20261116T000000Z
-UID:053374ce3cb16b9e7791@tfl-closures
+UID:1d4eeb9d0dfb92772a49@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nWindrush Line: No service between New Cross Gate and Crystal Pa
- lace / West Croydon while we fix a points failure at Sydenham. GOOD SERVIC
- E on the rest of the line.\n\nFrom TfL's live status (Part Suspended)\, ch
- ecked 27 November 2026.\n\nPlans can change. Check before you travel: http
- s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
- ficial calendar\, not produced or endorsed by Transport for London.
+ s list)\n\nPiccadilly Line: No service between Rayners Lane and Uxbridge\,
+  and SEVERE DELAYS between Acton Town and Rayners Lane and MINORS DELAYS o
+ n the rest of the line due to strike action.\n\nFrom TfL's live status (Pa
+ rt Suspended)\, checked 27 November 2026.\n\nPlans can change. Check befor
+ e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
+ fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
+ for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Central: Central Line: No service on the entire line due to s
- trike action
-DTSTART;TZID=Europe/London:20261126T232757
-DTEND;TZID=Europe/London:20261127T040135
+SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Stonebridge Park 
+ and Harrow & Wealdstone\, and SEVERE…
+DTSTART;TZID=Europe/London:20261127T143835
+DTEND;TZID=Europe/London:20261127T182041
 DTSTAMP:20261116T000000Z
-UID:2de485ad28d23d5bb082@tfl-closures
+UID:0011e1c8d4767913ffed@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nCentral Line: No service on the entire line due to strike actio
- n.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nPl
- ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
- round/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produce
- d or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Hammersmith & City: Hammersmith and City Line: No service on 
- the entire line due to strike action
-DTSTART;TZID=Europe/London:20261126T233525
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:1cd1adfd4f818424ad5c@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nHammersmith and City Line: No service on the entire line due to
-  strike action.\n\nFrom TfL's live status (Suspended)\, checked 27 Novembe
- r 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
- \, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Piccadilly Line: No service on the entire line du
- e to strike action
-DTSTART;TZID=Europe/London:20261126T234346
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:48c58bb63545b4aa5056@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nPiccadilly Line: No service on the entire line due to strike ac
- tion.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n
- \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
- verground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not pro
- duced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Metropolitan Line: No service on the entire lin
- e due to strike action
-DTSTART;TZID=Europe/London:20261127T003759
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:9b5e85ba57c7f573be97@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nMetropolitan Line: No service on the entire line due to strike 
- action.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.
- \n\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
- -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
- roduced or endorsed by Transport for London.
+ s list)\n\nBakerloo Line: No service between Stonebridge Park and Harrow &
+  Wealdstone\, and SEVERE DELAYS on the rest of the line due to strike acti
+ on. Services are operating approximately every 10 minutes between Stonebri
+ dge Park and Elephant & Castle.\n\nFrom TfL's live status (Part Suspended)
+ \, checked 27 November 2026.\n\nPlans can change. Check before you travel:
+  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
+ \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4331,16 +4196,15 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  Thursday 7 January\, after 2245 each evening\, no service between Hackney 
  Downs and Cheshunt / Enfield Town. Use London Underground connections betw
  een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
- ngton\, use Clapton station. Last trains operate at 2243 from Liverpool St
- reet to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfi
- eld Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town 
- and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.\n\n
- Source: TfL planned track closures\, correct at Monday 16 November 2026. h
- ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
- 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ ngton\, use Clapton station. Last trains operate at 2245 from Liverpool St
+ reet to Cheshunt\, 2300 from Enfield Town to Liverpool Street\, 2253 from 
+ Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Stree
+ t. Replacement buses operate.\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4592,16 +4456,15 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  Thursday 7 January\, after 2245 each evening\, no service between Hackney 
  Downs and Cheshunt / Enfield Town. Use London Underground connections betw
  een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
- ngton\, use Clapton station. Last trains operate at 2243 from Liverpool St
- reet to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfi
- eld Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town 
- and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.\n\n
- Source: TfL planned track closures\, correct at Monday 16 November 2026. h
- ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
- 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ ngton\, use Clapton station. Last trains operate at 2245 from Liverpool St
+ reet to Cheshunt\, 2300 from Enfield Town to Liverpool Street\, 2253 from 
+ Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Stree
+ t. Replacement buses operate.\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4621,16 +4484,15 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney
  Thursday 7 January\, after 2245 each evening\, no service between Hackney 
  Downs and Cheshunt / Enfield Town. Use London Underground connections betw
  een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
- ngton\, use Clapton station. Last trains operate at 2243 from Liverpool St
- reet to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfi
- eld Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town 
- and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.\n\n
- Source: TfL planned track closures\, correct at Monday 16 November 2026. h
- ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
- 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ ngton\, use Clapton station. Last trains operate at 2245 from Liverpool St
+ reet to Cheshunt\, 2300 from Enfield Town to Liverpool Street\, 2253 from 
+ Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Stree
+ t. Replacement buses operate.\n\nSource: TfL planned track closures\, corr
+ ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
+ ckclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlan
+ s can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgro
+ und/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced 
+ or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -31,28 +31,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 District: District Line: No service between Turnham Green and
-  Ealing Broadway due to strike action
-DTSTART;TZID=Europe/London:20261126T214712
-DTEND;TZID=Europe/London:20261127T040135
-DTSTAMP:20261116T000000Z
-UID:9b6272edd8ce20804e55@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nDistrict Line: No service between Turnham Green and Ealing Broa
- dway due to strike action. SEVERE DELAYS on the rest of the line. If you'r
- e travelling beyond Earl's Court\, please take the first train and change 
- there. Services are operating approximately every 10 minutes.\n\nFrom TfL'
- s live status (Part Suspended)\, checked 27 November 2026.\n\nPlans can ch
- ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
- us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
- sed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🚧 District: Edgware Road to High Street Kensington
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
