@@ -33,19 +33,18 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:📢 Circle: Circle Line: No service on the entire line due to str
  ike action
-DTSTART;TZID=Europe/London:20261126T121256
-DTEND;TZID=Europe/London:20261126T182732
+DTSTART;TZID=Europe/London:20261126T211039
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:77bf72b361d5c28f3db8@tfl-closures
+UID:33acaa9359855e8c4d76@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nCircle Line: No service on the entire line due to strike action
- . Tube services on other lines will finish early tonight so please complet
- e your journey by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 2
- 6 November 2026.\n\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
- calendar\, not produced or endorsed by Transport for London.
+ .\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -61,7 +60,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHammersmith to Tower Hill\nEdg
  ware Road to High Street Kensington\nDates as listed by TfL: Saturday 28 N
  ovember to Sunday 29 November 2026\n\nTfL live status (Part Closure\, chec
- ked 26 November 2026): CIRCLE LINE: Saturday 28 and Sunday 29 November\, n
+ ked 27 November 2026): CIRCLE LINE: Saturday 28 and Sunday 29 November\, n
  o service between Hammersmith / High Street Kensington and Tower Hill (via
   Kings Cross St Pancras)\n\nSource: TfL planned track closures\, correct a
  t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
@@ -86,7 +85,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -107,7 +106,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -144,7 +143,7 @@ UID:d111721548f2f4e5ea62@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -170,7 +169,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -191,7 +190,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.

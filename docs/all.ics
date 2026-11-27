@@ -242,63 +242,18 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Circle: Circle Line: No service on the entire line due to str
- ike action
-DTSTART;TZID=Europe/London:20261126T121256
-DTEND;TZID=Europe/London:20261126T182732
-DTSTAMP:20261116T000000Z
-UID:77bf72b361d5c28f3db8@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nCircle Line: No service on the entire line due to strike action
- . Tube services on other lines will finish early tonight so please complet
- e your journey by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 2
- 6 November 2026.\n\nPlans can change. Check before you travel: https://tfl
- .gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial 
- calendar\, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Metropolitan Line: No service between Baker Str
- eet and Aldgate and SEVERE DELAYS on the…
-DTSTART;TZID=Europe/London:20261126T122609
-DTEND;TZID=Europe/London:20261126T182732
-DTSTAMP:20261116T000000Z
-UID:95fc2d0b2166e322b3af@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nMetropolitan Line: No service between Baker Street and Aldgate 
- and SEVERE DELAYS on the rest of the line due to strike action. Services a
- re operating between Baker Street and Watford / Uxbridge every 15 minutes
- \, between Baker Street and Amersham every 30 minutes and between Watford 
- and Chesham every 30 minutes. Customers travelling to Chesham are advised 
- to go to Watford and change. Tube services will finish early tonight so pl
- ease complete your journey by 21:00.\n\nFrom TfL's live status (Part Suspe
- nded)\, checked 26 November 2026.\n\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📢 Waterloo & City: Waterloo and City Line: No service due to st
  rike action
 DTSTART;TZID=Europe/London:20261126T142544
-DTEND;TZID=Europe/London:20261126T182732
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:4b12ce6ef5c7e64b84d5@tfl-closures
+UID:0d841ccd04c007ba29ef@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nWaterloo and City Line: No service due to strike action. Tube s
  ervices on other lines will finish early tonight so please complete your j
- ourney by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 26 Novemb
+ ourney by 21:00.\n\nFrom TfL's live status (Suspended)\, checked 27 Novemb
  er 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk/
  tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
  \, not produced or endorsed by Transport for London.
@@ -307,71 +262,63 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Central: Central Line: No service between White City and Live
- rpool Street and MINOR DELAYS on the…
-DTSTART;TZID=Europe/London:20261126T151814
-DTEND;TZID=Europe/London:20261126T182732
+SUMMARY:📢 Circle: Circle Line: No service on the entire line due to str
+ ike action
+DTSTART;TZID=Europe/London:20261126T211039
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:ed52bd39e17f7b33a3dc@tfl-closures
+UID:33acaa9359855e8c4d76@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nCentral Line: No service between White City and Liverpool Stree
- t and MINOR DELAYS on the rest of the line due to strike action. Service i
- s operating between White City and Ealing Broadway / West Ruislip every 12
-  minutes and between Liverpool Street and Hainault via Newbury Park\, betw
- een Leytonstone and Epping via Woodford and between Hainault and Woodford 
- every 12 minutes. Tube services will finish early tonight so please comple
- te your journey by 21:00.\n\nFrom TfL's live status (Part Suspended)\, che
- cked 26 November 2026.\n\nPlans can change. Check before you travel: https
- ://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoff
- icial calendar\, not produced or endorsed by Transport for London.
+ s list)\n\nCircle Line: No service on the entire line due to strike action
+ .\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nPla
+ ns can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overgr
+ ound/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced
+  or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Piccadilly: Piccadilly Line: No service between Rayners Lane 
- and Uxbridge and between Hatton Cross…
-DTSTART;TZID=Europe/London:20261126T152049
-DTEND;TZID=Europe/London:20261126T182732
+SUMMARY:📢 District: District Line: No service between Turnham Green and
+  Ealing Broadway due to strike action
+DTSTART;TZID=Europe/London:20261126T214712
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:fbb86b3f3258f7a451ef@tfl-closures
+UID:9b6272edd8ce20804e55@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nPiccadilly Line: No service between Rayners Lane and Uxbridge a
- nd between Hatton Cross and Heathrow Terminal 4. SEVERE DELAYS on the rest
-  of the line due to strike action. Services are operating between Cockfost
- ers and Heathrow Terminal 5 every 12 minutes and between Acton Town and Ra
- yners Lane every 30 minutes. Tube services will finish early tonight so pl
- ease complete your journey by 21:00.\n\nFrom TfL's live status (Part Suspe
- nded)\, checked 26 November 2026.\n\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ s list)\n\nDistrict Line: No service between Turnham Green and Ealing Broa
+ dway due to strike action. SEVERE DELAYS on the rest of the line. If you'r
+ e travelling beyond Earl's Court\, please take the first train and change 
+ there. Services are operating approximately every 10 minutes.\n\nFrom TfL'
+ s live status (Part Suspended)\, checked 27 November 2026.\n\nPlans can ch
+ ange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/stat
+ us/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endor
+ sed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📢 Bakerloo: Bakerloo Line: No service between Queen's Park and 
- Harrow & Wealdstone due to strike…
-DTSTART;TZID=Europe/London:20261126T152211
-DTEND;TZID=Europe/London:20261126T182732
+ Harrow & Wealdstone and NO SERVICE…
+DTSTART;TZID=Europe/London:20261126T215809
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:440ea3ed638a3f3362b5@tfl-closures
+UID:a4187589d21fb8c97d15@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nBakerloo Line: No service between Queen's Park and Harrow & Wea
- ldstone due to strike action. GOOD SERVICE on the rest of the line. Servic
- e is operating between Queen's Park and Harrow & Wealdstone approximately 
- every 5 minutes. Tube services will finish early tonight so please complet
- e your journey at 21:00.\n\nFrom TfL's live status (Part Suspended)\, chec
- ked 26 November 2026.\n\nPlans can change. Check before you travel: https:
- //tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffi
- cial calendar\, not produced or endorsed by Transport for London.
+ ldstone and NO SERVICE between Paddington and Elephant & Castle due to str
+ ike action. SEVERE DELAYS on the rest of the line.\n\nFrom TfL's live stat
+ us (Part Suspended)\, checked 27 November 2026.\n\nPlans can change. Check
+  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowere
+ d by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tran
+ sport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -386,21 +333,127 @@ UID:08f9365fd280984d92ff@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
- Monday 23 November to Thursday 26 November 2026\n\nTfL live status (Part C
- losure\, checked 26 November 2026): WEAVER LINE: Monday 23\, Tuesday 24\, 
- Wednesday 25 and Thursday 26 November\, after 2245 each evening\, no servi
- ce between Hackney Downs and Cheshunt / Enfield Town. Use London Undergrou
- nd connections between Central London and Seven Sisters\, and for Rectory 
- Road and Stoke Newington\, use Clapton station. Last trains operate at 224
- 3 from Liverpool Street to Cheshunt (except on Wednesday when it is at 221
- 3)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Stre
- et to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement
-  buses operate.\n\nSource: TfL planned track closures\, correct at Monday 
- 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
- ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
- Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
- owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
-  Transport for London.
+ Monday 23 November to Thursday 26 November 2026\n\nSource: TfL planned tra
+ ck closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/d
+ ocument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&t
+ ype=document\nPlans can change. Check before you travel: https://tfl.gov.u
+ k/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calend
+ ar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Northern: Northern Line: No service on the entire line due to
+  strike action
+DTSTART;TZID=Europe/London:20261126T225837
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:9c47266c0f2fe4ac05f1@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nNorthern Line: No service on the entire line due to strike acti
+ on.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nP
+ lans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-over
+ ground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produc
+ ed or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Windrush line: Windrush Line: No service between New Cross Ga
+ te and Crystal Palace / West Croydon while…
+DTSTART;TZID=Europe/London:20261126T232631
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:053374ce3cb16b9e7791@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nWindrush Line: No service between New Cross Gate and Crystal Pa
+ lace / West Croydon while we fix a points failure at Sydenham. GOOD SERVIC
+ E on the rest of the line.\n\nFrom TfL's live status (Part Suspended)\, ch
+ ecked 27 November 2026.\n\nPlans can change. Check before you travel: http
+ s://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnof
+ ficial calendar\, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Central: Central Line: No service on the entire line due to s
+ trike action
+DTSTART;TZID=Europe/London:20261126T232757
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:2de485ad28d23d5bb082@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nCentral Line: No service on the entire line due to strike actio
+ n.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n\nPl
+ ans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-overg
+ round/status/\nPowered by TfL Open Data\nUnofficial calendar\, not produce
+ d or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Hammersmith & City: Hammersmith and City Line: No service on 
+ the entire line due to strike action
+DTSTART;TZID=Europe/London:20261126T233525
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:1cd1adfd4f818424ad5c@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nHammersmith and City Line: No service on the entire line due to
+  strike action.\n\nFrom TfL's live status (Suspended)\, checked 27 Novembe
+ r 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk/t
+ ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
+ \, not produced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Piccadilly Line: No service on the entire line du
+ e to strike action
+DTSTART;TZID=Europe/London:20261126T234346
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:48c58bb63545b4aa5056@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nPiccadilly Line: No service on the entire line due to strike ac
+ tion.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.\n
+ \nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr-o
+ verground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not pro
+ duced or endorsed by Transport for London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📢 Metropolitan: Metropolitan Line: No service on the entire lin
+ e due to strike action
+DTSTART;TZID=Europe/London:20261127T003759
+DTEND;TZID=Europe/London:20261127T040135
+DTSTAMP:20261116T000000Z
+UID:9b5e85ba57c7f573be97@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nMetropolitan Line: No service on the entire line due to strike 
+ action.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.
+ \n\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -416,13 +469,13 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to New Cross Gate\, during Night Overground hours only\nDates
   as listed by TfL: Friday 27 November to Saturday 28 November 2026\n\nTfL 
- live status (Part Closure\, checked 26 November 2026): WINDRUSH LINE: From
+ live status (Part Closure\, checked 27 November 2026): WINDRUSH LINE: From
   0100 Saturday 28 and all day Sunday 29 November\, including Friday and Sa
  turday Night Overground\, no service between Highbury & Islington and Batt
  ersea Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LI
  NE services between Highbury & Islington\, Canonbury and Dalston Kingsland
  . Replacement bus services operate.\nTfL live status (Reduced Service\, ch
- ecked 26 November 2026): WINDRUSH LINE: Saturday 28 and Sunday 29 November
+ ecked 27 November 2026): WINDRUSH LINE: Saturday 28 and Sunday 29 November
  \, a reduced service operates between New Cross Gate and Crystal Palace / 
  West Croydon.\n\nSource: TfL planned track closures\, correct at Monday 16
   November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?i
@@ -450,7 +503,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ell. For travel between Central London and Stockwell\, and stations to Mor
  den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
  etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 26 November 2026.\n\nPlans can change. Check before you travel:
+ \, checked 27 November 2026.\n\nPlans can change. Check before you travel:
   https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
  \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -466,7 +519,7 @@ UID:b4843ade6cc2018a91e3@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL l
- ive status (Planned Closure\, checked 26 November 2026): HAMMERSMITH & CIT
+ ive status (Planned Closure\, checked 27 November 2026): HAMMERSMITH & CIT
  Y LINE: Saturday 28 and Sunday 29 November\, no service on the entire line
  . There will also be no CIRCLE LINE service between Hammersmith / High Str
  eet Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT L
@@ -491,7 +544,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHammersmith to Tower Hill\nEdg
  ware Road to High Street Kensington\nDates as listed by TfL: Saturday 28 N
  ovember to Sunday 29 November 2026\n\nTfL live status (Part Closure\, chec
- ked 26 November 2026): CIRCLE LINE: Saturday 28 and Sunday 29 November\, n
+ ked 27 November 2026): CIRCLE LINE: Saturday 28 and Sunday 29 November\, n
  o service between Hammersmith / High Street Kensington and Tower Hill (via
   Kings Cross St Pancras)\n\nSource: TfL planned track closures\, correct a
  t Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclo
@@ -512,7 +565,7 @@ UID:7febc275138818b4a7fa@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nEdgware Road to High Street Ke
  nsington\nDates as listed by TfL: Saturday 28 November to Sunday 29 Novemb
- er 2026\n\nTfL live status (Part Closure\, checked 26 November 2026): DIST
+ er 2026\n\nTfL live status (Part Closure\, checked 27 November 2026): DIST
  RICT LINE: Saturday 28 and Sunday 29 November\, no service between High St
  reet Kensington and Edgware Road. There will also be no CIRCLE LINE servic
  e on this section.\n\nSource: TfL planned track closures\, correct at Mond
@@ -536,7 +589,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Mai
  denhead\nPaddington to Abbey Wood and Shenfield\nDates as listed by TfL: S
  aturday 28 November to Sunday 29 November 2026\n\nTfL live status (Part Cl
- osure\, checked 26 November 2026): ELIZABETH LINE: Saturday 28 and Sunday 
+ osure\, checked 27 November 2026): ELIZABETH LINE: Saturday 28 and Sunday 
  29 November\, no service between Maidenhead / Heathrow (all terminals) and
   Abbey Wood / Shenfield. Use PICCADILLY LINE services between Heathrow and
   Central London. LONDON PADDINGTON STATION will be closed on this day\, wi
@@ -566,7 +619,7 @@ UID:7b17e6259ef2001ef45f@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nRomford to Upminster\nDates as
   listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL liv
- e status (Planned Closure\, checked 26 November 2026): LIBERTY LINE: Satur
+ e status (Planned Closure\, checked 27 November 2026): LIBERTY LINE: Satur
  day 28 and Sunday 29 November\, no service between Romford and Upminster. 
  Use local London Buses services 165 248 and 370 instead.\n\nSource: TfL pl
  anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
@@ -587,7 +640,7 @@ UID:103c2b61082ff6dd0e66@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
   as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL 
- live status (Part Closure\, checked 26 November 2026): METROPOLITAN LINE: 
+ live status (Part Closure\, checked 27 November 2026): METROPOLITAN LINE: 
  Saturday 28 and Sunday 29 November\, no service between Baker Street and A
  ldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services o
  n this section.\n\nSource: TfL planned track closures\, correct at Monday 
@@ -612,24 +665,26 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
  m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
  t Overground service\nDates as listed by TfL: Saturday 28 November to Sund
- ay 29 November 2026\n\nTfL live status (Part Closure\, checked 26 November
+ ay 29 November 2026\n\nTfL live status (Part Closure\, checked 27 November
   2026): WINDRUSH LINE: From 0100 Saturday 28 and all day Sunday 29 Novembe
  r\, including Friday and Saturday Night Overground\, no service between Hi
  ghbury & Islington and Battersea Park / Clapham Junction / New Cross / New
   Cross Gate. Use MILDMAY LINE services between Highbury & Islington\, Cano
  nbury and Dalston Kingsland. Replacement bus services operate.\nTfL live s
- tatus (Reduced Service\, checked 26 November 2026): WINDRUSH LINE: Saturda
+ tatus (Reduced Service\, checked 27 November 2026): WINDRUSH LINE: Saturda
  y 28 and Sunday 29 November\, a reduced service operates between New Cross
   Gate and Crystal Palace / West Croydon.\nTfL live status (Part Closure\, 
- checked 26 November 2026): WINDRUSH LINE: Sunday 29 November\, until 0800
+ checked 27 November 2026): WINDRUSH LINE: Sunday 29 November\, until 0800
  \, no service between Sydenham and West Croydon. Customers should use loca
  l buses or trams via any reasonable route. First Trains: New Cross Gate to
-  West Croydon 0747\; West Croydon to New Cross Gate 0818\n\nSource: TfL pl
- anned track closures\, correct at Monday 16 November 2026. https://tfl.gov
- .uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08
- a097b8f&type=document\nPlans can change. Check before you travel: https://
- tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUnoffici
- al calendar\, not produced or endorsed by Transport for London.
+  West Croydon 0747\; West Croydon to New Cross Gate 0818. In addition\, SO
+ UTHERN trains between London Bridge and Caterham will not call at Norwood 
+ Junction at this time.\n\nSource: TfL planned track closures\, correct at 
+ Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosu
+ res.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can c
+ hange. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/sta
+ tus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endo
+ rsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -650,7 +705,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ell. For travel between Central London and Stockwell\, and stations to Mor
  den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
  etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 26 November 2026.\n\nPlans can change. Check before you travel:
+ \, checked 27 November 2026.\n\nPlans can change. Check before you travel:
   https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
  \nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -677,7 +732,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
  nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
  oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
- status (Part Closure)\, checked 26 November 2026.\n\nPlans can change. Che
+ status (Part Closure)\, checked 27 November 2026.\n\nPlans can change. Che
  ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
  red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
  ansport for London.
@@ -705,7 +760,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
  nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
  oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
- status (Part Closure)\, checked 26 November 2026.\n\nPlans can change. Che
+ status (Part Closure)\, checked 27 November 2026.\n\nPlans can change. Che
  ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
  red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
  ansport for London.
@@ -733,7 +788,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
  nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
  oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
- status (Part Closure)\, checked 26 November 2026.\n\nPlans can change. Che
+ status (Part Closure)\, checked 27 November 2026.\n\nPlans can change. Che
  ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
  red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
  ansport for London.
@@ -761,7 +816,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  parting Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (a
  nd onward to Sutton). Last through trains: Highbury & Islington to West Cr
  oydon 2147\; West Croydon to Highbury & Islington 2246\n\nFrom TfL's live 
- status (Part Closure)\, checked 26 November 2026.\n\nPlans can change. Che
+ status (Part Closure)\, checked 27 November 2026.\n\nPlans can change. Che
  ck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowe
  red by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tr
  ansport for London.
@@ -780,13 +835,13 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to New Cross Gate\, during Night Overground hours only\nDates
   as listed by TfL: Friday 4 December to Saturday 5 December 2026\n\nTfL li
- ve status (Part Closure\, checked 26 November 2026): WINDRUSH LINE: From 0
+ ve status (Part Closure\, checked 27 November 2026): WINDRUSH LINE: From 0
  100 Saturday 5 and all day Sunday 6 December\, including Friday and Saturd
  ay Night Overground\, no service between Highbury & Islington and Batterse
  a Park / Clapham Junction / New Cross / New Cross Gate. Use MILDMAY LINE s
  ervices between Highbury & Islington\, Canonbury and Dalston Kingsland. Re
  placement bus services operate.\nTfL live status (Reduced Service\, checke
- d 26 November 2026): WINDRUSH LINE: Saturday 5 and Sunday 6 December\, a r
+ d 27 November 2026): WINDRUSH LINE: Saturday 5 and Sunday 6 December\, a r
  educed service operates between New Cross Gate and Crystal Palace / West C
  roydon.\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
  ber 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc
@@ -810,13 +865,13 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHighbury & Islington to Clapha
  m Junction\, New Cross and New Cross Gate\, including during Saturday Nigh
  t Overground service\nDates as listed by TfL: Saturday 5 December to Sunda
- y 6 December 2026\n\nTfL live status (Part Closure\, checked 26 November 2
+ y 6 December 2026\n\nTfL live status (Part Closure\, checked 27 November 2
  026): WINDRUSH LINE: From 0100 Saturday 5 and all day Sunday 6 December\, 
  including Friday and Saturday Night Overground\, no service between Highbu
  ry & Islington and Battersea Park / Clapham Junction / New Cross / New Cro
  ss Gate. Use MILDMAY LINE services between Highbury & Islington\, Canonbur
  y and Dalston Kingsland. Replacement bus services operate.\nTfL live statu
- s (Reduced Service\, checked 26 November 2026): WINDRUSH LINE: Saturday 5 
+ s (Reduced Service\, checked 27 November 2026): WINDRUSH LINE: Saturday 5 
  and Sunday 6 December\, a reduced service operates between New Cross Gate 
  and Crystal Palace / West Croydon.\n\nSource: TfL planned track closures\,
   correct at Monday 16 November 2026. https://tfl.gov.uk/api/document/plann
@@ -837,7 +892,7 @@ UID:ea4839fd2a027c61db75@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nQueen's Park to Harrow & Weald
  stone\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (
- Part Closure\, checked 26 November 2026): BAKERLOO LINE: Sunday 6 December
+ Part Closure\, checked 27 November 2026): BAKERLOO LINE: Sunday 6 December
  \, no service between Queens Park and Harrow & Wealdstone. There will also
   be no LIONESS LINE service between Willesden Junction and Harrow & Wealds
  tone. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY train
@@ -861,7 +916,7 @@ UID:a171d6d558ce6605d269@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nTurnham Green to Richmond\nDat
  es as listed by TfL: Sunday 6 December 2026\n\nTfL live status (Part Closu
- re\, checked 26 November 2026): DISTRICT LINE: Sunday 6 December\, no serv
+ re\, checked 27 November 2026): DISTRICT LINE: Sunday 6 December\, no serv
  ice between Turnham Green and Richmond. There will also be no MILDMAY LINE
   service between Willesden Junction and Richmond. Replacement bus service 
  R operates between Willesden Junction and Richmond via Acton Central (The 
@@ -886,7 +941,7 @@ UID:5669c9d1f29d8b42ab1f@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough until 0
  9:00\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (P
- art Closure\, checked 26 November 2026): ELIZABETH LINE: Sunday 6 December
+ art Closure\, checked 27 November 2026): ELIZABETH LINE: Sunday 6 December
  \, until 0900\, no service between West Drayton and Slough. Replacement bu
  s service W1 operates between Hayes & Harlington and Slough via West Drayt
  on and Langley (not serving Iver).\n\nSource: TfL planned track closures\,
@@ -908,12 +963,12 @@ UID:77c0cd02d3559a1b62c3@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Harrow &
   Wealdstone\nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live st
- atus (Reduced Service\, checked 26 November 2026): LIONESS LINE: Sunday 6 
+ atus (Reduced Service\, checked 27 November 2026): LIONESS LINE: Sunday 6 
  December\, a reduced service will operate between Euston and South Hampste
  ad\, and the 2359 last train from Euston to Willesden Junction will not ru
- n.\nTfL live status (Reduced Service\, checked 26 November 2026): LIONESS 
+ n.\nTfL live status (Reduced Service\, checked 27 November 2026): LIONESS 
  LINE: Sunday 6 December\, a reduced service operates between Harrow & Weal
- dstone and Watford Junction.\nTfL live status (Part Closure\, checked 26 N
+ dstone and Watford Junction.\nTfL live status (Part Closure\, checked 27 N
  ovember 2026): LIONESS LINE: Sunday 6 December\, no service between Willes
  den Junction and Harrow & Wealdstone. There will also be no BAKERLOO LINE 
  service between Queens Park and Harrow & Wealdstone. Special bus service 7
@@ -938,12 +993,12 @@ UID:6830736e21058b623c87@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
  \nDates as listed by TfL: Sunday 6 December 2026\n\nTfL live status (Reduc
- ed Service\, checked 26 November 2026): MILDMAY LINE: Sunday 6 December\, 
+ ed Service\, checked 27 November 2026): MILDMAY LINE: Sunday 6 December\, 
  a reduced service will operate between Camden Road and Willesden Junction 
  (via West Hampstead). Some trains will be diverted after Camden Road to/fr
  om Willesden Junction (Low Level) via South Hampstead\, Kilburn High Road
  \, Queens Park and Kensal Green.\nTfL live status (Part Closure\, checked 
- 26 November 2026): MILDMAY LINE: Sunday 6 December\, no service between Wi
+ 27 November 2026): MILDMAY LINE: Sunday 6 December\, no service between Wi
  llesden Junction and Richmond. There will also be no DISTRICT LINE service
   between Turnham Green and Richmond. Replacement bus service DL3 operates 
  between Willesden Junction and Richmond via Acton Central (The Vale)\, Sou
@@ -969,7 +1024,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
  y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
- Part Closure\, checked 26 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ Part Closure\, checked 27 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
  y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
  service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
  lacement buses will run as follows: The bus for Crystal Palace will depart
@@ -1003,7 +1058,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
  y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
- Part Closure\, checked 26 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ Part Closure\, checked 27 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
  y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
  service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
  lacement buses will run as follows: The bus for Crystal Palace will depart
@@ -1037,7 +1092,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
  uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
- osure\, checked 26 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ osure\, checked 27 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
  nd Thursday 10 December\, after 2345 each evening\, no westbound service f
  rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
  ll start from Camden Road at 0018 and 0035. Customers should use the last 
@@ -1063,19 +1118,19 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
   TfL: Wednesday 9 December to Thursday 10 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
  esday 9 and Thursday 10 December\, after 2345 each evening\, no westbound 
  service from Stratford to Camden Road. The 2359 and 0015 services from Str
  atford will start from Camden Road at 0018 and 0035. Customers should use 
  the last westbound service from Stratford at 2344\, or local bus routes 30
- \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 26 
+ \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 27 
  November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, the 2
  129 and 2159 trains from Stratford to Richmond\, and 2135 train from Strat
  ford to Clapham Junction\, terminate at Camden Road\, the 2147 Clapham Jun
  ction to Stratford train will not run\, the 2148 train from Richmond to St
  ratford and the 2203 and 2234 trains from Clapham Junction to Stratford wi
  ll terminate at Willesden Junction.\nTfL live status (Part Closure\, check
- ed 26 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
+ ed 27 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
   after 2300\, no eastbound service from Willesden Junction to Stratford. C
  ustomers should use the last eastbound services detailed below or London O
  verground services to Euston. Last through trains: Clapham Junction to Str
@@ -1103,7 +1158,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
  y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
- Part Closure\, checked 26 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ Part Closure\, checked 27 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
  y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
  service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
  lacement buses will run as follows: The bus for Crystal Palace will depart
@@ -1137,12 +1192,12 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
  uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
- osure\, checked 26 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ osure\, checked 27 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
  nd Thursday 10 December\, after 2345 each evening\, no westbound service f
  rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
  ll start from Camden Road at 0018 and 0035. Customers should use the last 
  westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 
- 388\, 393 or 488.\nTfL live status (Part Closure\, checked 26 November 202
+ 388\, 393 or 488.\nTfL live status (Part Closure\, checked 27 November 202
  6): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, after 2300\, no e
  astbound service from Willesden Junction to Stratford. Customers should us
  e the last eastbound services detailed below or London Overground services
@@ -1171,19 +1226,19 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nWillesde
  n Junction to Stratford\, eastbound only\, after 23:00\nDates as listed by
   TfL: Wednesday 9 December to Thursday 10 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Tuesday 8\, Wedn
  esday 9 and Thursday 10 December\, after 2345 each evening\, no westbound 
  service from Stratford to Camden Road. The 2359 and 0015 services from Str
  atford will start from Camden Road at 0018 and 0035. Customers should use 
  the last westbound service from Stratford at 2344\, or local bus routes 30
- \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 26 
+ \, 274\, 388\, 393 or 488.\nTfL live status (Reduced Service\, checked 27 
  November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, the 2
  129 and 2159 trains from Stratford to Richmond\, and 2135 train from Strat
  ford to Clapham Junction\, terminate at Camden Road\, the 2147 Clapham Jun
  ction to Stratford train will not run\, the 2148 train from Richmond to St
  ratford and the 2203 and 2234 trains from Clapham Junction to Stratford wi
  ll terminate at Willesden Junction.\nTfL live status (Part Closure\, check
- ed 26 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
+ ed 27 November 2026): MILDMAY LINE: Wednesday 9 and Thursday 10 December\,
   after 2300\, no eastbound service from Willesden Junction to Stratford. C
  ustomers should use the last eastbound services detailed below or London O
  verground services to Euston. Last through trains: Clapham Junction to Str
@@ -1211,7 +1266,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nNew Cros
  s Gate to Crystal Palace and West Croydon\, after 23:30\nDates as listed b
  y TfL: Monday 7 December to Thursday 10 December 2026\n\nTfL live status (
- Part Closure\, checked 26 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
+ Part Closure\, checked 27 November 2026): WINDRUSH LINE: Monday 7\, Tuesda
  y 8\, Wednesday 9 and Thursday 10 November\, after 2330 each evening\, no 
  service between New Cross Gate and West Croydon / Crystal Palace. Rail rep
  lacement buses will run as follows: The bus for Crystal Palace will depart
@@ -1245,12 +1300,12 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nStratfor
  d to Camden Road\, westbound only\, after 23:45\nDates as listed by TfL: T
  uesday 8 December to Thursday 10 December 2026\n\nTfL live status (Part Cl
- osure\, checked 26 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
+ osure\, checked 27 November 2026): MILDMAY LINE: Tuesday 8\, Wednesday 9 a
  nd Thursday 10 December\, after 2345 each evening\, no westbound service f
  rom Stratford to Camden Road. The 2359 and 0015 services from Stratford wi
  ll start from Camden Road at 0018 and 0035. Customers should use the last 
  westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 
- 388\, 393 or 488.\nTfL live status (Part Closure\, checked 26 November 202
+ 388\, 393 or 488.\nTfL live status (Part Closure\, checked 27 November 202
  6): MILDMAY LINE: Wednesday 9 and Thursday 10 December\, after 2300\, no e
  astbound service from Willesden Junction to Stratford. Customers should us
  e the last eastbound services detailed below or London Overground services
@@ -1280,7 +1335,7 @@ DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing: Trains will not stop after 
  23:00 on Saturday and until 09:00 on Sunday\nDates as listed by TfL: Satur
  day 12 December to Sunday 13 December 2026\n\nTfL live status (Reduced Ser
- vice\, checked 26 November 2026): ELIZABETH LINE: Sunday 13 December\, a r
+ vice\, checked 27 November 2026): ELIZABETH LINE: Sunday 13 December\, a r
  educed service operates between Paddington and Heathrow Terminal 4 / Maide
  nhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langl
  ey\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow T
@@ -1307,7 +1362,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
  rch to Ealing Broadway\, during Saturday Night Tube only\nDates as listed 
  by TfL: Saturday 12 December to Sunday 13 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): CENTRAL LINE: Sunday 13 Decemb
+  (Part Closure\, checked 27 November 2026): CENTRAL LINE: Sunday 13 Decemb
  er\, between 0130 and 0530\, no Saturday Night Tube service between Marble
   Arch and Ealing Broadway. Replacement bus service CL1 operates between Ma
  rble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hil
@@ -1333,7 +1388,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nReduced service between Paddington and Maidenhead and at Heathrow Term
  inal 4\nDates as listed by TfL: Sunday 13 December 2026\n\nTfL live status
-  (Reduced Service\, checked 26 November 2026): ELIZABETH LINE: Sunday 13 D
+  (Reduced Service\, checked 27 November 2026): ELIZABETH LINE: Sunday 13 D
  ecember\, a reduced service operates between Paddington and Heathrow Termi
  nal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Dr
  ayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour ser
@@ -1358,12 +1413,12 @@ UID:a9e95775250cfc9550b0@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
  and Northolt\nDates as listed by TfL: Sunday 13 December 2026\n\nTfL live 
- status (Part Closure\, checked 26 November 2026): CENTRAL LINE: Sunday 13 
+ status (Part Closure\, checked 27 November 2026): CENTRAL LINE: Sunday 13 
  December\, between 0130 and 0530\, no Saturday Night Tube service between 
  Marble Arch and Ealing Broadway. Replacement bus service CL1 operates betw
  een Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notti
  ng Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, N
- orth Acton and West Acton.\nTfL live status (Part Closure\, checked 26 Nov
+ orth Acton and West Acton.\nTfL live status (Part Closure\, checked 27 Nov
  ember 2026): CENTRAL LINE: Sunday 13 December\, from 0530\, no service bet
  ween White City and Ealing Broadway / Northolt. Replacement buses operate.
  \n\nSource: TfL planned track closures\, correct at Monday 16 November 202
@@ -1385,7 +1440,7 @@ UID:8acf0d0993d4e441bf4c@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
  uays to New Cross\, after 22:00\nDates as listed by TfL: Sunday 13 Decembe
- r 2026\n\nTfL live status (Part Closure\, checked 26 November 2026): WINDR
+ r 2026\n\nTfL live status (Part Closure\, checked 27 November 2026): WINDR
  USH LINE: Sunday 13 December\, after 2215\, no service between Highbury & 
  Islington and Dalston Junction. Rail replacement buses will run as follows
  : Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston J
@@ -1393,7 +1448,7 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nSurrey Q
  on\, Canonbury and Dalston. Last through trains: Highbury & Islington to D
  alston Junction 2219\; Dalston Junction to Highbury & Islington 2210 (A la
  ter train runs from Dalston Kingsland to Highbury & Islington at 2218)\nTf
- L live status (Part Closure\, checked 26 November 2026): WINDRUSH LINE: Su
+ L live status (Part Closure\, checked 27 November 2026): WINDRUSH LINE: Su
  nday 13 December\, from 2200\, no service between Surrey Quays and New Cro
  ss. Customers should use Windrush Line services to New Cross Gate and then
   walk or use local bus routes 53\, 177 or 453.\n\nSource: TfL planned trac
@@ -1415,7 +1470,7 @@ UID:2ffc094a187b3ea7d040@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Stratford\, after 22:15\nDates as listed by TfL: Sunday 13 December
-  2026\n\nTfL live status (Part Closure\, checked 26 November 2026): MILDMA
+  2026\n\nTfL live status (Part Closure\, checked 27 November 2026): MILDMA
  Y LINE: Sunday 13 December\, from 2215\, no service between Camden Road an
  d Stratford. WINDRUSH LINE services are also closed between Highbury & Isl
  ington and Dalston Junction. Replacement bus service S operates between Ca
@@ -1444,7 +1499,7 @@ UID:4d6a2ad477930d9098a9@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
   & Islington to Dalston Junction\, after 22:15\nDates as listed by TfL: Su
- nday 13 December 2026\n\nTfL live status (Part Closure\, checked 26 Novemb
+ nday 13 December 2026\n\nTfL live status (Part Closure\, checked 27 Novemb
  er 2026): WINDRUSH LINE: Sunday 13 December\, after 2215\, no service betw
  een Highbury & Islington and Dalston Junction. Rail replacement buses will
   run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Ro
@@ -1452,7 +1507,7 @@ DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHighbury
  hbury & Islington\, Canonbury and Dalston. Last through trains: Highbury &
   Islington to Dalston Junction 2219\; Dalston Junction to Highbury & Islin
  gton 2210 (A later train runs from Dalston Kingsland to Highbury & Islingt
- on at 2218)\nTfL live status (Part Closure\, checked 26 November 2026): WI
+ on at 2218)\nTfL live status (Part Closure\, checked 27 November 2026): WI
  NDRUSH LINE: Sunday 13 December\, from 2200\, no service between Surrey Qu
  ays and New Cross. Customers should use Windrush Line services to New Cros
  s Gate and then walk or use local bus routes 53\, 177 or 453.\n\nSource: T
@@ -1476,7 +1531,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
  by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Monday 14\, Tues
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Monday 14\, Tues
  day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
   no westbound service from Camden Road to Willesden Junction. The 2359 and
   0015 services from Stratford will terminate at Camden Road. Use London Ov
@@ -1503,7 +1558,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
  5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
- hecked 26 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ hecked 27 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
  ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
  vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
  Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
@@ -1531,7 +1586,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
  by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Monday 14\, Tues
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Monday 14\, Tues
  day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
   no westbound service from Camden Road to Willesden Junction. The 2359 and
   0015 services from Stratford will terminate at Camden Road. Use London Ov
@@ -1558,7 +1613,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
  5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
- hecked 26 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ hecked 27 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
  ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
  vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
  Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
@@ -1586,7 +1641,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
  by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Monday 14\, Tues
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Monday 14\, Tues
  day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
   no westbound service from Camden Road to Willesden Junction. The 2359 and
   0015 services from Stratford will terminate at Camden Road. Use London Ov
@@ -1613,7 +1668,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
  5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
- hecked 26 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ hecked 27 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
  ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
  vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
  Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
@@ -1643,7 +1698,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1664,7 +1719,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1685,7 +1740,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1706,7 +1761,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1728,7 +1783,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1749,7 +1804,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1770,7 +1825,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1791,7 +1846,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1812,7 +1867,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1833,7 +1888,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1854,7 +1909,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1873,7 +1928,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nCamden R
  oad to Willesden Junction\, westbound only\, after 23:45\nDates as listed 
  by TfL: Monday 14 December to Thursday 17 December 2026\n\nTfL live status
-  (Part Closure\, checked 26 November 2026): MILDMAY LINE: Monday 14\, Tues
+  (Part Closure\, checked 27 November 2026): MILDMAY LINE: Monday 14\, Tues
  day 15\, Wednesday 16 and Thursday 17 December\, after 2345 each evening\,
   no westbound service from Camden Road to Willesden Junction. The 2359 and
   0015 services from Stratford will terminate at Camden Road. Use London Ov
@@ -1900,7 +1955,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Shepherd
  's Bush\, southbound only\, until 06:15\nDates as listed by TfL: Tuesday 1
  5 December to Friday 18 December 2026\n\nTfL live status (Part Closure\, c
- hecked 26 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
+ hecked 27 November 2026): MILDMAY LINE: Tuesday 15\, Wednesday 16\, Thursd
  ay 17 and Friday 18 December\, until 0615 each morning\, no southbound ser
  vice from Willesden Junction to Shepherds Bush. The 0552 first train from 
  Willesden Junction to Clapham Junction starts from Shepherd's Bush and the
@@ -1930,7 +1985,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1951,7 +2006,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1972,7 +2027,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -1993,7 +2048,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2015,7 +2070,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2036,7 +2091,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2057,7 +2112,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2078,7 +2133,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2099,7 +2154,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2120,7 +2175,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2141,7 +2196,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -2161,7 +2216,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
- us (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Chec
+ us (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Chec
  k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
  ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
  nsport for London.
@@ -2181,7 +2236,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
- us (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Chec
+ us (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Chec
  k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
  ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
  nsport for London.
@@ -2198,7 +2253,7 @@ UID:3fb80fcb68a977ed4743@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
-  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 26
+  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 27
   November 2026): WEAVER LINE: Monday 21 and Tuesday 22 December\, after 22
  45 each evening\, no service between Hackney Downs and Chingford. Last thr
  ough trains operate at 2231 from Liverpool Street and at 2253 from Chingfo
@@ -2228,7 +2283,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
- us (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Chec
+ us (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Chec
  k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
  ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
  nsport for London.
@@ -2245,7 +2300,7 @@ UID:f8609cbd6446a8b4516d@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Chingford after 22:45\nDates as listed by TfL: Monday 21 December
-  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 26
+  to Tuesday 22 December 2026\n\nTfL live status (Part Closure\, checked 27
   November 2026): WEAVER LINE: Monday 21 and Tuesday 22 December\, after 22
  45 each evening\, no service between Hackney Downs and Chingford. Last thr
  ough trains operate at 2231 from Liverpool Street and at 2253 from Chingfo
@@ -2275,7 +2330,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Monday 21 until Wednesday 23 December\, the L
  ondon Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live stat
- us (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Chec
+ us (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Chec
  k before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPower
  ed by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Tra
  nsport for London.
@@ -2295,7 +2350,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
  ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
-  (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Check 
+  (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Check 
  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
   by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
  port for London.
@@ -2393,7 +2448,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
  sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
- e for last train/tram times\n\nTfL live status (Part Closure\, checked 26 
+ e for last train/tram times\n\nTfL live status (Part Closure\, checked 27 
  November 2026): DISTRICT LINE: Christmas Eve\, 24 December\, no service be
  tween Earls Court and Kensington Olympia.\n\nSource: TfL planned track clo
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
@@ -2596,7 +2651,7 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nServices will finish earlier than normal\nDates as listed by TfL: Thur
  sday 24 December 2026\nPlease check the TfL Journey Planner nearer the tim
- e for last train/tram times\n\nTfL live status (Part Closure\, checked 26 
+ e for last train/tram times\n\nTfL live status (Part Closure\, checked 27 
  November 2026): PICCADILLY LINE: Christmas Eve\, 24 December\, no service 
  between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services i
  nstead.\n\nSource: TfL planned track closures\, correct at Monday 16 Novem
@@ -2719,13 +2774,13 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nRayners Lane to Uxbridge\nDate
  s as listed by TfL: Thursday 24 December to Sunday 3 January 2027\nTfL's P
  DF lists this closure in more than one week\; it's shown here as one event
- .\n\nTfL live status (Planned Closure\, checked 26 November 2026): LONDON 
+ .\n\nTfL live status (Planned Closure\, checked 27 November 2026): LONDON 
  UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Service
  s resume on Boxing Day morning to a revised Sunday timetable. No Night Tub
  e services operate on Christmas Eve or Boxing Day.\nTfL live status (Part 
- Closure\, checked 26 November 2026): PICCADILLY LINE: Christmas Eve\, 24 D
+ Closure\, checked 27 November 2026): PICCADILLY LINE: Christmas Eve\, 24 D
  ecember\, no service between Rayners Lane and Uxbridge. Please use METROPO
- LITAN LINE services instead.\nTfL live status (Part Closure\, checked 26 N
+ LITAN LINE services instead.\nTfL live status (Part Closure\, checked 27 N
  ovember 2026): PICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 Janua
  ry\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN
   LINE services instead.\n\nSource: TfL planned track closures\, correct at
@@ -2750,7 +2805,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Eve\, Thursday 24 December\, the Lo
  ndon Cable Car will operate between 10:00 -18:00\n\nFrom TfL's live status
-  (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Check 
+  (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Check 
  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
   by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
  port for London.
@@ -2770,7 +2825,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Christmas Day\, Friday 25 December\, there wi
  ll be no service on the London Cable Car\n\nFrom TfL's live status (Planne
- d Closure)\, checked 26 November 2026.\n\nPlans can change. Check before y
+ d Closure)\, checked 27 November 2026.\n\nPlans can change. Check before y
  ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
  Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
   London.
@@ -2787,7 +2842,7 @@ UID:7608fa7a3db4ea6b8161@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2809,7 +2864,7 @@ UID:544e4d0f5049ad76b4f4@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2831,7 +2886,7 @@ UID:d111721548f2f4e5ea62@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2853,7 +2908,7 @@ UID:871bf4b18f97728d077b@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): DOCKLANDS LIGHT RAILWAY: Christmas Day\, 25
+ e\, checked 27 November 2026): DOCKLANDS LIGHT RAILWAY: Christmas Day\, 25
   December\, no service throughout the network. Services resume on Boxing D
  ay morning to a revised Sunday timetable.\n\nSource: TfL planned track clo
  sures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/documen
@@ -2874,7 +2929,7 @@ UID:2bf830a95f1868481fa2@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2896,7 +2951,7 @@ UID:47d2ca06bc49bc13498f@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): ELIZABETH LINE: Christmas Day\, 25 December
+ e\, checked 27 November 2026): ELIZABETH LINE: Christmas Day\, 25 December
  \, and Boxing Day\, 26 December\, no service throughout the network. Servi
  ces resume on Sunday 27 December to a revised Sunday timetable.\n\nSource:
   TfL planned track closures\, correct at Monday 16 November 2026. https://
@@ -2917,7 +2972,7 @@ UID:ba430c3534a5e5626a54@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2939,7 +2994,7 @@ UID:2a10e50bf24c484c8504@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -2961,7 +3016,7 @@ UID:f96f7c6bdf5643fa4eb0@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LIBERTY LINE: Christmas Day\, 25 December\,
+ e\, checked 27 November 2026): LIBERTY LINE: Christmas Day\, 25 December\,
   and Boxing Day\, 26 December\, no service on the line. Services resume on
   Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL planned 
  track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/ap
@@ -2982,7 +3037,7 @@ UID:ff4ed4241afc561c1229@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LIONESS LINE: Christmas Day\, 25 December\,
+ e\, checked 27 November 2026): LIONESS LINE: Christmas Day\, 25 December\,
   and Boxing Day\, 26 December\, no service on the line. Services resume on
   Sunday 27 December to a revised Sunday timetable. On Boxing Day\, use BAK
  ERLOO LINE services between Queens Park and Harrow & Wealdstone.\n\nSource
@@ -3004,7 +3059,7 @@ UID:f9daa130c57d2c8ffbbc@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON TRAMS: Christmas Day\, 25 December\,
+ e\, checked 27 November 2026): LONDON TRAMS: Christmas Day\, 25 December\,
   no service throughout the network. Services resume on Boxing Day morning 
  to a revised Sunday timetable.\n\nSource: TfL planned track closures\, cor
  rect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtr
@@ -3025,7 +3080,7 @@ UID:6e8e74242517c3ee4794@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -3047,7 +3102,7 @@ UID:e543735efde86ff5cd12@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): MILDMAY LINE: Christmas Day\, 25 December\,
+ e\, checked 27 November 2026): MILDMAY LINE: Christmas Day\, 25 December\,
   no service throughout the line. Services resume on Boxing Day morning to 
  a revised Sunday timetable.\n\nSource: TfL planned track closures\, correc
  t at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrack
@@ -3068,7 +3123,7 @@ UID:cf05f270c97939611760@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -3090,7 +3145,7 @@ UID:e8e637ba24f2d3771e77@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -3112,7 +3167,7 @@ UID:87d2b1870ea85480c019@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): SUFFRAGETTE LINE: Christmas Day\, 25 Decemb
+ e\, checked 27 November 2026): SUFFRAGETTE LINE: Christmas Day\, 25 Decemb
  er\, and Boxing Day\, 26 December\, no service on the line. Services resum
  e on Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL plan
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
@@ -3133,7 +3188,7 @@ UID:26d8c0affb8929fdabdc@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -3155,10 +3210,10 @@ UID:b01fe42e4172122e24d7@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
- or Boxing Day.\nTfL live status (Planned Closure\, checked 26 November 202
+ or Boxing Day.\nTfL live status (Planned Closure\, checked 27 November 202
  6): Waterloo & City line: service operates 06:00 until 00:30\, Monday to F
  riday only. There is no service on Saturdays\, Sundays and on bank/public 
  holidays.\n\nSource: TfL planned track closures\, correct at Monday 16 Nov
@@ -3180,7 +3235,7 @@ UID:cb24a271f9de14381cd5@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): WEAVER LINE: Christmas Day\, 25 December\, 
+ e\, checked 27 November 2026): WEAVER LINE: Christmas Day\, 25 December\, 
  and Boxing Day\, 26 December\, no service on the line. Services resume on 
  Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL planned t
  rack closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api
@@ -3201,7 +3256,7 @@ UID:9a9a76d37a7e5d0307d1@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): WINDRUSH LINE: Christmas Day\, 25 December
+ e\, checked 27 November 2026): WINDRUSH LINE: Christmas Day\, 25 December
  \, no service throughout the line. Services resume on Boxing Day morning t
  o a revised Sunday timetable.\n\nSource: TfL planned track closures\, corr
  ect at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtra
@@ -3225,7 +3280,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3242,7 +3297,7 @@ UID:f66ce9d3603ae2c4cbd1@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 26 November 2026): ELIZABETH LINE: Christmas Day\, 25 Dece
+ osure\, checked 27 November 2026): ELIZABETH LINE: Christmas Day\, 25 Dece
  mber\, and Boxing Day\, 26 December\, no service throughout the network. S
  ervices resume on Sunday 27 December to a revised Sunday timetable.\n\nSou
  rce: TfL planned track closures\, correct at Monday 16 November 2026. http
@@ -3263,7 +3318,7 @@ UID:c2088a0cbe274b15f465@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 26 November 2026): LIBERTY LINE: Christmas Day\, 25 Decemb
+ osure\, checked 27 November 2026): LIBERTY LINE: Christmas Day\, 25 Decemb
  er\, and Boxing Day\, 26 December\, no service on the line. Services resum
  e on Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL plan
  ned track closures\, correct at Monday 16 November 2026. https://tfl.gov.u
@@ -3284,7 +3339,7 @@ UID:48fb1ca62c500a664814@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 26 November 2026): LIONESS LINE: Christmas Day\, 25 Decemb
+ osure\, checked 27 November 2026): LIONESS LINE: Christmas Day\, 25 Decemb
  er\, and Boxing Day\, 26 December\, no service on the line. Services resum
  e on Sunday 27 December to a revised Sunday timetable. On Boxing Day\, use
   BAKERLOO LINE services between Queens Park and Harrow & Wealdstone.\n\nSo
@@ -3307,7 +3362,7 @@ UID:2f30a163f6540e7af3c3@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 26 November 2026): SUFFRAGETTE LINE: Christmas Day\, 25 De
+ osure\, checked 27 November 2026): SUFFRAGETTE LINE: Christmas Day\, 25 De
  cember\, and Boxing Day\, 26 December\, no service on the line. Services r
  esume on Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL 
  planned track closures\, correct at Monday 16 November 2026. https://tfl.g
@@ -3328,7 +3383,7 @@ UID:144230676b718508b9b6@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates 
  as listed by TfL: Saturday 26 December 2026\n\nTfL live status (Planned Cl
- osure\, checked 26 November 2026): WEAVER LINE: Christmas Day\, 25 Decembe
+ osure\, checked 27 November 2026): WEAVER LINE: Christmas Day\, 25 Decembe
  r\, and Boxing Day\, 26 December\, no service on the line. Services resume
   on Sunday 27 December to a revised Sunday timetable.\n\nSource: TfL plann
  ed track closures\, correct at Monday 16 November 2026. https://tfl.gov.uk
@@ -3352,7 +3407,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nWATERLOO & CITY LINE: Boxing Day\, 26 December\, Sunday 27 and 
  Monday 28 December\, no service on the line.\n\nFrom TfL's live status (Pl
- anned Closure)\, checked 26 November 2026.\n\nPlans can change. Check befo
+ anned Closure)\, checked 27 November 2026.\n\nPlans can change. Check befo
  re you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by 
  TfL Open Data\nUnofficial calendar\, not produced or endorsed by Transport
   for London.
@@ -3369,7 +3424,7 @@ UID:1fc3a45f9f7955ed4993@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
  and Northolt\nDates as listed by TfL: Saturday 26 December 2026\n\nTfL liv
- e status (Part Closure\, checked 26 November 2026): CENTRAL LINE: Boxing D
+ e status (Part Closure\, checked 27 November 2026): CENTRAL LINE: Boxing D
  ay\, 26 December\, no service between White City and Ealing Broadway / Nor
  tholt. Replacement bus services operate.\n\nSource: TfL planned track clos
  ures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/document
@@ -3393,9 +3448,9 @@ DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
  d\nUpney to East Ham\, westbound\nDates as listed by TfL: Saturday 26 Dece
  mber to Tuesday 29 December 2026\nTfL's PDF lists this closure in more tha
  n one week\; it's shown here as one event.\n\nTfL live status (Part Closur
- e\, checked 26 November 2026): DISTRICT LINE: Boxing Day\, 26 December to 
+ e\, checked 27 November 2026): DISTRICT LINE: Boxing Day\, 26 December to 
  New Years Day\, 1 January\, no service between Earls Court and Kensington 
- Olympia.\nTfL live status (Part Closure\, checked 26 November 2026): DISTR
+ Olympia.\nTfL live status (Part Closure\, checked 27 November 2026): DISTR
  ICT LINE: Boxing Day\, 26 December to Tuesday 29 December\, no westbound s
  ervice from Upney to East Ham\, and no eastbound service from East Ham to 
  Barking. There will also be no HAMMERSMITH & CITY LINE services between Mo
@@ -3403,7 +3458,7 @@ DESCRIPTION:🚧 Part of the line closed\n\nEast Ham to Barking\, eastboun
  e between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upminster 
  on other days (no trains to/from Liverpool Street). Replacement bus servic
  e DL7 operates between East Ham\, Barking and Upminster.\nTfL live status 
- (Part Closure\, checked 26 November 2026): DISTRICT LINE: Boxing Day\, 26 
+ (Part Closure\, checked 27 November 2026): DISTRICT LINE: Boxing Day\, 26 
  December to Tuesday 29 December\, no westbound service from Upney to East 
  Ham\, and no eastbound service from East Ham to Barking. Replacement bus s
  ervice DL7 operates between East Ham\, Barking and Upminster.\n\nSource: T
@@ -3428,17 +3483,17 @@ DESCRIPTION:🚧 Part of the line closed\n\nLiverpool Street (National Rai
  l) and Stratford to Romford\nDates as listed by TfL: Saturday 26 December 
  to Sunday 3 January 2027\nTfL's PDF lists this closure in more than one we
  ek\; it's shown here as one event.\n\nTfL live status (Part Closure\, chec
- ked 26 November 2026): ELIZABETH LINE: Thursday 31 December\, New Years Da
+ ked 27 November 2026): ELIZABETH LINE: Thursday 31 December\, New Years Da
  y 1 January and Saturday 2 January\, no service between West Drayton and R
  eading. Use GWR services between Slough and Reading. There will also be no
   GWR services between Paddington and Slough / Greenford\, with some long d
  istance services diverted to/from Euston\, not serving Reading. Replacemen
- t buses operate.\nTfL live status (Part Closure\, checked 26 November 2026
+ t buses operate.\nTfL live status (Part Closure\, checked 27 November 2026
  ): ELIZABETH LINE: Sunday 3 January\, no service between West Drayton and 
  Reading. Use GWR services between Maidenhead and Reading. There will also 
  be no GWR services between Paddington and Maidenhead\, with some long dist
  ance services diverted to/from Euston\, not serving Reading. Replacement b
- uses operate.\nTfL live status (Planned Closure\, checked 26 November 2026
+ uses operate.\nTfL live status (Planned Closure\, checked 27 November 2026
  ): ELIZABETH LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 Decem
  ber\, no service throughout the network. Services resume on Sunday 27 Dece
  mber to a revised Sunday timetable.\n\nSource: TfL planned track closures
@@ -3461,18 +3516,18 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nPaddington to Heathrow and Slo
  ugh\nDates as listed by TfL: Saturday 26 December to Wednesday 30 December
   2026\nTfL's PDF lists this closure in more than one week\; it's shown her
- e as one event.\n\nTfL live status (Planned Closure\, checked 26 November 
+ e as one event.\n\nTfL live status (Planned Closure\, checked 27 November 
  2026): ELIZABETH LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 D
  ecember\, no service throughout the network. Services resume on Sunday 27 
  December to a revised Sunday timetable.\nTfL live status (Part Closure\, c
- hecked 26 November 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 Decemb
+ hecked 27 November 2026): ELIZABETH LINE: Sunday 27 to Wednesday 30 Decemb
  er\, no service between Paddington and Heathrow (all terminals) / Reading.
   Use GWR services between Slough and Reading. There will also be no HEATHR
  OW EXPRESS services\, or GWR services between Paddington and Slough / Gree
  nford\, with some long distance services diverted to/from Euston not servi
  ng Reading. Use PICCADILLY LINE services between Central London and Heathr
  ow\, and between Heathrow terminals. Replacement buses operate.\nTfL live 
- status (Part Closure\, checked 26 November 2026): ELIZABETH LINE: From Sun
+ status (Part Closure\, checked 27 November 2026): ELIZABETH LINE: From Sun
  day 27 December until Sunday 3 January\, no service between Stratford and 
  Romford. The limited services to/from Liverpool Street National Rail stati
  on will also not operate. There will also be no GREATER ANGLIA services be
@@ -3501,7 +3556,7 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nMoorgate to Barking\nDates as 
  listed by TfL: Saturday 26 December to Tuesday 29 December 2026\nTfL's PDF
   lists this closure in more than one week\; it's shown here as one event.
- \n\nTfL live status (Part Closure\, checked 26 November 2026): HAMMERSMITH
+ \n\nTfL live status (Part Closure\, checked 27 November 2026): HAMMERSMITH
   & CITY LINE: Boxing Day\, 26 December to Tuesday 29 December\, no service
   between Moorgate and Barking. There will also be no DISTRICT LINE service
   between East Ham and Barking / Upney. c2c services will not operate on Bo
@@ -3528,7 +3583,7 @@ UID:4eac2429121c34a04a11@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWillesden Junction to Richmond
   and Shepherd's Bush\nDates as listed by TfL: Saturday 26 December 2026\n
- \nTfL live status (Part Closure\, checked 26 November 2026): MILDMAY LINE:
+ \nTfL live status (Part Closure\, checked 27 November 2026): MILDMAY LINE:
   Boxing Day\, 26 December\, no service between Willesden Junction and Rich
  mond / Shepherds Bush. Please use local London Buses services\, and DISTRI
  CT LINE services between Gunnersbury\, Kew Gardens and Richmond.\n\nSource
@@ -3551,10 +3606,10 @@ UID:ac9deaa76f662c9e88d2@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nSurrey Quays to New Cross and 
  Clapham Junction\nSydenham to Crystal Palace\nDates as listed by TfL: Satu
- rday 26 December 2026\n\nTfL live status (Part Closure\, checked 26 Novemb
+ rday 26 December 2026\n\nTfL live status (Part Closure\, checked 27 Novemb
  er 2026): WINDRUSH LINE: Boxing Day\, 26 December\, no service between Sur
  rey Quays and Battersea Park / Clapham Junction / New Cross.\nTfL live sta
- tus (Part Closure\, checked 26 November 2026): WINDRUSH LINE: Boxing Day\,
+ tus (Part Closure\, checked 27 November 2026): WINDRUSH LINE: Boxing Day\,
   26 December\, no service between Sydenham and Crystal Palace.\n\nSource: 
  TfL planned track closures\, correct at Monday 16 November 2026. https://t
  fl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b
@@ -3577,7 +3632,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3598,7 +3653,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nWINDRUSH LINE: Sunday 27 December\, no service between Surrey Q
  uays and New Cross. Customers should use Windrush Line services to New Cro
  ss Gate and then walk or use local bus routes 53\, 177 or 453.\n\nFrom TfL
- 's live status (Part Closure)\, checked 26 November 2026.\n\nPlans can cha
+ 's live status (Part Closure)\, checked 27 November 2026.\n\nPlans can cha
  nge. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/statu
  s/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or endors
  ed by Transport for London.
@@ -3616,12 +3671,12 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWoodgrange Park to Barking Riv
  erside\nDates as listed by TfL: Sunday 27 December to Tuesday 29 December 
  2026\nTfL's PDF lists this closure in more than one week\; it's shown here
-  as one event.\n\nTfL live status (Part Closure\, checked 26 November 2026
+  as one event.\n\nTfL live status (Part Closure\, checked 27 November 2026
  ): SUFFRAGETTE LINE: Sunday 27\, Monday 28 and Tuesday 29 December\, no se
  rvice between Woodgrange Park and Barking Riverside. Replacement bus servi
  ce T operates between Woodgrange Park\, East Ham and Barking\, use local L
  ondon Buses services for Barking Riverside.\nTfL live status (Reduced Serv
- ice\, checked 26 November 2026): SUFFRAGETTE LINE: Sunday 27\, Monday 28 a
+ ice\, checked 27 November 2026): SUFFRAGETTE LINE: Sunday 27\, Monday 28 a
  nd Tuesday 29 December\, a reduced service operates between Gospel Oak and
   Woodgrange Park. Trains operate every 20 minutes. In addition\, on Monday
   only\, the 0543 and 0557 first trains from Woodgrange Park to Gospel Oak 
@@ -3649,7 +3704,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ston to Watford Junction will start from Willesden Junction at 0700. Custo
  mers from Euston and intermediate stations should use the Bakerloo line. T
  he 1000 train from Watford Junction to Euston will start from Willesden Ju
- nction at 1034\n\nFrom TfL's live status (Part Closure)\, checked 26 Novem
+ nction at 1034\n\nFrom TfL's live status (Part Closure)\, checked 27 Novem
  ber 2026.\n\nPlans can change. Check before you travel: https://tfl.gov.uk
  /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
  r\, not produced or endorsed by Transport for London.
@@ -3669,7 +3724,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3689,7 +3744,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3709,7 +3764,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3729,7 +3784,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: Boxing Day Saturday 26 until Wednesday 30 Dec
  ember\, the London Cable Car will operate between 09:00 - 21:00\n\nFrom Tf
- L's live status (Planned Closure)\, checked 26 November 2026.\n\nPlans can
+ L's live status (Planned Closure)\, checked 27 November 2026.\n\nPlans can
   change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground/s
  tatus/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or en
  dorsed by Transport for London.
@@ -3749,7 +3804,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: New Year's Eve Thursday 31 December\, the Lon
  don Cable Car will operate between 09:00 - 22:30\n\nFrom TfL's live status
-  (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Check 
+  (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Check 
  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
   by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
  port for London.
@@ -3769,7 +3824,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nWATERLOO & CITY LINE: Thursday 31 December to Sunday 3 January
  \, no service on the line.\n\nFrom TfL's live status (Planned Closure)\, c
- hecked 26 November 2026.\n\nPlans can change. Check before you travel: htt
+ hecked 27 November 2026.\n\nPlans can change. Check before you travel: htt
  ps://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\nUno
  fficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -3785,18 +3840,18 @@ UID:8b83ea159036ec324e09@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWest Drayton to Slough\nDates 
  as listed by TfL: Thursday 31 December to Sunday 3 January 2027\n\nTfL liv
- e status (Part Closure\, checked 26 November 2026): ELIZABETH LINE: Thursd
+ e status (Part Closure\, checked 27 November 2026): ELIZABETH LINE: Thursd
  ay 31 December\, New Years Day 1 January and Saturday 2 January\, no servi
  ce between West Drayton and Reading. Use GWR services between Slough and R
  eading. There will also be no GWR services between Paddington and Slough /
   Greenford\, with some long distance services diverted to/from Euston\, no
  t serving Reading. Replacement buses operate.\nTfL live status (Part Closu
- re\, checked 26 November 2026): ELIZABETH LINE: Sunday 3 January\, no serv
+ re\, checked 27 November 2026): ELIZABETH LINE: Sunday 3 January\, no serv
  ice between West Drayton and Reading. Use GWR services between Maidenhead 
  and Reading. There will also be no GWR services between Paddington and Mai
  denhead\, with some long distance services diverted to/from Euston\, not s
  erving Reading. Replacement buses operate.\nTfL live status (Part Closure
- \, checked 26 November 2026): ELIZABETH LINE: From Sunday 27 December unti
+ \, checked 27 November 2026): ELIZABETH LINE: From Sunday 27 December unti
  l Sunday 3 January\, no service between Stratford and Romford. The limited
   services to/from Liverpool Street National Rail station will also not ope
  rate. There will also be no GREATER ANGLIA services between Liverpool Stre
@@ -3829,7 +3884,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  ars Day 1 January\, no service between Surrey Quays and New Cross. Custome
  rs should use Windrush Line services to New Cross Gate and then walk or us
  e local bus routes 53\, 177 or 453.\n\nFrom TfL's live status (Part Closur
- e)\, checked 26 November 2026.\n\nPlans can change. Check before you trave
+ e)\, checked 27 November 2026.\n\nPlans can change. Check before you trave
  l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
  a\nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -3848,7 +3903,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: New Year's Eve Thursday 31 December\, the Lon
  don Cable Car will operate between 09:00 - 22:30\n\nFrom TfL's live status
-  (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Check 
+  (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Check 
  before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered
   by TfL Open Data\nUnofficial calendar\, not produced or endorsed by Trans
  port for London.
@@ -3868,7 +3923,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: New Year's Day\, Friday 1 January 2027 \, the
   London Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live st
- atus (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Ch
+ atus (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Ch
  eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
  ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
  ransport for London.
@@ -3889,7 +3944,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and
   0900\, no service between Baker Street and Aldgate. Use CIRCLE and HAMMER
  SMITH & CITY LINE services instead.\n\nFrom TfL's live status (Part Closur
- e)\, checked 26 November 2026.\n\nPlans can change. Check before you trave
+ e)\, checked 27 November 2026.\n\nPlans can change. Check before you trave
  l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
  a\nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -3908,7 +3963,7 @@ CATEGORIES:Update from TfL's live status (not in the planned closures list
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nLondon Cable Car: New Year's Day\, Friday 1 January 2027 \, the
   London Cable Car will operate between 09:00 - 21:00\n\nFrom TfL's live st
- atus (Planned Closure)\, checked 26 November 2026.\n\nPlans can change. Ch
+ atus (Planned Closure)\, checked 27 November 2026.\n\nPlans can change. Ch
  eck before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPow
  ered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by T
  ransport for London.
@@ -3927,12 +3982,12 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nMarble A
  rch to Ealing Broadway during Saturday Night Tube only\nDates as listed by
   TfL: Saturday 2 January to Sunday 3 January 2027\n\nTfL live status (Part
-  Closure\, checked 26 November 2026): CENTRAL LINE: Sunday 3 January\, bet
+  Closure\, checked 27 November 2026): CENTRAL LINE: Sunday 3 January\, bet
  ween 0215 and 0445\, no service between Marble Arch and Ealing Broadway. R
  eplacement bus service CL1 operates between Marble Arch and Ealing Broadwa
  y via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shep
  herds Bush\, White City\, East Acton\, North Acton\, West Acton and Ealing
-  Common.\nTfL live status (Part Closure\, checked 26 November 2026): CENTR
+  Common.\nTfL live status (Part Closure\, checked 27 November 2026): CENTR
  AL LINE: Sunday 3 January\, from 0445\, no service between White City and 
  Ealing Broadway / West Ruislip. Replacement bus services operate.\n\nSourc
  e: TfL planned track closures\, correct at Monday 16 November 2026. https:
@@ -3955,12 +4010,12 @@ CATEGORIES:Reduced service or trains not stopping at some stations
 DESCRIPTION:⚠️ Reduced service or trains not stopping at some stations
  \n\nActon Main Line\, Hanwell and West Ealing stations: Trains will not st
  op\nDates as listed by TfL: Sunday 3 January 2027\n\nTfL live status (Part
-  Closure\, checked 26 November 2026): ELIZABETH LINE: Sunday 3 January\, n
+  Closure\, checked 27 November 2026): ELIZABETH LINE: Sunday 3 January\, n
  o service between West Drayton and Reading. Use GWR services between Maide
  nhead and Reading. There will also be no GWR services between Paddington a
  nd Maidenhead\, with some long distance services diverted to/from Euston\,
   not serving Reading. Replacement buses operate.\nTfL live status (Part Cl
- osure\, checked 26 November 2026): ELIZABETH LINE: From Sunday 27 December
+ osure\, checked 27 November 2026): ELIZABETH LINE: From Sunday 27 December
   until Sunday 3 January\, no service between Stratford and Romford. The li
  mited services to/from Liverpool Street National Rail station will also no
  t operate. There will also be no GREATER ANGLIA services between Liverpool
@@ -3988,7 +4043,7 @@ UID:f5cbb8f4b9b51249e79b@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\, until
   10:15\nDates as listed by TfL: Sunday 3 January 2027\n\nTfL live status (
- Part Closure\, checked 26 November 2026): WEAVER LINE: Sunday 3 January\, 
+ Part Closure\, checked 27 November 2026): WEAVER LINE: Sunday 3 January\, 
  until 1015\, no service between Liverpool Street and Cheshunt / Chingford 
  / Enfield Town. Use local London Buses and London Underground connections 
  between Central London and Hackney Downs / Seven Sisters. Replacement buse
@@ -4011,12 +4066,12 @@ UID:9c6eedca91c9204b1310@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nWhite City to Ealing Broadway 
  and West Ruislip\nDates as listed by TfL: Sunday 3 January 2027\n\nTfL liv
- e status (Part Closure\, checked 26 November 2026): CENTRAL LINE: Sunday 3
+ e status (Part Closure\, checked 27 November 2026): CENTRAL LINE: Sunday 3
   January\, between 0215 and 0445\, no service between Marble Arch and Eali
  ng Broadway. Replacement bus service CL1 operates between Marble Arch and 
  Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holla
  nd Park\, Shepherds Bush\, White City\, East Acton\, North Acton\, West Ac
- ton and Ealing Common.\nTfL live status (Part Closure\, checked 26 Novembe
+ ton and Ealing Common.\nTfL live status (Part Closure\, checked 27 Novembe
  r 2026): CENTRAL LINE: Sunday 3 January\, from 0445\, no service between W
  hite City and Ealing Broadway / West Ruislip. Replacement bus services ope
  rate.\n\nSource: TfL planned track closures\, correct at Monday 16 Novembe
@@ -4042,7 +4097,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4063,7 +4118,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4084,7 +4139,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4105,7 +4160,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4127,7 +4182,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4148,7 +4203,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4169,7 +4224,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4190,7 +4245,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4211,7 +4266,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4232,7 +4287,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4253,7 +4308,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -4272,7 +4327,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Tuesday 5 January to Thursday 7 January 2027\n\nTfL live status (Part Clos
- ure\, checked 26 November 2026): WEAVER LINE: Tuesday 5\, Wednesday 6 and 
+ ure\, checked 27 November 2026): WEAVER LINE: Tuesday 5\, Wednesday 6 and 
  Thursday 7 January\, after 2245 each evening\, no service between Hackney 
  Downs and Cheshunt / Enfield Town. Use London Underground connections betw
  een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
@@ -4303,7 +4358,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4324,7 +4379,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4345,7 +4400,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4366,7 +4421,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4388,7 +4443,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4409,7 +4464,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4430,7 +4485,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4451,7 +4506,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4472,7 +4527,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4493,7 +4548,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4514,7 +4569,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -4533,7 +4588,7 @@ CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
  Tuesday 5 January to Thursday 7 January 2027\n\nTfL live status (Part Clos
- ure\, checked 26 November 2026): WEAVER LINE: Tuesday 5\, Wednesday 6 and 
+ ure\, checked 27 November 2026): WEAVER LINE: Tuesday 5\, Wednesday 6 and 
  Thursday 7 January\, after 2245 each evening\, no service between Hackney 
  Downs and Cheshunt / Enfield Town. Use London Underground connections betw
  een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
@@ -4561,12 +4616,21 @@ UID:41ea11473d8065bc55b3@tfl-closures
 CATEGORIES:Closure in the late evening or overnight only
 DESCRIPTION:🌙 Closure in the late evening or overnight only\n\nHackney 
  Downs to Enfield Town and Cheshunt\, after 22:45\nDates as listed by TfL: 
- Tuesday 5 January to Thursday 7 January 2027\n\nSource: TfL planned track 
- closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/docu
- ment/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type
- =document\nPlans can change. Check before you travel: https://tfl.gov.uk/t
- ube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calendar
- \, not produced or endorsed by Transport for London.
+ Tuesday 5 January to Thursday 7 January 2027\n\nTfL live status (Part Clos
+ ure\, checked 27 November 2026): WEAVER LINE: Tuesday 5\, Wednesday 6 and 
+ Thursday 7 January\, after 2245 each evening\, no service between Hackney 
+ Downs and Cheshunt / Enfield Town. Use London Underground connections betw
+ een Central London and Seven Sisters\, and for Rectory Road and Stoke Newi
+ ngton\, use Clapton station. Last trains operate at 2243 from Liverpool St
+ reet to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfi
+ eld Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town 
+ and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.\n\n
+ Source: TfL planned track closures\, correct at Monday 16 November 2026. h
+ ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
+ 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
+ avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
+ Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
+ on.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

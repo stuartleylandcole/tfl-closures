@@ -31,26 +31,20 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Metropolitan: Metropolitan Line: No service between Baker Str
- eet and Aldgate and SEVERE DELAYS on the…
-DTSTART;TZID=Europe/London:20261126T122609
-DTEND;TZID=Europe/London:20261126T182732
+SUMMARY:📢 Metropolitan: Metropolitan Line: No service on the entire lin
+ e due to strike action
+DTSTART;TZID=Europe/London:20261127T003759
+DTEND;TZID=Europe/London:20261127T040135
 DTSTAMP:20261116T000000Z
-UID:95fc2d0b2166e322b3af@tfl-closures
+UID:9b5e85ba57c7f573be97@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nMetropolitan Line: No service between Baker Street and Aldgate 
- and SEVERE DELAYS on the rest of the line due to strike action. Services a
- re operating between Baker Street and Watford / Uxbridge every 15 minutes
- \, between Baker Street and Amersham every 30 minutes and between Watford 
- and Chesham every 30 minutes. Customers travelling to Chesham are advised 
- to go to Watford and change. Tube services will finish early tonight so pl
- ease complete your journey by 21:00.\n\nFrom TfL's live status (Part Suspe
- nded)\, checked 26 November 2026.\n\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ s list)\n\nMetropolitan Line: No service on the entire line due to strike 
+ action.\n\nFrom TfL's live status (Suspended)\, checked 27 November 2026.
+ \n\nPlans can change. Check before you travel: https://tfl.gov.uk/tube-dlr
+ -overground/status/\nPowered by TfL Open Data\nUnofficial calendar\, not p
+ roduced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -64,7 +58,7 @@ UID:103c2b61082ff6dd0e66@tfl-closures
 CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
   as listed by TfL: Saturday 28 November to Sunday 29 November 2026\n\nTfL 
- live status (Part Closure\, checked 26 November 2026): METROPOLITAN LINE: 
+ live status (Part Closure\, checked 27 November 2026): METROPOLITAN LINE: 
  Saturday 28 and Sunday 29 November\, no service between Baker Street and A
  ldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services o
  n this section.\n\nSource: TfL planned track closures\, correct at Monday 
@@ -90,7 +84,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -111,7 +105,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 Decembe
  r. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
@@ -148,7 +142,7 @@ UID:6e8e74242517c3ee4794@tfl-closures
 CATEGORIES:Whole line closed
 DESCRIPTION:⛔ Whole line closed\n\nNo service on Christmas Day\nDates as
   listed by TfL: Friday 25 December 2026\n\nTfL live status (Planned Closur
- e\, checked 26 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
+ e\, checked 27 November 2026): LONDON UNDERGROUND: Christmas Day\, 25 Dece
  mber\, no service on any line. Services resume on Boxing Day morning to a 
  revised Sunday timetable. No Night Tube services operate on Christmas Eve 
  or Boxing Day.\n\nSource: TfL planned track closures\, correct at Monday 1
@@ -174,7 +168,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  s list)\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and
   0900\, no service between Baker Street and Aldgate. Use CIRCLE and HAMMER
  SMITH & CITY LINE services instead.\n\nFrom TfL's live status (Part Closur
- e)\, checked 26 November 2026.\n\nPlans can change. Check before you trave
+ e)\, checked 27 November 2026.\n\nPlans can change. Check before you trave
  l: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Dat
  a\nUnofficial calendar\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
@@ -194,7 +188,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. T
  here is likely to be some disruption across all Underground lines\, but tr
  ains are expected to run on most lines.\n\nFrom TfL's live status (Special
-  Service)\, checked 26 November 2026.\n\nPlans can change. Check before yo
+  Service)\, checked 27 November 2026.\n\nPlans can change. Check before yo
  u travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL O
  pen Data\nUnofficial calendar\, not produced or endorsed by Transport for 
  London.
@@ -215,7 +209,7 @@ DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
  to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 Januar
  y. There is likely to be some disruption across all Underground lines\, bu
  t trains are expected to run on most lines.\n\nFrom TfL's live status (Spe
- cial Service)\, checked 26 November 2026.\n\nPlans can change. Check befor
+ cial Service)\, checked 27 November 2026.\n\nPlans can change. Check befor
  e you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by T
  fL Open Data\nUnofficial calendar\, not produced or endorsed by Transport 
  for London.
