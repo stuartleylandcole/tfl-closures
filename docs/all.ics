@@ -291,29 +291,6 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
- imately\, and Sunday 29 November\,…
-DTSTART;TZID=Europe/London:20261128T004500
-DTEND;TZID=Europe/London:20261128T053000
-DTSTAMP:20261116T000000Z
-UID:850e5f7a71e887d97eff@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
- roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
- \, no Friday and Saturday Night Tube service between Kennington and Stockw
- ell. For travel between Central London and Stockwell\, and stations to Mor
- den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
- etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 28 November 2026.\n\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
- \nUnofficial calendar\, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⛔ Hammersmith & City: No service on the entire line
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
@@ -326,14 +303,12 @@ DESCRIPTION:⛔ Whole line closed\n\nNo service on the entire line\nDates
  Y LINE: Saturday 28 and Sunday 29 November\, no service on the entire line
  . There will also be no CIRCLE LINE service between Hammersmith / High Str
  eet Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT L
- INE services between Aldgate East and Barking.\nTfL live status (Minor Del
- ays\, checked 28 November 2026): Hammersmith and City Line: Minor delays d
- ue to train cancellations.\n\nSource: TfL planned track closures\, correct
-  at Monday 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackc
- losures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans c
- an change. Check before you travel: https://tfl.gov.uk/tube-dlr-overground
- /status/\nPowered by TfL Open Data\nUnofficial calendar\, not produced or 
- endorsed by Transport for London.
+ INE services between Aldgate East and Barking.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -349,15 +324,14 @@ CATEGORIES:Part of the line closed
 DESCRIPTION:🚧 Part of the line closed\n\nHammersmith to Tower Hill\nEdg
  ware Road to High Street Kensington\nDates as listed by TfL: Saturday 28 N
  ovember to Sunday 29 November 2026\n\nTfL live status (Part Closure\, chec
- ked 28 November 2026): CIRCLE LINE: Saturday 28 and Sunday 29 November\, n
- o service between Hammersmith / High Street Kensington and Tower Hill (via
-  Kings Cross St Pancras)\nTfL live status (Minor Delays\, checked 28 Novem
- ber 2026): Circle Line: Minor delays due to train cancellations.\n\nSource
- : TfL planned track closures\, correct at Monday 16 November 2026. https:/
- /tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a4
- 3b-3de08a097b8f&type=document\nPlans can change. Check before you travel: 
- https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data\n
- Unofficial calendar\, not produced or endorsed by Transport for London.
+ ked 28 November 2026): Circle Line : Saturday 28 and Sunday 29 November - 
+ No service between Hammersmith and Tower Hill\, Edgware Road and High Stre
+ et Kensington due to planned engineering work.\n\nSource: TfL planned trac
+ k closures\, correct at Monday 16 November 2026. https://tfl.gov.uk/api/do
+ cument/plannedtrackclosures.pdf?id=accc98cf-e761-47b3-a43b-3de08a097b8f&ty
+ pe=document\nPlans can change. Check before you travel: https://tfl.gov.uk
+ /tube-dlr-overground/status/\nPowered by TfL Open Data\nUnofficial calenda
+ r\, not produced or endorsed by Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -449,15 +423,12 @@ DESCRIPTION:🚧 Part of the line closed\n\nBaker Street to Aldgate\nDates
  live status (Part Closure\, checked 28 November 2026): METROPOLITAN LINE: 
  Saturday 28 and Sunday 29 November\, no service between Baker Street and A
  ldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services o
- n this section.\nTfL live status (Minor Delays\, checked 28 November 2026)
- : Metropolitan Line: Minor delays between Harrow on the Hill and Uxbridge 
- due to the earlier strike action. GOOD SERVICE on the rest of the line\n\n
- Source: TfL planned track closures\, correct at Monday 16 November 2026. h
- ttps://tfl.gov.uk/api/document/plannedtrackclosures.pdf?id=accc98cf-e761-4
- 7b3-a43b-3de08a097b8f&type=document\nPlans can change. Check before you tr
- avel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open 
- Data\nUnofficial calendar\, not produced or endorsed by Transport for Lond
- on.
+ n this section.\n\nSource: TfL planned track closures\, correct at Monday 
+ 16 November 2026. https://tfl.gov.uk/api/document/plannedtrackclosures.pdf
+ ?id=accc98cf-e761-47b3-a43b-3de08a097b8f&type=document\nPlans can change. 
+ Check before you travel: https://tfl.gov.uk/tube-dlr-overground/status/\nP
+ owered by TfL Open Data\nUnofficial calendar\, not produced or endorsed by
+  Transport for London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -499,24 +470,23 @@ URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
- imately\, and Sunday 29 November\,…
-DTSTART;TZID=Europe/London:20261129T004500
-DTEND;TZID=Europe/London:20261129T071000
+SUMMARY:📢 Piccadilly: Piccadilly Line: No service between Uxbridge and 
+ Rayners Lane to prevent damage to train…
+DTSTART;TZID=Europe/London:20261128T132535
+DTEND;TZID=Europe/London:20261128T172120
 DTSTAMP:20261116T000000Z
-UID:25c44cb7e0d6930e9d1b@tfl-closures
+UID:76559cf49eed6f9be8b7@tfl-closures
 CATEGORIES:Update from TfL's live status (not in the planned closures list
  )
 DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
- roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
- \, no Friday and Saturday Night Tube service between Kennington and Stockw
- ell. For travel between Central London and Stockwell\, and stations to Mor
- den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
- etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 28 November 2026.\n\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
- \nUnofficial calendar\, not produced or endorsed by Transport for London.
+ s list)\n\nPiccadilly Line: No service between Uxbridge and Rayners Lane t
+ o prevent damage to train wheels caused by significant leaf fall expected 
+ during severe weather conditions. Tickets are being accepted on London Bus
+ es. GOOD SERVICE on the rest of the line.\n\nFrom TfL's live status (Part 
+ Suspended)\, checked 28 November 2026.\n\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
 TRANSP:TRANSPARENT
 URL:https://tfl.gov.uk/tube-dlr-overground/status/
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

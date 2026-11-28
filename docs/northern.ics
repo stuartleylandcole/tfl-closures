@@ -31,52 +31,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
- imately\, and Sunday 29 November\,…
-DTSTART;TZID=Europe/London:20261128T004500
-DTEND;TZID=Europe/London:20261128T053000
-DTSTAMP:20261116T000000Z
-UID:850e5f7a71e887d97eff@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
- roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
- \, no Friday and Saturday Night Tube service between Kennington and Stockw
- ell. For travel between Central London and Stockwell\, and stations to Mor
- den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
- etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 28 November 2026.\n\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
- \nUnofficial calendar\, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📢 Northern: Saturday 28 November\, between 0045 and 0530 approx
- imately\, and Sunday 29 November\,…
-DTSTART;TZID=Europe/London:20261129T004500
-DTEND;TZID=Europe/London:20261129T071000
-DTSTAMP:20261116T000000Z
-UID:25c44cb7e0d6930e9d1b@tfl-closures
-CATEGORIES:Update from TfL's live status (not in the planned closures list
- )
-DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
- s list)\n\nNORTHERN LINE: Saturday 28 November\, between 0045 and 0530 app
- roximately\, and Sunday 29 November\, between 0045 and 0710 approximately
- \, no Friday and Saturday Night Tube service between Kennington and Stockw
- ell. For travel between Central London and Stockwell\, and stations to Mor
- den\, please use the Victoria line. For Oval\, please use Night Bus N155 b
- etween Kennington and Stockwell.\n\nFrom TfL's live status (Part Closure)
- \, checked 28 November 2026.\n\nPlans can change. Check before you travel:
-  https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL Open Data
- \nUnofficial calendar\, not produced or endorsed by Transport for London.
-TRANSP:TRANSPARENT
-URL:https://tfl.gov.uk/tube-dlr-overground/status/
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📢 Northern: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900

@@ -13,8 +13,8 @@
     "hammersmith-city": 12,
     "jubilee": 11,
     "metropolitan": 12,
-    "northern": 11,
-    "piccadilly": 21,
+    "northern": 9,
+    "piccadilly": 22,
     "victoria": 6,
     "waterloo-city": 8,
     "elizabeth": 70,
@@ -27,7 +27,7 @@
     "windrush": 59,
     "tram": 3,
     "london-cable-car": 18,
-    "all": 462
+    "all": 461
   },
   "date_warnings": [
     "p12 Central: TfL's PDF says 'Sunday 30 January', but 30 January 2027 is a Saturday. Assumed Sunday 31 January.",
@@ -85,8 +85,6 @@
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Mon 4 Jan 12:00)",
     "Live only: Metropolitan: Some London Underground Tube drivers are planning to take strike action from 12:00… (Wed 6 Jan 12:00)",
-    "Live only: Northern: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November,… (Sat 28 Nov 00:45)",
-    "Live only: Northern: Saturday 28 November, between 0045 and 0530 approximately, and Sunday 29 November,… (Sun 29 Nov 00:45)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Northern: Some London Underground Tube drivers are planning to take strike action from 12:00… (Mon 4 Jan 12:00)",
@@ -95,6 +93,7 @@
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Mon 4 Jan 12:00)",
     "Live only: Piccadilly: Some London Underground Tube drivers are planning to take strike action from 12:00… (Wed 6 Jan 12:00)",
+    "Live only: Piccadilly: Piccadilly Line: No service between Uxbridge and Rayners Lane to prevent damage to train… (Sat 28 Nov 13:25)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Thu 17 Dec 12:00)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Sat 19 Dec 12:00)",
     "Live only: Victoria: Some London Underground Tube drivers are planning to take strike action from 12:00… (Mon 4 Jan 12:00)",

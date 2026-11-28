@@ -31,6 +31,28 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:📢 Piccadilly: Piccadilly Line: No service between Uxbridge and 
+ Rayners Lane to prevent damage to train…
+DTSTART;TZID=Europe/London:20261128T132535
+DTEND;TZID=Europe/London:20261128T172120
+DTSTAMP:20261116T000000Z
+UID:76559cf49eed6f9be8b7@tfl-closures
+CATEGORIES:Update from TfL's live status (not in the planned closures list
+ )
+DESCRIPTION:📢 Update from TfL's live status (not in the planned closure
+ s list)\n\nPiccadilly Line: No service between Uxbridge and Rayners Lane t
+ o prevent damage to train wheels caused by significant leaf fall expected 
+ during severe weather conditions. Tickets are being accepted on London Bus
+ es. GOOD SERVICE on the rest of the line.\n\nFrom TfL's live status (Part 
+ Suspended)\, checked 28 November 2026.\n\nPlans can change. Check before y
+ ou travel: https://tfl.gov.uk/tube-dlr-overground/status/\nPowered by TfL 
+ Open Data\nUnofficial calendar\, not produced or endorsed by Transport for
+  London.
+TRANSP:TRANSPARENT
+URL:https://tfl.gov.uk/tube-dlr-overground/status/
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📢 Piccadilly: Strike planned\, services may be disrupted
 DTSTART;TZID=Europe/London:20261217T120000
 DTEND;TZID=Europe/London:20261218T115900
